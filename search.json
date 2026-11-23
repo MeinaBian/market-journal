@@ -32,14 +32,28 @@
     "href": "dashboard.html",
     "title": "Dashboard",
     "section": "",
-    "text": "Data through 2026-11-23\nHow to read the table"
+    "text": "Data through 2026-11-23"
+  },
+  {
+    "objectID": "dashboard.html#volatility-by-group",
+    "href": "dashboard.html#volatility-by-group",
+    "title": "Dashboard",
+    "section": "Volatility by group",
+    "text": "Volatility by group\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nsemiconductors\nsemiconductors: 108.2%\n108.2%\nlong-duration growth\nlong-duration growth: 49.7%\n49.7%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.1%\n43.1%\nbenchmark\nbenchmark: 37.0%\n37.0%\ninternational\ninternational: 35.8%\n35.8%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.8%\n26.8%\ndefensive\ndefensive: 20.6%\n20.6%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\nEach bar is the average annualized volatility of the tickers in that group, measured from daily returns over the last 20 trading days. Macro series are left out because a yield or an index level is not comparable with a tradable price. Hover over a bar for its value."
+  },
+  {
+    "objectID": "dashboard.html#reading-the-table",
+    "href": "dashboard.html#reading-the-table",
+    "title": "Dashboard",
+    "section": "Reading the table",
+    "text": "Reading the table\n\n1d % and 5d % are close-to-close returns over one and five trading days.\nvs 20d / 50d / 200d avg % show how far the latest close sits above (positive) or below (negative) its 20-, 50- and 200-day moving average: the short-, medium- and long-term trend.\ntrend is a rule-based label: Up when the close is above the 50-day average and the 50-day is above the 200-day; Down when both are reversed; Mixed otherwise. It describes the current trend. It is not a forecast and not a recommendation to buy or sell.\nPrices are daily closes from Yahoo Finance, adjusted for splits and dividends."
   },
   {
     "objectID": "dashboard.html#symbol-guide",
     "href": "dashboard.html#symbol-guide",
     "title": "Dashboard",
     "section": "Symbol guide",
-    "text": "Symbol guide\nMacro series\n\n\n\n\n\n\n\n\nSymbol\nWhat it is\nHow to read it\n\n\n\n\n^TNX\n10-year US Treasury yield, in percent\nRises when bond prices fall; the benchmark long-term interest rate\n\n\n^VIX\nCboe Volatility Index\nExpected S&P 500 volatility over the next 30 days; rises when investors are fearful\n\n\nDX-Y.NYB\nUS Dollar Index\nThe dollar against a basket of major currencies; rises when the dollar strengthens\n\n\nCL=F\nCrude oil futures (WTI), dollars per barrel\nThe US oil price benchmark\n\n\nGC=F\nGold futures, dollars per ounce\nThe gold price\n\n\nHG=F\nCopper futures, dollars per pound\nA gauge of global industrial demand\n\n\n\nHow the symbols are built\n\nA symbol starting with ^ is an index.\nA symbol ending in =F is a futures contract. The =F is a suffix added by Yahoo Finance, the data source, to mark futures; it is not part of the exchange’s own code.\nThe letters before =F are the exchange’s trading code for the product:\n\n\n\n\n\n\n\n\n\nSymbol\nExchange code\nStands for\n\n\n\n\nCL=F\nCL\nCrude Light: light sweet crude oil (WTI), traded on the New York Mercantile Exchange\n\n\nGC=F\nGC\nGold, traded on the COMEX exchange\n\n\nHG=F\nHG\nHigh Grade copper, traded on the COMEX exchange\n\n\n\nFutures contracts expire monthly. Each =F symbol shows the nearest contract and rolls to the next one automatically, so the price series can shift slightly on a roll date.\nFunds\n\n\n\nSymbol\nWhat it holds\n\n\n\n\nSPY, QQQ, IWM\nS&P 500, Nasdaq-100, and Russell 2000 small caps\n\n\nTLT\nLong-term US Treasury bonds (20+ years)\n\n\nTIP\nInflation-protected Treasury bonds\n\n\nLQD, HYG\nInvestment-grade and high-yield corporate bonds\n\n\nKRE\nUS regional banks\n\n\nXLU\nUS utilities\n\n\nSMH\nSemiconductor companies\n\n\nGLD, SLV\nPhysical gold and silver\n\n\nEEM, FXI, EWJ\nEmerging markets, large Chinese companies, and Japan\n\n\n\nAll other symbols are individual company stocks."
+    "text": "Symbol guide\nMacro series\n\n\n\n\n\n\n\n\nSymbol\nWhat it is\nHow to read it\n\n\n\n\n^TNX\n10-year US Treasury yield, in percent\nRises when bond prices fall; the benchmark long-term interest rate\n\n\n^VIX\nCboe Volatility Index\nExpected S&P 500 volatility over the next 30 days; rises when investors are fearful\n\n\nDX-Y.NYB\nUS Dollar Index\nThe dollar against a basket of major currencies; rises when the dollar strengthens\n\n\nCL=F\nCrude oil futures (WTI), dollars per barrel\nThe US oil price benchmark\n\n\nGC=F\nGold futures, dollars per ounce\nThe gold price\n\n\nHG=F\nCopper futures, dollars per pound\nA gauge of global industrial demand\n\n\n\nHow the symbols are built\n\nA symbol starting with ^ is an index.\nA symbol ending in =F is a futures contract. The =F is a suffix added by Yahoo Finance, the data source, to mark futures; it is not part of the exchange’s own code.\nThe letters before =F are the exchange’s trading code for the product:\n\n\n\n\n\n\n\n\n\nSymbol\nExchange code\nStands for\n\n\n\n\nCL=F\nCL\nCrude Light: light sweet crude oil (WTI), traded on the New York Mercantile Exchange\n\n\nGC=F\nGC\nGold, traded on the COMEX exchange\n\n\nHG=F\nHG\nHigh Grade copper, traded on the COMEX exchange\n\n\n\nFutures contracts expire monthly. Each =F symbol shows the nearest contract and rolls to the next one automatically, so the price series can shift slightly on a roll date.\nFunds\n\n\n\nSymbol\nWhat it holds\n\n\n\n\nSPY, QQQ, IWM\nS&P 500, Nasdaq-100, and Russell 2000 small caps\n\n\nTLT\nLong-term US Treasury bonds (20+ years)\n\n\nTIP\nInflation-protected Treasury bonds\n\n\nLQD, HYG\nInvestment-grade and high-yield corporate bonds\n\n\nKRE\nUS regional banks\n\n\nXLU\nUS utilities\n\n\nXLV\nUS healthcare companies\n\n\nSMH\nSemiconductor companies\n\n\nGLD, SLV\nPhysical gold and silver\n\n\nEEM, FXI, EWJ\nEmerging markets, large Chinese companies, and Japan\n\n\n\nAll other symbols are individual company stocks."
   },
   {
     "objectID": "entries/2026-11-20.html",

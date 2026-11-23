@@ -4,42 +4,63 @@
     "href": "index.html",
     "title": "Market Journal",
     "section": "",
-    "text": "A daily log of market moves, the mechanism behind each, and scored predictions.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nNov 23, 2026\n\n\nShort headline of the day\n\n\nrates, semis\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "entries/2026-11-23.html",
-    "href": "entries/2026-11-23.html",
-    "title": "Short headline of the day",
-    "section": "",
-    "text": "What moved, by how much, versus SPY."
-  },
-  {
-    "objectID": "entries/2026-11-23.html#observation",
-    "href": "entries/2026-11-23.html#observation",
-    "title": "Short headline of the day",
-    "section": "",
-    "text": "What moved, by how much, versus SPY."
+    "text": "A daily log of market moves, the mechanism behind each, and scored predictions.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nNov 22, 2026\n\n\nGold falls 9% in a week while yields decline: flows, not rates\n\n\ngold, rates, flows\n\n\n\n\n\n\nNov 22, 2026\n\n\nOne-line headline: what moved and why\n\n\ngold, rates\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "entries/2026-11-23.html#mechanism",
     "href": "entries/2026-11-23.html#mechanism",
-    "title": "Short headline of the day",
+    "title": "One-line headline: what moved and why",
     "section": "Mechanism",
-    "text": "Mechanism\nThe causal chain, one link per line."
+    "text": "Mechanism"
   },
   {
     "objectID": "entries/2026-11-23.html#prediction",
     "href": "entries/2026-11-23.html#prediction",
-    "title": "Short headline of the day",
+    "title": "One-line headline: what moved and why",
     "section": "Prediction",
-    "text": "Prediction\nA falsifiable call, a horizon, and a probability."
+    "text": "Prediction"
   },
   {
-    "objectID": "entries/2026-11-23.html#scoring-fill-in-when-the-horizon-ends",
-    "href": "entries/2026-11-23.html#scoring-fill-in-when-the-horizon-ends",
-    "title": "Short headline of the day",
-    "section": "Scoring (fill in when the horizon ends)",
-    "text": "Scoring (fill in when the horizon ends)\nRight or wrong, and which link broke."
+    "objectID": "entries/2026-11-23.html#scoring",
+    "href": "entries/2026-11-23.html#scoring",
+    "title": "One-line headline: what moved and why",
+    "section": "Scoring",
+    "text": "Scoring"
+  },
+  {
+    "objectID": "entries/2026-11-22.html",
+    "href": "entries/2026-11-22.html",
+    "title": "Gold falls 9% in a week while yields decline: flows, not rates",
+    "section": "",
+    "text": "GLD closed at $322.87 on Nov 20, down from $369.36 on Nov 10 (-12.6%) and from $355.45 on Nov 13 (-9.2% on the week).\nSpot gold ended the week near $3,535 an ounce, its lowest close in over a year.\nFriday Nov 20 was the worst day: GLD -3.67% on about 23.6 million shares, roughly double its 10-day average.\nOver the same week the 10-year Treasury yield fell from about 5.15% to 4.92%, and the 10-year real yield was nearly flat (2.91% to 2.88%).\nEquities: the S&P 500 fell seven sessions in a row and the VIX closed near 36.\nSilver fell more than 13% on the week."
+  },
+  {
+    "objectID": "entries/2026-11-22.html#observation",
+    "href": "entries/2026-11-22.html#observation",
+    "title": "Gold falls 9% in a week while yields decline: flows, not rates",
+    "section": "",
+    "text": "GLD closed at $322.87 on Nov 20, down from $369.36 on Nov 10 (-12.6%) and from $355.45 on Nov 13 (-9.2% on the week).\nSpot gold ended the week near $3,535 an ounce, its lowest close in over a year.\nFriday Nov 20 was the worst day: GLD -3.67% on about 23.6 million shares, roughly double its 10-day average.\nOver the same week the 10-year Treasury yield fell from about 5.15% to 4.92%, and the 10-year real yield was nearly flat (2.91% to 2.88%).\nEquities: the S&P 500 fell seven sessions in a row and the VIX closed near 36.\nSilver fell more than 13% on the week."
+  },
+  {
+    "objectID": "entries/2026-11-22.html#mechanism",
+    "href": "entries/2026-11-22.html#mechanism",
+    "title": "Gold falls 9% in a week while yields decline: flows, not rates",
+    "section": "Mechanism",
+    "text": "Mechanism\n\nMy first explanation: the risk-free rate channel.\n\nGold pays no interest.\nWhen real yields are high, holding gold means giving up more income.\nInvestors shift from gold to bonds, and gold falls.\n\nTest against the data: yields fell last week, so this channel predicts gold flat or higher. Gold fell 9%. The rate story explains the decline since January, but not this week.\nRevised explanation: the flows channel.\n\nEquities fell sharply and volatility spiked.\nLeveraged investors faced margin calls and needed cash.\nThey sold liquid assets, including gold, regardless of its fundamentals.\nEvidence: double the normal volume, gold’s worst day matching the equity market’s worst day, and silver falling harder than gold."
+  },
+  {
+    "objectID": "entries/2026-11-22.html#prediction",
+    "href": "entries/2026-11-22.html#prediction",
+    "title": "Gold falls 9% in a week while yields decline: flows, not rates",
+    "section": "Prediction",
+    "text": "Prediction\n\n\nDRAFT, replace with my own number before publishing: 55% probability that GLD closes above $322.87 on Nov 30 (five trading days).\nReasoning: forced selling ends when the selling pressure in equities eases, even if yields do not move.\nWrong if GLD closes at or below $322.87 on Nov 30.\nWhat I will watch: if the VIX falls and gold still declines, the flows explanation is wrong and rates or the dollar matter more than I think.\nDisclosure: I hold a small position in GLD."
+  },
+  {
+    "objectID": "entries/2026-11-22.html#scoring",
+    "href": "entries/2026-11-22.html#scoring",
+    "title": "Gold falls 9% in a week while yields decline: flows, not rates",
+    "section": "Scoring",
+    "text": "Scoring\n\nTo be scored after the close on Nov 30."
   },
   {
     "objectID": "dashboard.html",

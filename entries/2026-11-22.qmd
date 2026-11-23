@@ -38,7 +38,7 @@ categories: [gold, rates, flows]
 <!-- WHAT I expect next. One testable statement,
      a deadline, and a probability. Say what would prove it wrong. -->
 
-- DRAFT, replace with my own number before publishing: 55% probability that GLD closes above $322.87 on Nov 30 (five trading days).
+- 55% probability that GLD closes above $322.87 on Nov 30 (five trading days).
 - Reasoning: forced selling ends when the selling pressure in equities eases, even if yields do not move.
 - Wrong if GLD closes at or below $322.87 on Nov 30.
 - What I will watch: if the VIX falls and gold still declines, the flows explanation is wrong and rates or the dollar matter more than I think.

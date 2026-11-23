@@ -1,0 +1,30 @@
+---
+title: "About"
+---
+**Market Journal** is a daily research journal written by Blaire (Meina) Bian.
+
+## What it is
+
+Each entry takes one market move and works through it in four steps:
+
+1. **Observation:** what moved, by how much, relative to the benchmark.
+2. **Mechanism:** which channel drove it (cash flows, the risk-free rate, the risk premium, or flows) and the causal chain behind it.
+3. **Prediction:** a testable call with a deadline and a probability.
+4. **Scoring:** whether the call was right, and which link in the reasoning held or broke.
+
+Every entry is committed to version control, so each prediction carries a
+timestamp that precedes its outcome.
+
+## Why
+
+To build calibrated, mechanism-level judgment about how macroeconomic, policy,
+and company-level shocks transmit into asset prices. The journal is paired
+with a simulated portfolio so that each view is tested with a position.
+
+## More detail
+
+The full framework, including the factor map and the rules for the simulated
+portfolio, is in the
+[project README](https://github.com/MeinaBian/market-journal#readme).
+
+This is a personal learning project. Nothing here is investment advice.

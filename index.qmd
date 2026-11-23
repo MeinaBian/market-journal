@@ -1,9 +1,11 @@
 ---
 title: "Market Journal"
+subtitle: "by Blaire (Meina) Bian"
 listing:
   contents: entries
   sort: "date desc"
   type: table
   fields: [date, title, categories]
 ---
-A daily log of market moves, the mechanism behind each, and scored predictions.
+A daily, timestamped record of market moves, the mechanism behind each, and
+predictions that are scored after the fact.

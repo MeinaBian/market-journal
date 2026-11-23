@@ -2,3 +2,9 @@
 title: "Dashboard"
 ---
 {{< include data/_latest.md >}}
+
+**How to read the table**
+
+- **1d %** and **5d %** are close-to-close returns over one and five trading days.
+- **vs 20d / 50d / 200d avg %** show how far the latest close sits above (positive) or below (negative) its 20-, 50- and 200-day moving average: the short-, medium- and long-term trend.
+- Prices are daily closes from Yahoo Finance, adjusted for splits and dividends.

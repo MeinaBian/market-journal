@@ -16,8 +16,9 @@ company-level shocks transmit into asset prices.
 7. Quantitative layer
 8. Simulated portfolio
 9. Universe
-10. Implementation
-11. Status
+10. Data and methodology
+11. Implementation
+12. Status
 
 ## 1. Purpose
 
@@ -153,7 +154,7 @@ timestamp that precedes its outcome.
 
 | Component | Method | Status |
 |---|---|---|
-| Daily monitor | 1-day and 5-day moves across the watchlist | Live |
+| Daily monitor | 1-day and 5-day moves and distance from 20-, 50- and 200-day moving averages across the watchlist | Live |
 | Factor sensitivities | Rolling regressions of each ticker on changes in yields, the dollar, oil, credit spreads, and volatility | Planned |
 | Event studies | Abnormal returns against a market model around dated events | Planned |
 | Forecast scoring | Hit rate, Brier score, and calibration curve | Planned |
@@ -201,13 +202,51 @@ clean test case: rate-sensitive names, long-duration growth, commodity-linked,
 defensives, a market benchmark, and macro series. The watchlist is being built
 out to about 30 names; the current list is in `tickers.csv`.
 
-## 10. Implementation
+## 10. Data and methodology
+
+**Source.** Dashboard prices come from Yahoo Finance and are downloaded by
+script with the open-source `yfinance` package. Nothing is entered by hand.
+
+**Pipeline.** Each run of `scripts/update_data.py`:
+
+1. Reads the watchlist from `tickers.csv`.
+2. Downloads the last year of daily closing prices for each ticker.
+3. Saves them to `data/prices.csv`.
+4. Calculates the return and moving-average columns and writes the Dashboard table.
+
+**Return definition.** Returns are close to close, not open to close, so they
+include the overnight move, which is often where news is priced in.
+
+| Column | Calculation |
+|---|---|
+| 1d % | Latest close compared with the previous trading day's close |
+| 5d % | Latest close compared with the close five trading days earlier |
+| vs 20d / 50d / 200d avg % | Distance of the latest close from its 20-, 50- and 200-day moving average |
+
+Moving averages are used as trend context in the Observation, not as an
+explanation in the Mechanism.
+
+**Adjusted closes.** Prices are adjusted for stock splits and dividends, so
+returns stay accurate across those events. Older prices in the file can
+therefore differ slightly from what a chart showed on the day.
+
+**Limitations.** Yahoo Finance is a free, unofficial source. Data can
+occasionally be delayed, revised, or temporarily unavailable. It is suitable
+for a learning project; professional research would use a paid, audited
+source such as Bloomberg.
+
+**Figures cited in entries.** Numbers for instruments outside the watchlist,
+and macro series such as Treasury yields, are taken from published price
+histories and from Federal Reserve and Treasury data, and are identified in
+the entry.
+
+## 11. Implementation
 
 - `scripts/update_data.py` downloads prices with Python (yfinance, pandas) and builds the daily table.
 - Entries are plain-text files in `entries/`.
 - Quarto renders the site, published with GitHub Pages.
 
-## 11. Status
+## 12. Status
 
 Started November 2026. Intended run: three months of daily entries and
 simulated trading, followed by a written review covering forecast accuracy,

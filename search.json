@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Market Journal",
+    "section": "",
+    "text": "A daily log of market moves, the mechanism behind each, and scored predictions.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nNov 23, 2026\n\n\nShort headline of the day\n\n\nrates, semis\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "entries/2026-11-23.html",
+    "href": "entries/2026-11-23.html",
+    "title": "Short headline of the day",
+    "section": "",
+    "text": "What moved, by how much, versus SPY."
+  },
+  {
+    "objectID": "entries/2026-11-23.html#observation",
+    "href": "entries/2026-11-23.html#observation",
+    "title": "Short headline of the day",
+    "section": "",
+    "text": "What moved, by how much, versus SPY."
+  },
+  {
+    "objectID": "entries/2026-11-23.html#mechanism",
+    "href": "entries/2026-11-23.html#mechanism",
+    "title": "Short headline of the day",
+    "section": "Mechanism",
+    "text": "Mechanism\nThe causal chain, one link per line."
+  },
+  {
+    "objectID": "entries/2026-11-23.html#prediction",
+    "href": "entries/2026-11-23.html#prediction",
+    "title": "Short headline of the day",
+    "section": "Prediction",
+    "text": "Prediction\nA falsifiable call, a horizon, and a probability."
+  },
+  {
+    "objectID": "entries/2026-11-23.html#scoring-fill-in-when-the-horizon-ends",
+    "href": "entries/2026-11-23.html#scoring-fill-in-when-the-horizon-ends",
+    "title": "Short headline of the day",
+    "section": "Scoring (fill in when the horizon ends)",
+    "text": "Scoring (fill in when the horizon ends)\nRight or wrong, and which link broke."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Data through 2026-11-20\n\n\n\n\ngroup\nlast\n1d %\n5d %\n\n\n\n\nNVDA\nlong-duration growth\n125.53\n-14.01\n-22.92\n\n\nSPY\nbenchmark\n689.81\n-3.64\n-8.56\n\n\nJPM\nrate-sensitive\n310.53\n-3.03\n-10.3\n\n\nMSFT\nlong-duration growth\n484.52\n-2.77\n-7.33\n\n\n^TNX\nmacro\n4.91\n-2.77\n-4.7\n\n\nXLU\nrate-sensitive\n42.69\n-0.74\n-3.07\n\n\nDX-Y.NYB\nmacro\n103.81\n-0.09\n0.39\n\n\nXOM\ncommodity\n159.99\n0.67\n-5.62\n\n\nPG\ndefensive\n169.37\n0.91\n-0.25\n\n\nCL=F\nmacro\n83.98\n0.93\n-5.17\n\n\nDHI\nrate-sensitive\n145.44\n1.96\n-0.08\n\n\n^VIX\nmacro\n35.89\n26.2\n85.96"
+  }
+]

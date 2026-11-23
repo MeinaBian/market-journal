@@ -1,0 +1,13 @@
+ticker,group
+^TNX,macro
+^VIX,macro
+DX-Y.NYB,macro
+CL=F,macro
+SPY,benchmark
+JPM,rate-sensitive
+XLU,rate-sensitive
+DHI,rate-sensitive
+NVDA,long-duration growth
+MSFT,long-duration growth
+XOM,commodity
+PG,defensive

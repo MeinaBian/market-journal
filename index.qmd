@@ -1,0 +1,9 @@
+---
+title: "Market Journal"
+listing:
+  contents: entries
+  sort: "date desc"
+  type: table
+  fields: [date, title, categories]
+---
+A daily log of market moves, the mechanism behind each, and scored predictions.

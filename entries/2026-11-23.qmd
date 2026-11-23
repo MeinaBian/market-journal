@@ -1,0 +1,16 @@
+---
+title: "Short headline of the day"
+date: 2026-11-23
+categories: [rates, semis]
+---
+## Observation
+What moved, by how much, versus SPY.
+
+## Mechanism
+The causal chain, one link per line.
+
+## Prediction
+A falsifiable call, a horizon, and a probability.
+
+## Scoring (fill in when the horizon ends)
+Right or wrong, and which link broke.

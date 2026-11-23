@@ -1,31 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Market Journal",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "A daily log of market moves, the mechanism behind each, and scored predictions.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nNov 22, 2026\n\n\nGold falls 9% in a week while yields decline: flows, not rates\n\n\ngold, rates, flows\n\n\n\n\n\n\nNov 22, 2026\n\n\nOne-line headline: what moved and why\n\n\ngold, rates\n\n\n\n\n\n\nNo matching items"
+    "text": "Market Journal is a daily research journal written by Blaire (Meina) Bian."
   },
   {
-    "objectID": "entries/2026-11-23.html#mechanism",
-    "href": "entries/2026-11-23.html#mechanism",
-    "title": "One-line headline: what moved and why",
-    "section": "Mechanism",
-    "text": "Mechanism"
+    "objectID": "about.html#what-it-is",
+    "href": "about.html#what-it-is",
+    "title": "About",
+    "section": "What it is",
+    "text": "What it is\nEach entry takes one market move and works through it in four steps:\n\nObservation: what moved, by how much, relative to the benchmark.\nMechanism: which channel drove it (cash flows, the risk-free rate, the risk premium, or flows) and the causal chain behind it.\nPrediction: a testable call with a deadline and a probability.\nScoring: whether the call was right, and which link in the reasoning held or broke.\n\nEvery entry is committed to version control, so each prediction carries a timestamp that precedes its outcome."
   },
   {
-    "objectID": "entries/2026-11-23.html#prediction",
-    "href": "entries/2026-11-23.html#prediction",
-    "title": "One-line headline: what moved and why",
-    "section": "Prediction",
-    "text": "Prediction"
+    "objectID": "about.html#why",
+    "href": "about.html#why",
+    "title": "About",
+    "section": "Why",
+    "text": "Why\nTo build calibrated, mechanism-level judgment about how macroeconomic, policy, and company-level shocks transmit into asset prices. The journal is paired with a simulated portfolio so that each view is tested with a position."
   },
   {
-    "objectID": "entries/2026-11-23.html#scoring",
-    "href": "entries/2026-11-23.html#scoring",
-    "title": "One-line headline: what moved and why",
-    "section": "Scoring",
-    "text": "Scoring"
+    "objectID": "about.html#more-detail",
+    "href": "about.html#more-detail",
+    "title": "About",
+    "section": "More detail",
+    "text": "More detail\nThe full framework, including the factor map and the rules for the simulated portfolio, is in the project README.\nThis is a personal learning project. Nothing here is investment advice."
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Data through 2026-11-20\n\n\n\n\ngroup\nlast\n1d %\n5d %\n\n\n\n\nNVDA\nlong-duration growth\n125.53\n-14.01\n-22.92\n\n\nSPY\nbenchmark\n689.81\n-3.64\n-8.56\n\n\nJPM\nrate-sensitive\n310.53\n-3.03\n-10.3\n\n\nMSFT\nlong-duration growth\n484.52\n-2.77\n-7.33\n\n\n^TNX\nmacro\n4.91\n-2.77\n-4.7\n\n\nXLU\nrate-sensitive\n42.69\n-0.74\n-3.07\n\n\nDX-Y.NYB\nmacro\n103.81\n-0.09\n0.39\n\n\nXOM\ncommodity\n159.99\n0.67\n-5.62\n\n\nPG\ndefensive\n169.37\n0.91\n-0.25\n\n\nCL=F\nmacro\n83.98\n0.93\n-5.17\n\n\nDHI\nrate-sensitive\n145.44\n1.96\n-0.08\n\n\n^VIX\nmacro\n35.89\n26.2\n85.96"
   },
   {
     "objectID": "entries/2026-11-22.html",
@@ -53,7 +60,7 @@
     "href": "entries/2026-11-22.html#prediction",
     "title": "Gold falls 9% in a week while yields decline: flows, not rates",
     "section": "Prediction",
-    "text": "Prediction\n\n\nDRAFT, replace with my own number before publishing: 55% probability that GLD closes above $322.87 on Nov 30 (five trading days).\nReasoning: forced selling ends when the selling pressure in equities eases, even if yields do not move.\nWrong if GLD closes at or below $322.87 on Nov 30.\nWhat I will watch: if the VIX falls and gold still declines, the flows explanation is wrong and rates or the dollar matter more than I think.\nDisclosure: I hold a small position in GLD."
+    "text": "Prediction\n\n\n55% probability that GLD closes above $322.87 on Nov 30 (five trading days).\nReasoning: forced selling ends when the selling pressure in equities eases, even if yields do not move.\nWrong if GLD closes at or below $322.87 on Nov 30.\nWhat I will watch: if the VIX falls and gold still declines, the flows explanation is wrong and rates or the dollar matter more than I think.\nDisclosure: I hold a small position in GLD."
   },
   {
     "objectID": "entries/2026-11-22.html#scoring",
@@ -63,10 +70,31 @@
     "text": "Scoring\n\nTo be scored after the close on Nov 30."
   },
   {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Dashboard",
+    "objectID": "entries/2026-11-23.html#mechanism",
+    "href": "entries/2026-11-23.html#mechanism",
+    "title": "One-line headline: what moved and why",
+    "section": "Mechanism",
+    "text": "Mechanism"
+  },
+  {
+    "objectID": "entries/2026-11-23.html#prediction",
+    "href": "entries/2026-11-23.html#prediction",
+    "title": "One-line headline: what moved and why",
+    "section": "Prediction",
+    "text": "Prediction"
+  },
+  {
+    "objectID": "entries/2026-11-23.html#scoring",
+    "href": "entries/2026-11-23.html#scoring",
+    "title": "One-line headline: what moved and why",
+    "section": "Scoring",
+    "text": "Scoring"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Market Journal",
     "section": "",
-    "text": "Data through 2026-11-20\n\n\n\n\ngroup\nlast\n1d %\n5d %\n\n\n\n\nNVDA\nlong-duration growth\n125.53\n-14.01\n-22.92\n\n\nSPY\nbenchmark\n689.81\n-3.64\n-8.56\n\n\nJPM\nrate-sensitive\n310.53\n-3.03\n-10.3\n\n\nMSFT\nlong-duration growth\n484.52\n-2.77\n-7.33\n\n\n^TNX\nmacro\n4.91\n-2.77\n-4.7\n\n\nXLU\nrate-sensitive\n42.69\n-0.74\n-3.07\n\n\nDX-Y.NYB\nmacro\n103.81\n-0.09\n0.39\n\n\nXOM\ncommodity\n159.99\n0.67\n-5.62\n\n\nPG\ndefensive\n169.37\n0.91\n-0.25\n\n\nCL=F\nmacro\n83.98\n0.93\n-5.17\n\n\nDHI\nrate-sensitive\n145.44\n1.96\n-0.08\n\n\n^VIX\nmacro\n35.89\n26.2\n85.96"
+    "text": "A daily, timestamped record of market moves, the mechanism behind each, and predictions that are scored after the fact.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nNov 22, 2026\n\n\nGold falls 9% in a week while yields decline: flows, not rates\n\n\ngold, rates, flows\n\n\n\n\n\n\nNov 22, 2026\n\n\nOne-line headline: what moved and why\n\n\ngold, rates\n\n\n\n\n\n\nNo matching items"
   }
 ]

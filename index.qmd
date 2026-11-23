@@ -29,7 +29,7 @@ measures for all of them are on the [Dashboard](dashboard.qmd).
 
 | Group | Instruments |
 |---|---|
-| Macro series | 10-year Treasury yield, VIX, dollar index, crude oil, gold, copper |
+| Macro series | ^TNX (10-year Treasury yield), ^VIX (volatility index), DX-Y.NYB (US dollar index), CL=F (crude oil futures), GC=F (gold futures), HG=F (copper futures) |
 | Benchmarks | SPY, QQQ, IWM |
 | Bonds and credit | TLT, TIP, LQD, HYG |
 | Rate-sensitive | JPM, BAC, KRE, XLU, DHI, O |

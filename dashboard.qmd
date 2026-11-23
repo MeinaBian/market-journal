@@ -8,3 +8,48 @@ title: "Dashboard"
 - **1d %** and **5d %** are close-to-close returns over one and five trading days.
 - **vs 20d / 50d / 200d avg %** show how far the latest close sits above (positive) or below (negative) its 20-, 50- and 200-day moving average: the short-, medium- and long-term trend.
 - Prices are daily closes from Yahoo Finance, adjusted for splits and dividends.
+
+## Symbol guide
+
+**Macro series**
+
+| Symbol | What it is | How to read it |
+|---|---|---|
+| ^TNX | 10-year US Treasury yield, in percent | Rises when bond prices fall; the benchmark long-term interest rate |
+| ^VIX | Cboe Volatility Index | Expected S&P 500 volatility over the next 30 days; rises when investors are fearful |
+| DX-Y.NYB | US Dollar Index | The dollar against a basket of major currencies; rises when the dollar strengthens |
+| CL=F | Crude oil futures (WTI), dollars per barrel | The US oil price benchmark |
+| GC=F | Gold futures, dollars per ounce | The gold price |
+| HG=F | Copper futures, dollars per pound | A gauge of global industrial demand |
+
+**How the symbols are built**
+
+- A symbol starting with `^` is an index.
+- A symbol ending in `=F` is a futures contract. The `=F` is a suffix added by Yahoo Finance, the data source, to mark futures; it is not part of the exchange's own code.
+- The letters before `=F` are the exchange's trading code for the product:
+
+| Symbol | Exchange code | Stands for |
+|---|---|---|
+| CL=F | CL | Crude Light: light sweet crude oil (WTI), traded on the New York Mercantile Exchange |
+| GC=F | GC | Gold, traded on the COMEX exchange |
+| HG=F | HG | High Grade copper, traded on the COMEX exchange |
+
+Futures contracts expire monthly. Each `=F` symbol shows the nearest contract
+and rolls to the next one automatically, so the price series can shift
+slightly on a roll date.
+
+**Funds**
+
+| Symbol | What it holds |
+|---|---|
+| SPY, QQQ, IWM | S&P 500, Nasdaq-100, and Russell 2000 small caps |
+| TLT | Long-term US Treasury bonds (20+ years) |
+| TIP | Inflation-protected Treasury bonds |
+| LQD, HYG | Investment-grade and high-yield corporate bonds |
+| KRE | US regional banks |
+| XLU | US utilities |
+| SMH | Semiconductor companies |
+| GLD, SLV | Physical gold and silver |
+| EEM, FXI, EWJ | Emerging markets, large Chinese companies, and Japan |
+
+All other symbols are individual company stocks.

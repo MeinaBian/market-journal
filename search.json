@@ -1,66 +1,199 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "case-studies.html",
+    "href": "case-studies.html",
+    "title": "Case studies",
     "section": "",
-    "text": "Market Journal is a daily research journal written by Blaire (Meina) Bian."
+    "text": "These studies look back at the largest up and down days since the SpaceX listing on June 12, 2026. Each one applies the journal’s method to a day whose outcome is already known: what moved, which channel drove it, what happened over the following five trading days, and what the episode teaches."
   },
   {
-    "objectID": "about.html#what-it-is",
-    "href": "about.html#what-it-is",
-    "title": "About",
-    "section": "What it is",
-    "text": "What it is\nEach entry takes one market move and works through it in four steps:\n\nObservation: what moved, by how much, relative to the benchmark.\nMechanism: which channel drove it (cash flows, the risk-free rate, the risk premium, or flows) and the causal chain behind it.\nPrediction: a testable call with a deadline and a probability.\nScoring: whether the call was right, and which link in the reasoning held or broke.\n\nEvery entry is committed to version control, so each prediction carries a timestamp that precedes its outcome."
+    "objectID": "case-studies.html#studies",
+    "href": "case-studies.html#studies",
+    "title": "Case studies",
+    "section": "Studies",
+    "text": "Studies"
   },
   {
-    "objectID": "about.html#why",
-    "href": "about.html#why",
-    "title": "About",
-    "section": "Why",
-    "text": "Why\nTo build calibrated, mechanism-level judgment about how macroeconomic, policy, and company-level shocks transmit into asset prices. The journal is paired with a simulated portfolio so that each view is tested with a position."
-  },
-  {
-    "objectID": "about.html#more-detail",
-    "href": "about.html#more-detail",
-    "title": "About",
-    "section": "More detail",
-    "text": "More detail\nThe full framework, including the factor map and the rules for the simulated portfolio, is in the project README.\nThis is a personal learning project. Nothing here is investment advice."
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "Dashboard",
+    "objectID": "case-studies/2026-06-15.html",
+    "href": "case-studies/2026-06-15.html",
+    "title": "SpaceX adds 20% on its second day as an Iran deal lifts risk assets",
     "section": "",
-    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -1.3%\n-1.3%\ndefensive\ndefensive: -1.8%\n-1.8%\nbenchmark\nbenchmark: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.5%\n-2.5%\nrate-sensitive\nrate-sensitive: -2.6%\n-2.6%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.2%\n-3.2%\ncommodity\ncommodity: -6.4%\n-6.4%\nhealthcare\nhealthcare: -8.3%\n-8.3%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.2%\n118.2%\nsemiconductors\nsemiconductors: 107.7%\n107.7%\nlong-duration growth\nlong-duration growth: 49.5%\n49.5%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.2%\n43.2%\nbenchmark\nbenchmark: 36.9%\n36.9%\ninternational\ninternational: 35.6%\n35.6%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.7%\n26.7%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
   },
   {
-    "objectID": "dashboard.html#groups-at-a-glance",
-    "href": "dashboard.html#groups-at-a-glance",
-    "title": "Dashboard",
+    "objectID": "case-studies/2026-06-15.html#observation",
+    "href": "case-studies/2026-06-15.html#observation",
+    "title": "SpaceX adds 20% on its second day as an Iran deal lifts risk assets",
+    "section": "Observation",
+    "text": "Observation\n\nSPCX rose 19.6% to $192.50, about 43% above its $135 offer price, on its second day of trading.\nSPY gained 1.76% and QQQ 3.14%. The space group averaged +7.3% (RKLB +6.7%) and semiconductors +4.4%.\nCrude oil fell 4.9% to $80.75 and XOM lost 4.1%. The VIX fell 8.4% to 16.2.\nDefensive and healthcare groups were slightly negative."
+  },
+  {
+    "objectID": "case-studies/2026-06-15.html#mechanism",
+    "href": "case-studies/2026-06-15.html#mechanism",
+    "title": "SpaceX adds 20% on its second day as an Iran deal lifts risk assets",
+    "section": "Mechanism",
+    "text": "Mechanism\nTwo separate things happened on the same day.\nSpaceX: the flows channel.\n\nOnly about 5% of the company was sold in the offering, so the tradable supply was small.\nIndex providers had announced fast inclusion, so funds that track those indexes were expected to become forced buyers.\nHeavy retail demand met that small supply, and the price rose without any new information about cash flows.\n\nThe broad market: the risk premium channel.\n\nA reported US-Iran deal lowered the odds of an oil supply disruption.\nOil fell, which eased inflation pressure and lowered the premium investors demanded for risk.\nEnergy producers fell with oil while growth and semiconductor names led."
+  },
+  {
+    "objectID": "case-studies/2026-06-15.html#what-happened-next",
+    "href": "case-studies/2026-06-15.html#what-happened-next",
+    "title": "SpaceX adds 20% on its second day as an Iran deal lifts risk assets",
+    "section": "What happened next",
+    "text": "What happened next\nOver the following five trading days SPCX fell 18.9%, QQQ fell 4.0% and SPY fell 2.6%. SpaceX gave back more than the whole second-day gain within a week."
+  },
+  {
+    "objectID": "case-studies/2026-06-15.html#lesson",
+    "href": "case-studies/2026-06-15.html#lesson",
+    "title": "SpaceX adds 20% on its second day as an Iran deal lifts risk assets",
+    "section": "Lesson",
+    "text": "Lesson\nA price set by scarce supply and forced buyers is not a statement about value. When a move has no cash-flow news behind it, the question to ask is who had to buy and whether they are finished. Peers moved in sympathy on the way up and offered no protection on the way down."
+  },
+  {
+    "objectID": "case-studies/2026-06-15.html#sources",
+    "href": "case-studies/2026-06-15.html#sources",
+    "title": "SpaceX adds 20% on its second day as an Iran deal lifts risk assets",
+    "section": "Sources",
+    "text": "Sources\n\nBloomberg, “SpaceX Surges for 2nd Day to Add $412 Billion in Value”\nAxios Markets, June 15, 2026\nReuters via BNN Bloomberg, index inclusion dates\nStocktwits, market wrap for June 15, 2026"
+  },
+  {
+    "objectID": "case-studies/2026-11-20.html",
+    "href": "case-studies/2026-11-20.html",
+    "title": "Nvidia falls 14% on an accounting probe, and gold falls with it",
     "section": "",
-    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -1.3%\n-1.3%\ndefensive\ndefensive: -1.8%\n-1.8%\nbenchmark\nbenchmark: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.5%\n-2.5%\nrate-sensitive\nrate-sensitive: -2.6%\n-2.6%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.2%\n-3.2%\ncommodity\ncommodity: -6.4%\n-6.4%\nhealthcare\nhealthcare: -8.3%\n-8.3%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.2%\n118.2%\nsemiconductors\nsemiconductors: 107.7%\n107.7%\nlong-duration growth\nlong-duration growth: 49.5%\n49.5%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.2%\n43.2%\nbenchmark\nbenchmark: 36.9%\n36.9%\ninternational\ninternational: 35.6%\n35.6%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.7%\n26.7%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
   },
   {
-    "objectID": "dashboard.html#all-instruments",
-    "href": "dashboard.html#all-instruments",
-    "title": "Dashboard",
-    "section": "All instruments",
-    "text": "All instruments\nData through 2026-11-23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngroup\nlast\n1d %\n5d %\nvs 20d avg %\nvs 50d avg %\nvs 200d avg %\ntrend\n\n\n\n\n^VIX\nmacro\n27.36\n-23.77\n19.42\n23.54\n46.78\n46.13\nMixed\n\n\nCL=F\nmacro\n80.98\n-3.57\n-5.53\n-10.55\n-13.61\n-8.37\nMixed\n\n\nUNH\nhealthcare\n333.50\n-1.87\n-19.06\n-14.63\n-13.98\n-8.92\nMixed\n\n\nXOM\ncommodity\n157.93\n-1.29\n-5.36\n-6.62\n-6.14\n1.92\nMixed\n\n\nKO\ndefensive\n95.77\n-1.26\n-3.73\n-0.24\n4.17\n14.93\nUp\n\n\nCVX\ncommodity\n206.70\n-0.80\n-4.02\n-4.38\n-3.25\n6.84\nMixed\n\n\nTIP\nbonds and credit\n105.58\n-0.15\n0.97\n-0.05\n0.43\n-1.03\nMixed\n\n\nJNJ\nhealthcare\n270.34\n-0.05\n-4.32\n-1.77\n1.06\n8.30\nUp\n\n\nTLT\nbonds and credit\n81.53\n0.09\n2.70\n0.75\n2.19\n-1.31\nMixed\n\n\nLQD\nbonds and credit\n103.83\n0.14\n1.01\n0.13\n0.73\n-1.32\nMixed\n\n\nO\nrate-sensitive\n58.12\n0.16\n-0.73\n-0.19\n3.04\n-3.42\nMixed\n\n\nDHI\nrate-sensitive\n145.79\n0.24\n0.72\n-1.19\n2.68\n-0.33\nMixed\n\n\nPG\ndefensive\n169.84\n0.28\n-1.84\n2.02\n8.34\n14.35\nUp\n\n\nHYG\nbonds and credit\n76.64\n0.41\n-0.11\n-0.46\n-0.41\n-1.07\nDown\n\n\nWMT\ndefensive\n128.61\n0.52\n0.16\n2.28\n9.89\n8.37\nMixed\n\n\nUNP\ncyclical\n289.14\n0.64\n-4.80\n-3.39\n0.30\n5.52\nUp\n\n\nDX-Y.NYB\nmacro\n104.47\n0.64\n0.89\n1.73\n2.44\n4.43\nUp\n\n\n^TNX\nmacro\n4.95\n0.69\n-3.42\n-0.78\n-2.57\n7.37\nMixed\n\n\nLLY\nhealthcare\n1359.69\n0.93\n-5.03\n-1.96\n7.06\n21.77\nUp\n\n\nXLV\nhealthcare\n178.90\n0.94\n-4.78\n-2.94\n1.26\n11.72\nUp\n\n\nXLU\nrate-sensitive\n43.17\n1.12\n-2.15\n-0.55\n2.92\n-1.68\nMixed\n\n\nFXI\ninternational\n31.61\n1.23\n-5.12\n-4.89\n-5.88\n-9.84\nDown\n\n\nKRE\nrate-sensitive\n69.35\n1.50\n-3.94\n-3.69\n-2.61\n-1.82\nMixed\n\n\nAVGO\nsemiconductors\n309.23\n1.58\n-7.25\n-6.69\n-9.57\n-15.70\nDown\n\n\nAAPL\nlong-duration growth\n348.67\n1.79\n-1.16\n0.32\n1.98\n15.02\nUp\n\n\nHD\ncyclical\n345.59\n1.93\n-0.55\n1.40\n9.48\n5.22\nMixed\n\n\nJPM\nrate-sensitive\n318.12\n2.44\n-5.94\n-5.26\n-5.38\n-1.48\nMixed\n\n\nMSFT\nlong-duration growth\n496.83\n2.54\n-3.90\n-4.51\n-4.22\n12.30\nMixed\n\n\nBAC\nrate-sensitive\n48.25\n2.57\n-3.65\n-3.35\n-8.04\n-11.21\nDown\n\n\nHG=F\nmacro\n5.63\n2.81\n-6.11\n-8.84\n-12.20\n-9.51\nMixed\n\n\nIWM\nbenchmark\n264.93\n3.24\n-2.93\n-3.88\n-4.63\n-4.94\nDown\n\n\nGLD\ncommodity\n334.37\n3.56\n-5.26\n-6.80\n-10.53\n-17.49\nDown\n\n\nGC=F\nmacro\n3652.60\n3.90\n-5.20\n-6.89\n-10.84\n-17.70\nDown\n\n\nEWJ\ninternational\n87.14\n4.45\n-3.01\n-3.99\n-7.70\n-5.18\nMixed\n\n\nAMZN\nlong-duration growth\n257.89\n4.49\n0.05\n0.01\n1.09\n5.09\nUp\n\n\nSPY\nbenchmark\n722.17\n4.69\n-2.40\n-3.15\n-4.89\n-1.14\nMixed\n\n\nDAL\ncyclical\n84.14\n5.16\n-2.84\n-1.20\n2.15\n8.24\nUp\n\n\nSLV\ncommodity\n39.08\n5.69\n-7.82\n-12.53\n-22.86\n-35.86\nDown\n\n\nMETA\nlong-duration growth\n594.50\n6.00\n-5.09\n-3.61\n-11.95\n-5.27\nMixed\n\n\nSPCX\nspace\n135.90\n6.35\n-1.06\n-1.97\n-7.84\nnan\nn/a\n\n\nGOOGL\nlong-duration growth\n283.54\n6.88\n-0.07\n-1.48\n-11.67\n-15.74\nDown\n\n\nQQQ\nbenchmark\n650.81\n6.96\n-1.65\n-3.65\n-8.30\n-4.61\nMixed\n\n\nCAT\ncyclical\n547.89\n7.33\n-3.96\n-8.10\n-22.66\n-31.53\nDown\n\n\nEEM\ninternational\n57.97\n7.66\n-1.57\n-3.42\n-8.82\n-9.10\nDown\n\n\nAMD\nsemiconductors\n458.77\n8.10\n-9.02\n-9.24\n-16.95\n6.43\nMixed\n\n\nFCX\ncommodity\n50.05\n8.83\n-9.31\n-14.97\n-23.97\n-22.60\nMixed\n\n\nRKLB\nspace\n49.99\n10.06\n-12.86\n-10.24\n-18.17\n-35.58\nDown\n\n\nLUNR\nspace\n9.77\n11.35\n-16.70\n-10.41\n-21.02\n-48.79\nDown\n\n\nASTS\nspace\n25.93\n11.43\n-9.27\n-22.67\n-42.91\n-63.61\nDown\n\n\nTSLA\nlong-duration growth\n388.17\n12.24\n2.22\n0.92\n3.18\n1.73\nMixed\n\n\nSMH\nsemiconductors\n459.61\n14.89\n-0.50\n-6.28\n-15.80\n-12.53\nMixed\n\n\nTSM\nsemiconductors\n368.65\n15.67\n-1.28\n-5.23\n-12.46\n-8.38\nMixed\n\n\nNVDA\nsemiconductors\n164.59\n31.11\n5.41\n-7.99\n-20.13\n-18.92\nMixed"
+    "objectID": "case-studies/2026-11-20.html#observation",
+    "href": "case-studies/2026-11-20.html#observation",
+    "title": "Nvidia falls 14% on an accounting probe, and gold falls with it",
+    "section": "Observation",
+    "text": "Observation\n\nNVDA fell 14.01% to $125.53. SMH fell 10.6%, QQQ 5.67% and SPY 3.64%.\nThe VIX rose 26.2% to 35.9.\nBonds rallied: TLT +1.37%, and the 10-year yield fell to 4.91%.\nGold did not: GLD fell 3.67%. Defensives (+1.1%) and healthcare (+0.9%) rose."
   },
   {
-    "objectID": "dashboard.html#reading-the-table",
-    "href": "dashboard.html#reading-the-table",
-    "title": "Dashboard",
-    "section": "Reading the table",
-    "text": "Reading the table\n\n1d % and 5d % are close-to-close returns over one and five trading days.\nvs 20d / 50d / 200d avg % show how far the latest close sits above (positive) or below (negative) its 20-, 50- and 200-day moving average: the short-, medium- and long-term trend.\ntrend is a rule-based label: Up when the close is above the 50-day average and the 50-day is above the 200-day; Down when both are reversed; Mixed otherwise. It describes the current trend. It is not a forecast and not a recommendation to buy or sell.\nPrices are daily closes from Yahoo Finance, adjusted for splits and dividends."
+    "objectID": "case-studies/2026-11-20.html#mechanism",
+    "href": "case-studies/2026-11-20.html#mechanism",
+    "title": "Nvidia falls 14% on an accounting probe, and gold falls with it",
+    "section": "Mechanism",
+    "text": "Mechanism\nChannel: the risk premium, amplified by flows.\n\nReuters reported that the SEC was examining Nvidia’s accounting.\nAn accounting question makes reported earnings less reliable, so investors demand a higher return to hold the stock.\nThe price fell without any change to revenue forecasts; the company had reported record results three days earlier.\nBecause Nvidia is one of the largest weights in the major indexes, its fall pulled the benchmarks down with it.\nGold falling on a day when bonds rose points to investors selling what they could to raise cash.\n\nThe gold side of this day is analysed in the journal entry of the same date."
   },
   {
-    "objectID": "dashboard.html#symbol-guide",
-    "href": "dashboard.html#symbol-guide",
-    "title": "Dashboard",
-    "section": "Symbol guide",
-    "text": "Symbol guide\nMacro series\n\n\n\n\n\n\n\n\nSymbol\nWhat it is\nHow to read it\n\n\n\n\n^TNX\n10-year US Treasury yield, in percent\nRises when bond prices fall; the benchmark long-term interest rate\n\n\n^VIX\nCboe Volatility Index\nExpected S&P 500 volatility over the next 30 days; rises when investors are fearful\n\n\nDX-Y.NYB\nUS Dollar Index\nThe dollar against a basket of major currencies; rises when the dollar strengthens\n\n\nCL=F\nCrude oil futures (WTI), dollars per barrel\nThe US oil price benchmark\n\n\nGC=F\nGold futures, dollars per ounce\nThe gold price\n\n\nHG=F\nCopper futures, dollars per pound\nA gauge of global industrial demand\n\n\n\nHow the symbols are built\n\nA symbol starting with ^ is an index.\nA symbol ending in =F is a futures contract. The =F is a suffix added by Yahoo Finance, the data source, to mark futures; it is not part of the exchange’s own code.\nThe letters before =F are the exchange’s trading code for the product:\n\n\n\n\n\n\n\n\n\nSymbol\nExchange code\nStands for\n\n\n\n\nCL=F\nCL\nCrude Light: light sweet crude oil (WTI), traded on the New York Mercantile Exchange\n\n\nGC=F\nGC\nGold, traded on the COMEX exchange\n\n\nHG=F\nHG\nHigh Grade copper, traded on the COMEX exchange\n\n\n\nFutures contracts expire monthly. Each =F symbol shows the nearest contract and rolls to the next one automatically, so the price series can shift slightly on a roll date.\nFunds\n\n\n\nSymbol\nWhat it holds\n\n\n\n\nSPY, QQQ, IWM\nS&P 500, Nasdaq-100, and Russell 2000 small caps\n\n\nTLT\nLong-term US Treasury bonds (20+ years)\n\n\nTIP\nInflation-protected Treasury bonds\n\n\nLQD, HYG\nInvestment-grade and high-yield corporate bonds\n\n\nKRE\nUS regional banks\n\n\nXLU\nUS utilities\n\n\nXLV\nUS healthcare companies\n\n\nSMH\nSemiconductor companies\n\n\nGLD, SLV\nPhysical gold and silver\n\n\nEEM, FXI, EWJ\nEmerging markets, large Chinese companies, and Japan\n\n\n\nAll other symbols are individual company stocks."
+    "objectID": "case-studies/2026-11-20.html#what-happened-next",
+    "href": "case-studies/2026-11-20.html#what-happened-next",
+    "title": "Nvidia falls 14% on an accounting probe, and gold falls with it",
+    "section": "What happened next",
+    "text": "What happened next\nToo recent to assess. The outcome is being tracked in the live journal."
+  },
+  {
+    "objectID": "case-studies/2026-11-20.html#lesson",
+    "href": "case-studies/2026-11-20.html#lesson",
+    "title": "Nvidia falls 14% on an accounting probe, and gold falls with it",
+    "section": "Lesson",
+    "text": "Lesson\nGood earnings do not protect a stock when the question is whether the earnings can be trusted. Also, a safe asset does not always behave like one: in a forced selloff, the most liquid holdings are sold first, whatever their fundamentals."
+  },
+  {
+    "objectID": "case-studies/2026-11-20.html#sources",
+    "href": "case-studies/2026-11-20.html#sources",
+    "title": "Nvidia falls 14% on an accounting probe, and gold falls with it",
+    "section": "Sources",
+    "text": "Sources\n\nThe Motley Fool, on the Reuters report and the one-day loss\nDecrypt, “Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting”"
+  },
+  {
+    "objectID": "case-studies/2026-07-30.html",
+    "href": "case-studies/2026-07-30.html",
+    "title": "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending",
+    "section": "",
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
+  },
+  {
+    "objectID": "case-studies/2026-07-30.html#observation",
+    "href": "case-studies/2026-07-30.html#observation",
+    "title": "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending",
+    "section": "Observation",
+    "text": "Observation\n\nMSFT rose 15.51%, its largest one-day gain since 2008. META fell 7.95% on the same day.\nAMD gained 13.0% and SMH 6.9%. SPY rose 1.68% and QQQ 3.30%.\nHealthcare (-2.4%) and defensives (-1.6%) fell. The VIX dropped 17.3% to 17.1.\nThe 10-year yield ended at 4.66%, slightly higher on the day."
+  },
+  {
+    "objectID": "case-studies/2026-07-30.html#mechanism",
+    "href": "case-studies/2026-07-30.html#mechanism",
+    "title": "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending",
+    "section": "Mechanism",
+    "text": "Mechanism\nChannel: cash flows.\nTwo companies in the same industry reported on the same evening and moved in opposite directions.\n\nMicrosoft showed cloud growth above expectations and did not raise its capital spending plans.\nMeta missed on earnings, raised its spending forecast and reported a sharp fall in free cash flow.\nThe market rewarded evidence that AI spending was turning into revenue, and penalized spending without it.\nSemiconductors rallied because Microsoft’s result supported continued demand for AI hardware.\nDefensives were sold to fund the move back into growth.\n\nYields did not fall, so this was not a discount-rate rally. It was driven by earnings."
+  },
+  {
+    "objectID": "case-studies/2026-07-30.html#what-happened-next",
+    "href": "case-studies/2026-07-30.html#what-happened-next",
+    "title": "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending",
+    "section": "What happened next",
+    "text": "What happened next\nOver the following five trading days MSFT rose a further 10.8%, META recovered 9.4% and SPY rose 3.6%."
+  },
+  {
+    "objectID": "case-studies/2026-07-30.html#lesson",
+    "href": "case-studies/2026-07-30.html#lesson",
+    "title": "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending",
+    "section": "Lesson",
+    "text": "Lesson\nMarkets price the surprise relative to expectations, not the level. When a theme is under doubt, the dispersion between companies inside it carries more information than the average. The question the market asked of AI spending that day was specific: where is the revenue?"
+  },
+  {
+    "objectID": "case-studies/2026-07-30.html#sources",
+    "href": "case-studies/2026-07-30.html#sources",
+    "title": "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending",
+    "section": "Sources",
+    "text": "Sources\n\nXinhua via The Star, “U.S. stocks advance as tech shares rebound”\nTrading Economics, “US Stocks Rebound as Chipmakers Rally”\nShareCast via Hargreaves Lansdown, US close for July 30, 2026"
+  },
+  {
+    "objectID": "case-studies/2026-07-29.html",
+    "href": "case-studies/2026-07-29.html",
+    "title": "An oil shock on a Fed day: stocks and bonds fall together",
+    "section": "",
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
+  },
+  {
+    "objectID": "case-studies/2026-07-29.html#observation",
+    "href": "case-studies/2026-07-29.html#observation",
+    "title": "An oil shock on a Fed day: stocks and bonds fall together",
+    "section": "Observation",
+    "text": "Observation\n\nSPY fell 1.54% and QQQ 2.04%. NVDA fell 3.55%.\nCrude oil rose 6.6% to $84.46. XOM gained 2.4% and the commodity group was the only one clearly positive.\nLong Treasuries fell too: TLT lost 1.65%. The VIX rose 13.5% to 20.7.\nThe weakest groups were space (-6.4%), semiconductors (-4.2%) and cyclicals (-3.2%, with CAT -6.9%)."
+  },
+  {
+    "objectID": "case-studies/2026-07-29.html#mechanism",
+    "href": "case-studies/2026-07-29.html#mechanism",
+    "title": "An oil shock on a Fed day: stocks and bonds fall together",
+    "section": "Mechanism",
+    "text": "Mechanism\nChannel: the risk-free rate, with a cash-flow effect on cyclicals.\n\nAn Iranian missile attack on US forces raised the risk of lost oil supply.\nOil jumped, which raised expected inflation on the day of a Federal Reserve decision.\nHigher expected inflation raised the odds of rate increases, so bond prices fell and yields rose.\nA higher discount rate hit the longest-duration equities hardest: space and semiconductors.\nHigher fuel and input costs hit cyclicals through their margins.\n\nThe signature of an inflation shock is that stocks and bonds fall on the same day. In a growth scare, bonds would have rallied."
+  },
+  {
+    "objectID": "case-studies/2026-07-29.html#what-happened-next",
+    "href": "case-studies/2026-07-29.html#what-happened-next",
+    "title": "An oil shock on a Fed day: stocks and bonds fall together",
+    "section": "What happened next",
+    "text": "What happened next\nOver the following five trading days SPY rose 5.5%, NVDA 15.4% and MSFT 24.8%. Oil eased, and Microsoft’s results after that day’s close changed the subject."
+  },
+  {
+    "objectID": "case-studies/2026-07-29.html#lesson",
+    "href": "case-studies/2026-07-29.html#lesson",
+    "title": "An oil shock on a Fed day: stocks and bonds fall together",
+    "section": "Lesson",
+    "text": "Lesson\nAn oil supply shock can be identified from three things moving together: energy up, bonds down, cyclicals down. It can also fade within days if no supply is actually lost. Before extrapolating a geopolitical move, check whether barrels have been removed from the market or only the fear of it."
+  },
+  {
+    "objectID": "case-studies/2026-07-29.html#sources",
+    "href": "case-studies/2026-07-29.html#sources",
+    "title": "An oil shock on a Fed day: stocks and bonds fall together",
+    "section": "Sources",
+    "text": "Sources\n\nAssociated Press via Fortune, market report for July 29, 2026\nQuartz, “The Dow fell 400 points as oil spikes ahead of today’s Fed decision”\nBriefing.com, stock market update for July 29, 2026"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Market Journal",
+    "section": "",
+    "text": "A daily, timestamped record of market moves, the mechanism behind each, and predictions that are scored after the fact."
+  },
+  {
+    "objectID": "index.html#entries",
+    "href": "index.html#entries",
+    "title": "Market Journal",
+    "section": "Entries",
+    "text": "Entries"
   },
   {
     "objectID": "entries/2026-11-20.html",
@@ -98,17 +231,234 @@
     "text": "Scoring\n\nTo be scored after the close on Nov 30."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Market Journal",
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
     "section": "",
-    "text": "A daily, timestamped record of market moves, the mechanism behind each, and predictions that are scored after the fact."
+    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -1.3%\n-1.3%\ndefensive\ndefensive: -1.8%\n-1.8%\nbenchmark\nbenchmark: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.5%\n-2.5%\nrate-sensitive\nrate-sensitive: -2.6%\n-2.6%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.2%\n-3.2%\ncommodity\ncommodity: -6.4%\n-6.4%\nhealthcare\nhealthcare: -8.3%\n-8.3%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.2%\n118.2%\nsemiconductors\nsemiconductors: 107.7%\n107.7%\nlong-duration growth\nlong-duration growth: 49.5%\n49.5%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.2%\n43.2%\nbenchmark\nbenchmark: 36.9%\n36.9%\ninternational\ninternational: 35.6%\n35.6%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.7%\n26.7%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
   },
   {
-    "objectID": "index.html#entries",
-    "href": "index.html#entries",
-    "title": "Market Journal",
-    "section": "Entries",
-    "text": "Entries"
+    "objectID": "dashboard.html#groups-at-a-glance",
+    "href": "dashboard.html#groups-at-a-glance",
+    "title": "Dashboard",
+    "section": "",
+    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -1.3%\n-1.3%\ndefensive\ndefensive: -1.8%\n-1.8%\nbenchmark\nbenchmark: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.5%\n-2.5%\nrate-sensitive\nrate-sensitive: -2.6%\n-2.6%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.2%\n-3.2%\ncommodity\ncommodity: -6.4%\n-6.4%\nhealthcare\nhealthcare: -8.3%\n-8.3%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.2%\n118.2%\nsemiconductors\nsemiconductors: 107.7%\n107.7%\nlong-duration growth\nlong-duration growth: 49.5%\n49.5%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.2%\n43.2%\nbenchmark\nbenchmark: 36.9%\n36.9%\ninternational\ninternational: 35.6%\n35.6%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.7%\n26.7%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
+  },
+  {
+    "objectID": "dashboard.html#all-instruments",
+    "href": "dashboard.html#all-instruments",
+    "title": "Dashboard",
+    "section": "All instruments",
+    "text": "All instruments\nData through 2026-11-23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngroup\nlast\n1d %\n5d %\nvs 20d avg %\nvs 50d avg %\nvs 200d avg %\ntrend\n\n\n\n\n^VIX\nmacro\n27.36\n-23.77\n19.42\n23.54\n46.78\n46.13\nMixed\n\n\nCL=F\nmacro\n80.98\n-3.57\n-5.53\n-10.55\n-13.61\n-8.37\nMixed\n\n\nUNH\nhealthcare\n333.50\n-1.87\n-19.06\n-14.63\n-13.98\n-8.92\nMixed\n\n\nXOM\ncommodity\n157.93\n-1.29\n-5.36\n-6.62\n-6.14\n1.92\nMixed\n\n\nKO\ndefensive\n95.77\n-1.26\n-3.73\n-0.24\n4.17\n14.93\nUp\n\n\nCVX\ncommodity\n206.70\n-0.80\n-4.02\n-4.38\n-3.25\n6.84\nMixed\n\n\nTIP\nbonds and credit\n105.58\n-0.15\n0.97\n-0.05\n0.43\n-1.03\nMixed\n\n\nJNJ\nhealthcare\n270.34\n-0.05\n-4.32\n-1.77\n1.06\n8.30\nUp\n\n\nTLT\nbonds and credit\n81.53\n0.09\n2.70\n0.75\n2.19\n-1.31\nMixed\n\n\nLQD\nbonds and credit\n103.83\n0.14\n1.01\n0.13\n0.73\n-1.32\nMixed\n\n\nO\nrate-sensitive\n58.12\n0.16\n-0.73\n-0.19\n3.04\n-3.42\nMixed\n\n\nDHI\nrate-sensitive\n145.79\n0.24\n0.72\n-1.19\n2.68\n-0.33\nMixed\n\n\nPG\ndefensive\n169.84\n0.28\n-1.84\n2.02\n8.34\n14.35\nUp\n\n\nHYG\nbonds and credit\n76.64\n0.41\n-0.11\n-0.46\n-0.41\n-1.07\nDown\n\n\nWMT\ndefensive\n128.61\n0.52\n0.16\n2.28\n9.89\n8.37\nMixed\n\n\nUNP\ncyclical\n289.14\n0.64\n-4.80\n-3.39\n0.30\n5.52\nUp\n\n\nDX-Y.NYB\nmacro\n104.47\n0.64\n0.89\n1.73\n2.44\n4.43\nUp\n\n\n^TNX\nmacro\n4.95\n0.69\n-3.42\n-0.78\n-2.57\n7.37\nMixed\n\n\nLLY\nhealthcare\n1359.69\n0.93\n-5.03\n-1.96\n7.06\n21.77\nUp\n\n\nXLV\nhealthcare\n178.90\n0.94\n-4.78\n-2.94\n1.26\n11.72\nUp\n\n\nXLU\nrate-sensitive\n43.17\n1.12\n-2.15\n-0.55\n2.92\n-1.68\nMixed\n\n\nFXI\ninternational\n31.61\n1.23\n-5.12\n-4.89\n-5.88\n-9.84\nDown\n\n\nKRE\nrate-sensitive\n69.35\n1.50\n-3.94\n-3.69\n-2.61\n-1.82\nMixed\n\n\nAVGO\nsemiconductors\n309.23\n1.58\n-7.25\n-6.69\n-9.57\n-15.70\nDown\n\n\nAAPL\nlong-duration growth\n348.67\n1.79\n-1.16\n0.32\n1.98\n15.02\nUp\n\n\nHD\ncyclical\n345.59\n1.93\n-0.55\n1.40\n9.48\n5.22\nMixed\n\n\nJPM\nrate-sensitive\n318.12\n2.44\n-5.94\n-5.26\n-5.38\n-1.48\nMixed\n\n\nMSFT\nlong-duration growth\n496.83\n2.54\n-3.90\n-4.51\n-4.22\n12.30\nMixed\n\n\nBAC\nrate-sensitive\n48.25\n2.57\n-3.65\n-3.35\n-8.04\n-11.21\nDown\n\n\nHG=F\nmacro\n5.63\n2.81\n-6.11\n-8.84\n-12.20\n-9.51\nMixed\n\n\nIWM\nbenchmark\n264.93\n3.24\n-2.93\n-3.88\n-4.63\n-4.94\nDown\n\n\nGLD\ncommodity\n334.37\n3.56\n-5.26\n-6.80\n-10.53\n-17.49\nDown\n\n\nGC=F\nmacro\n3652.60\n3.90\n-5.20\n-6.89\n-10.84\n-17.70\nDown\n\n\nEWJ\ninternational\n87.14\n4.45\n-3.01\n-3.99\n-7.70\n-5.18\nMixed\n\n\nAMZN\nlong-duration growth\n257.89\n4.49\n0.05\n0.01\n1.09\n5.09\nUp\n\n\nSPY\nbenchmark\n722.17\n4.69\n-2.40\n-3.15\n-4.89\n-1.14\nMixed\n\n\nDAL\ncyclical\n84.14\n5.16\n-2.84\n-1.20\n2.15\n8.24\nUp\n\n\nSLV\ncommodity\n39.08\n5.69\n-7.82\n-12.53\n-22.86\n-35.86\nDown\n\n\nMETA\nlong-duration growth\n594.50\n6.00\n-5.09\n-3.61\n-11.95\n-5.27\nMixed\n\n\nSPCX\nspace\n135.90\n6.35\n-1.06\n-1.97\n-7.84\nnan\nn/a\n\n\nGOOGL\nlong-duration growth\n283.54\n6.88\n-0.07\n-1.48\n-11.67\n-15.74\nDown\n\n\nQQQ\nbenchmark\n650.81\n6.96\n-1.65\n-3.65\n-8.30\n-4.61\nMixed\n\n\nCAT\ncyclical\n547.89\n7.33\n-3.96\n-8.10\n-22.66\n-31.53\nDown\n\n\nEEM\ninternational\n57.97\n7.66\n-1.57\n-3.42\n-8.82\n-9.10\nDown\n\n\nAMD\nsemiconductors\n458.77\n8.10\n-9.02\n-9.24\n-16.95\n6.43\nMixed\n\n\nFCX\ncommodity\n50.05\n8.83\n-9.31\n-14.97\n-23.97\n-22.60\nMixed\n\n\nRKLB\nspace\n49.99\n10.06\n-12.86\n-10.24\n-18.17\n-35.58\nDown\n\n\nLUNR\nspace\n9.77\n11.35\n-16.70\n-10.41\n-21.02\n-48.79\nDown\n\n\nASTS\nspace\n25.93\n11.43\n-9.27\n-22.67\n-42.91\n-63.61\nDown\n\n\nTSLA\nlong-duration growth\n388.17\n12.24\n2.22\n0.92\n3.18\n1.73\nMixed\n\n\nSMH\nsemiconductors\n459.61\n14.89\n-0.50\n-6.28\n-15.80\n-12.53\nMixed\n\n\nTSM\nsemiconductors\n368.65\n15.67\n-1.28\n-5.23\n-12.46\n-8.38\nMixed\n\n\nNVDA\nsemiconductors\n164.59\n31.11\n5.41\n-7.99\n-20.13\n-18.92\nMixed"
+  },
+  {
+    "objectID": "dashboard.html#reading-the-table",
+    "href": "dashboard.html#reading-the-table",
+    "title": "Dashboard",
+    "section": "Reading the table",
+    "text": "Reading the table\n\n1d % and 5d % are close-to-close returns over one and five trading days.\nvs 20d / 50d / 200d avg % show how far the latest close sits above (positive) or below (negative) its 20-, 50- and 200-day moving average: the short-, medium- and long-term trend.\ntrend is a rule-based label: Up when the close is above the 50-day average and the 50-day is above the 200-day; Down when both are reversed; Mixed otherwise. It describes the current trend. It is not a forecast and not a recommendation to buy or sell.\nPrices are daily closes from Yahoo Finance, adjusted for splits and dividends."
+  },
+  {
+    "objectID": "dashboard.html#symbol-guide",
+    "href": "dashboard.html#symbol-guide",
+    "title": "Dashboard",
+    "section": "Symbol guide",
+    "text": "Symbol guide\nMacro series\n\n\n\n\n\n\n\n\nSymbol\nWhat it is\nHow to read it\n\n\n\n\n^TNX\n10-year US Treasury yield, in percent\nRises when bond prices fall; the benchmark long-term interest rate\n\n\n^VIX\nCboe Volatility Index\nExpected S&P 500 volatility over the next 30 days; rises when investors are fearful\n\n\nDX-Y.NYB\nUS Dollar Index\nThe dollar against a basket of major currencies; rises when the dollar strengthens\n\n\nCL=F\nCrude oil futures (WTI), dollars per barrel\nThe US oil price benchmark\n\n\nGC=F\nGold futures, dollars per ounce\nThe gold price\n\n\nHG=F\nCopper futures, dollars per pound\nA gauge of global industrial demand\n\n\n\nHow the symbols are built\n\nA symbol starting with ^ is an index.\nA symbol ending in =F is a futures contract. The =F is a suffix added by Yahoo Finance, the data source, to mark futures; it is not part of the exchange’s own code.\nThe letters before =F are the exchange’s trading code for the product:\n\n\n\n\n\n\n\n\n\nSymbol\nExchange code\nStands for\n\n\n\n\nCL=F\nCL\nCrude Light: light sweet crude oil (WTI), traded on the New York Mercantile Exchange\n\n\nGC=F\nGC\nGold, traded on the COMEX exchange\n\n\nHG=F\nHG\nHigh Grade copper, traded on the COMEX exchange\n\n\n\nFutures contracts expire monthly. Each =F symbol shows the nearest contract and rolls to the next one automatically, so the price series can shift slightly on a roll date.\nFunds\n\n\n\nSymbol\nWhat it holds\n\n\n\n\nSPY, QQQ, IWM\nS&P 500, Nasdaq-100, and Russell 2000 small caps\n\n\nTLT\nLong-term US Treasury bonds (20+ years)\n\n\nTIP\nInflation-protected Treasury bonds\n\n\nLQD, HYG\nInvestment-grade and high-yield corporate bonds\n\n\nKRE\nUS regional banks\n\n\nXLU\nUS utilities\n\n\nXLV\nUS healthcare companies\n\n\nSMH\nSemiconductor companies\n\n\nGLD, SLV\nPhysical gold and silver\n\n\nEEM, FXI, EWJ\nEmerging markets, large Chinese companies, and Japan\n\n\n\nAll other symbols are individual company stocks."
+  },
+  {
+    "objectID": "case-studies/2026-11-05.html",
+    "href": "case-studies/2026-11-05.html",
+    "title": "The worst day since April 2025: a policy shock to the AI build-out",
+    "section": "",
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
+  },
+  {
+    "objectID": "case-studies/2026-11-05.html#observation",
+    "href": "case-studies/2026-11-05.html#observation",
+    "title": "The worst day since April 2025: a policy shock to the AI build-out",
+    "section": "Observation",
+    "text": "Observation\n\nSPY fell 4.41%, QQQ 6.49% and IWM 4.59%.\nNVDA fell 9.26%, AMD 17.26% and SMH 11.2%. The space group averaged -12.4%.\nThe VIX rose 69.7% to 28.2.\nSafe assets behaved normally: TLT +0.21%, GLD +0.81%, and the 10-year yield fell to 4.84%."
+  },
+  {
+    "objectID": "case-studies/2026-11-05.html#mechanism",
+    "href": "case-studies/2026-11-05.html#mechanism",
+    "title": "The worst day since April 2025: a policy shock to the AI build-out",
+    "section": "Mechanism",
+    "text": "Mechanism\nChannel: cash flows and the risk premium, amplified by flows.\n\nThe midterm elections produced a sweep for the Democrats.\nInvestors feared new regulation of data-center development, which would slow the AI build-out.\nA slower build-out means lower expected revenue for chipmakers and their suppliers, so those stocks were repriced.\nA volatility jump of that size typically forces strategies that target a fixed level of risk to cut positions, which would have added to the selling. I have not verified positioning data for this day.\n\nYields fell on the day and growth stocks still collapsed. That rules out the discount rate as the cause: this was about expected cash flows and uncertainty."
+  },
+  {
+    "objectID": "case-studies/2026-11-05.html#what-happened-next",
+    "href": "case-studies/2026-11-05.html#what-happened-next",
+    "title": "The worst day since April 2025: a policy shock to the AI build-out",
+    "section": "What happened next",
+    "text": "What happened next\nOver the following five trading days SPY recovered 3.3% and QQQ 6.4%, after several brokerages argued that extreme regulation was unlikely. NVDA fell a further 8.5% for reasons specific to the company."
+  },
+  {
+    "objectID": "case-studies/2026-11-05.html#lesson",
+    "href": "case-studies/2026-11-05.html#lesson",
+    "title": "The worst day since April 2025: a policy shock to the AI build-out",
+    "section": "Lesson",
+    "text": "Lesson\nThe market priced a risk, not a law. Policy shocks tend to be priced at their worst case on the first day and revised as the realistic range becomes clearer. It is also worth comparing gold here with November 20: on this day gold rose, a normal flight to safety; two weeks later it fell with stocks, which pointed to forced selling."
+  },
+  {
+    "objectID": "case-studies/2026-11-05.html#sources",
+    "href": "case-studies/2026-11-05.html#sources",
+    "title": "The worst day since April 2025: a policy shock to the AI build-out",
+    "section": "Sources",
+    "text": "Sources\n\nCboe, “Market Swims in a Sea of Red”\ninvestingLive, “Nasdaq 100 suffers worst day since 2020”\nReuters via New Straits Times, on the cause and the rebound"
+  },
+  {
+    "objectID": "case-studies/2026-10-30.html",
+    "href": "case-studies/2026-10-30.html",
+    "title": "Intel’s worst day since 1974 turns AI-spending doubts into a sector selloff",
+    "section": "",
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
+  },
+  {
+    "objectID": "case-studies/2026-10-30.html#observation",
+    "href": "case-studies/2026-10-30.html#observation",
+    "title": "Intel’s worst day since 1974 turns AI-spending doubts into a sector selloff",
+    "section": "Observation",
+    "text": "Observation\n\nQQQ fell 3.47% and SPY 1.77%.\nAMD fell 10.88%, SMH 6.98% and NVDA 4.22%. The space group averaged -6.8%.\nDefensives (+1.3%) and healthcare (+0.5%) rose. TLT gained 0.43% and the 10-year yield ended at 4.93%.\nGLD fell 3.47%. The VIX rose 12.9% to 19.4."
+  },
+  {
+    "objectID": "case-studies/2026-10-30.html#mechanism",
+    "href": "case-studies/2026-10-30.html#mechanism",
+    "title": "Intel’s worst day since 1974 turns AI-spending doubts into a sector selloff",
+    "section": "Mechanism",
+    "text": "Mechanism\nChannel: cash flows.\n\nIntel fell 28.6% after its results, and Amazon’s report added to concern about the cost of AI infrastructure.\nInvestors questioned whether the industry’s capital spending would earn an adequate return.\nThat doubt was applied to the whole hardware supply chain, so semiconductors were repriced together.\nMoney rotated into defensives and bonds, which is an orderly move away from one theme, not a rush for cash.\n\nThe dispersion inside the sector is informative: NVDA fell less than half as much as AMD, so investors were still ranking companies and not selling the group indiscriminately.\nOpen question. Gold fell 3.5% on a day when bonds rose. A safe asset falling alongside equities can indicate selling to cover losses elsewhere. I would need positioning data to confirm it."
+  },
+  {
+    "objectID": "case-studies/2026-10-30.html#what-happened-next",
+    "href": "case-studies/2026-10-30.html#what-happened-next",
+    "title": "Intel’s worst day since 1974 turns AI-spending doubts into a sector selloff",
+    "section": "What happened next",
+    "text": "What happened next\nOver the following five trading days QQQ fell a further 5.0%, NVDA 8.8% and AMD 11.0%. The selling continued."
+  },
+  {
+    "objectID": "case-studies/2026-10-30.html#lesson",
+    "href": "case-studies/2026-10-30.html#lesson",
+    "title": "Intel’s worst day since 1974 turns AI-spending doubts into a sector selloff",
+    "section": "Lesson",
+    "text": "Lesson\nCompare this with July 29. A geopolitical shock reversed within days because the feared event did not happen. A repricing based on doubts about cash flows persisted, because nothing arrived to answer the doubt. The cause of a selloff says a lot about how long it lasts."
+  },
+  {
+    "objectID": "case-studies/2026-10-30.html#sources",
+    "href": "case-studies/2026-10-30.html#sources",
+    "title": "Intel’s worst day since 1974 turns AI-spending doubts into a sector selloff",
+    "section": "Sources",
+    "text": "Sources\n\nReuters via Virginia Business, “Wall Street closes sharply lower as AI cash burn fears spark tech selloff”\nReuters via Honolulu Star-Advertiser, market report for October 30, 2026\nAlliance News, “Nasdaq slides 2.9% as tech earnings disappoint”"
+  },
+  {
+    "objectID": "case-studies/2026-11-09.html",
+    "href": "case-studies/2026-11-09.html",
+    "title": "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%",
+    "section": "",
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
+  },
+  {
+    "objectID": "case-studies/2026-11-09.html#observation",
+    "href": "case-studies/2026-11-09.html#observation",
+    "title": "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%",
+    "section": "Observation",
+    "text": "Observation\n\nSPY rose 2.37%, QQQ 3.54% and IWM 3.23%.\nAMD gained 13.26% and the space group averaged +11.5%.\nNVDA fell 4.27% to $178.67, the only large semiconductor name to decline.\nCrude oil fell 4.4% to $86.85 and the VIX dropped 22.3% to 19.9."
+  },
+  {
+    "objectID": "case-studies/2026-11-09.html#mechanism",
+    "href": "case-studies/2026-11-09.html#mechanism",
+    "title": "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%",
+    "section": "Mechanism",
+    "text": "Mechanism\nThe market: the risk-free rate and a falling risk premium.\n\nOil fell, which eased inflation concern.\nAnalysts argued the previous week’s selloff had overstated the regulatory risk.\nBuyers returned to the names that had fallen most.\n\nNvidia: company-specific risk premium.\n\nThe company said it was examining claims of a foreign intelligence effort connected to its chief executive.\nThat raised governance and key-person risk for one company only.\nInvestors demanded a higher return to hold it, so it fell while its peers rallied."
+  },
+  {
+    "objectID": "case-studies/2026-11-09.html#what-happened-next",
+    "href": "case-studies/2026-11-09.html#what-happened-next",
+    "title": "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%",
+    "section": "What happened next",
+    "text": "What happened next\nOver the following five trading days NVDA fell a further 12.6% as the chief executive resigned, while SPY lost 1.7%."
+  },
+  {
+    "objectID": "case-studies/2026-11-09.html#lesson",
+    "href": "case-studies/2026-11-09.html#lesson",
+    "title": "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%",
+    "section": "Lesson",
+    "text": "Lesson\nWhen the leading stock of a sector diverges from the sector on company news, the divergence is the information. Governance events are rarely resolved in one disclosure, so the first day’s move is usually not the full repricing."
+  },
+  {
+    "objectID": "case-studies/2026-11-09.html#sources",
+    "href": "case-studies/2026-11-09.html#sources",
+    "title": "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%",
+    "section": "Sources",
+    "text": "Sources\n\nReuters via New Straits Times, “Wall Street jumps as oil slide cools inflation worries; Nvidia slumps”\nAssociated Press via WDBO, market report for November 9, 2026"
+  },
+  {
+    "objectID": "case-studies/2026-08-04.html",
+    "href": "case-studies/2026-08-04.html",
+    "title": "Record highs as oil falls; SpaceX runs up into its first earnings report",
+    "section": "",
+    "text": "NoteRetrospective case study\n\n\n\nWritten in November 2026, after the event, as a training exercise. It contains no prediction and is not part of the scored record. Price figures come from the project data file; news facts are sourced at the end."
+  },
+  {
+    "objectID": "case-studies/2026-08-04.html#observation",
+    "href": "case-studies/2026-08-04.html#observation",
+    "title": "Record highs as oil falls; SpaceX runs up into its first earnings report",
+    "section": "Observation",
+    "text": "Observation\n\nSPY rose 1.80% to a record close and QQQ rose 3.40%.\nCrude oil fell 5.7% to $75.77. TLT gained 0.77% and the 10-year yield ended at 4.63%.\nSPCX rose 9.43% to $125.33 ahead of its first report as a public company, still below its $135 offer price.\nSpace (+8.1%), semiconductors (+4.9%) and cyclicals (+2.8%) led. Healthcare was the only negative group."
+  },
+  {
+    "objectID": "case-studies/2026-08-04.html#mechanism",
+    "href": "case-studies/2026-08-04.html#mechanism",
+    "title": "Record highs as oil falls; SpaceX runs up into its first earnings report",
+    "section": "Mechanism",
+    "text": "Mechanism\nChannel: the risk-free rate, plus cash flows from earnings.\nThis was the mirror image of July 29.\n\nHopes for a deal to reopen the Strait of Hormuz pushed oil lower.\nLower oil eased inflation pressure, so bond yields fell.\nA lower discount rate lifted long-duration equities, and stocks and bonds rose together.\nStrong results and guidance from industrial and software companies added a cash-flow reason to buy.\n\nSpaceX: positioning ahead of an event. The stock rose 9% before the numbers were known, which raised the bar the report had to clear."
+  },
+  {
+    "objectID": "case-studies/2026-08-04.html#what-happened-next",
+    "href": "case-studies/2026-08-04.html#what-happened-next",
+    "title": "Record highs as oil falls; SpaceX runs up into its first earnings report",
+    "section": "What happened next",
+    "text": "What happened next\nSpaceX reported revenue above expectations after the close, but capital spending rose sharply and the stock fell 13.6% the next day. SPY was flat over the following five trading days."
+  },
+  {
+    "objectID": "case-studies/2026-08-04.html#lesson",
+    "href": "case-studies/2026-08-04.html#lesson",
+    "title": "Record highs as oil falls; SpaceX runs up into its first earnings report",
+    "section": "Lesson",
+    "text": "Lesson\nA run-up into an event is a bet on the outcome, and it leaves less room for a good result to be rewarded. The reaction also repeated the July 30 pattern: revenue alone was not enough when spending surprised on the high side."
+  },
+  {
+    "objectID": "case-studies/2026-08-04.html#sources",
+    "href": "case-studies/2026-08-04.html#sources",
+    "title": "Record highs as oil falls; SpaceX runs up into its first earnings report",
+    "section": "Sources",
+    "text": "Sources\n\nBriefing.com, “Tech rally drives fresh record highs”\nAlliance News, “Shares rise, oil falls on Hormuz deal hopes”\nTrading Economics, “US Stocks Hit Record Highs as Strong Earnings Fuel Rally”\nThe Korea Herald, market report for August 5, 2026"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Market Journal is a daily research journal written by Blaire (Meina) Bian."
+  },
+  {
+    "objectID": "about.html#what-it-is",
+    "href": "about.html#what-it-is",
+    "title": "About",
+    "section": "What it is",
+    "text": "What it is\nEach entry takes one market move and works through it in four steps:\n\nObservation: what moved, by how much, relative to the benchmark.\nMechanism: which channel drove it (cash flows, the risk-free rate, the risk premium, or flows) and the causal chain behind it.\nPrediction: a testable call with a deadline and a probability.\nScoring: whether the call was right, and which link in the reasoning held or broke.\n\nEvery entry is committed to version control, so each prediction carries a timestamp that precedes its outcome."
+  },
+  {
+    "objectID": "about.html#why",
+    "href": "about.html#why",
+    "title": "About",
+    "section": "Why",
+    "text": "Why\nTo build calibrated, mechanism-level judgment about how macroeconomic, policy, and company-level shocks transmit into asset prices. The journal is paired with a simulated portfolio so that each view is tested with a position."
+  },
+  {
+    "objectID": "about.html#more-detail",
+    "href": "about.html#more-detail",
+    "title": "About",
+    "section": "More detail",
+    "text": "More detail\nThe full framework, including the factor map and the rules for the simulated portfolio, is in the project README.\nThis is a personal learning project. Nothing here is investment advice."
   }
 ]

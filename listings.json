@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/case-studies.html",
+    "items": [
+      "/case-studies/2026-11-20.html",
+      "/case-studies/2026-11-09.html",
+      "/case-studies/2026-11-05.html",
+      "/case-studies/2026-10-30.html",
+      "/case-studies/2026-08-04.html",
+      "/case-studies/2026-07-30.html",
+      "/case-studies/2026-07-29.html",
+      "/case-studies/2026-06-15.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/entries/2026-11-20.html"

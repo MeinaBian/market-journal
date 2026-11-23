@@ -1,16 +1,22 @@
 ---
 title: "Dashboard"
 ---
-{{< include data/_latest.md >}}
+## Groups at a glance
 
-## Volatility by group
+{{< include data/_group_returns.md >}}
 
 {{< include data/_group_volatility.md >}}
 
-Each bar is the average annualized volatility of the tickers in that group,
-measured from daily returns over the last 20 trading days. Macro series are
-left out because a yield or an index level is not comparable with a tradable
-price. Hover over a bar for its value.
+**How to read the charts**
+
+- **Five-day return** is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.
+- **Volatility** is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.
+- Read them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.
+- Macro series are left out because a yield or an index level is not comparable with a tradable price.
+
+## All instruments
+
+{{< include data/_latest.md >}}
 
 ## Reading the table
 
@@ -64,3 +70,27 @@ slightly on a roll date.
 | EEM, FXI, EWJ | Emerging markets, large Chinese companies, and Japan |
 
 All other symbols are individual company stocks.
+
+```{=html}
+<script>
+// Show trend labels as small bordered tags with a direction mark.
+document.addEventListener("DOMContentLoaded", function () {
+  var marks = { Up: "\u25B2 Up", Down: "\u25BC Down", Mixed: "\u2013 Mixed" };
+  document.querySelectorAll("main table").forEach(function (table) {
+    var heads = Array.from(table.querySelectorAll("thead th")).map(function (th) {
+      return th.textContent.trim().toLowerCase();
+    });
+    var col = heads.indexOf("trend");
+    if (col < 0) return;
+    table.classList.add("dashboard-table", "column-body-outset");
+    table.querySelectorAll("tbody tr").forEach(function (row) {
+      var cell = row.children[col];
+      if (!cell) return;
+      var value = cell.textContent.trim();
+      if (!marks[value]) return;
+      cell.innerHTML = '<span class="trend-pill ' + value.toLowerCase() + '">' + marks[value] + "</span>";
+    });
+  });
+});
+</script>
+```

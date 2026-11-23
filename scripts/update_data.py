@@ -54,57 +54,94 @@ table = pd.DataFrame({
 }).sort_values("1d %")
 
 Path("data/_latest.md").write_text(
-    f"Data through {px.index[-1].date()}\n\n" + table.to_markdown()
+    f"Data through {px.index[-1].date()}\n\n" + table.to_markdown(floatfmt=".2f")
 )
 
 
-# ---- Group volatility chart -------------------------------------------------
-# Annualized volatility of daily returns over the last 20 trading days,
-# averaged across the tickers in each group. Macro series are excluded because
-# a yield or an index level is not comparable with a tradable price.
+# ---- Group charts ------------------------------------------------------------
+# Macro series are excluded from group charts because a yield or an index
+# level is not comparable with a tradable price.
 groups = tickers.set_index("ticker")["group"]
-returns = px.pct_change().tail(20)
-ticker_vol = returns.std() * (252 ** 0.5) * 100
+tradable = groups[groups != "macro"].index
+
+BLUE, ORANGE, INK, MUTED, AXIS = "#2a78d6", "#eb6834", "#0b0b0b", "#52514e", "#c9c8c2"
+
+
+def bar_chart(values, title, subtitle, path):
+    """Write a horizontal bar chart as inline SVG. Handles negative values."""
+    row_h, top, width = 34, 48, 720
+    low, high = min(values.min(), 0), max(values.max(), 0)
+    # plot area; leave room for value labels left of negative bars
+    x0, x1 = (235 if low < 0 else 175), width - 65
+    span = (high - low) or 1
+    zero = x0 + (0 - low) / span * (x1 - x0)
+    height = top + row_h * len(values) + 10
+    svg = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
+        f'style="width:100%;max-width:{width}px;font-family:inherit" role="img" '
+        f'aria-label="{title}. {subtitle}">',
+        f'<text x="0" y="18" font-size="15" font-weight="600" fill="{INK}">{title}</text>',
+        f'<text x="0" y="37" font-size="12" fill="{MUTED}">{subtitle}</text>',
+    ]
+    for i, (name, value) in enumerate(values.items()):
+        y = top + i * row_h + 5
+        length = max(abs(value) / span * (x1 - x0), 2)
+        x = zero if value >= 0 else zero - length
+        color = BLUE if value >= 0 else ORANGE
+        sign = "+" if value > 0 and low < 0 else ""
+        svg.append(
+            f'<text x="160" y="{y + 15}" font-size="13" text-anchor="end" '
+            f'fill="{INK}">{name}</text>'
+        )
+        svg.append(
+            f'<rect x="{x:.1f}" y="{y}" width="{length:.1f}" height="20" rx="4" '
+            f'fill="{color}"><title>{name}: {sign}{value:.1f}%</title></rect>'
+        )
+        if value >= 0:
+            svg.append(
+                f'<text x="{zero + length + 7:.1f}" y="{y + 15}" font-size="13" '
+                f'fill="{INK}">{sign}{value:.1f}%</text>'
+            )
+        else:
+            svg.append(
+                f'<text x="{zero - length - 7:.1f}" y="{y + 15}" font-size="13" '
+                f'text-anchor="end" fill="{INK}">{value:.1f}%</text>'
+            )
+    svg.append(
+        f'<line x1="{zero:.1f}" y1="{top}" x2="{zero:.1f}" y2="{height - 6}" '
+        f'stroke="{AXIS}" stroke-width="1"/>'
+    )
+    svg.append("</svg>")
+    Path(path).write_text("```{=html}\n" + "\n".join(svg) + "\n```\n")
+
+
+# 1) Five-day return by group: average close-to-close return of the members
+ticker_ret = (last / px.iloc[-6] - 1) * 100
+group_ret = (
+    ticker_ret[tradable].groupby(groups).mean().dropna()
+    .sort_values(ascending=False).round(1)
+)
+bar_chart(
+    group_ret,
+    "Five-day return by group",
+    "Average close-to-close return of the tickers in each group (%)",
+    "data/_group_returns.md",
+)
+
+# 2) Volatility by group: annualized, from daily returns over 20 trading days
+ticker_vol = px.pct_change().tail(20).std() * (252 ** 0.5) * 100
 group_vol = (
-    ticker_vol[groups[groups != "macro"].index]
-    .groupby(groups)
-    .mean()
-    .dropna()
-    .sort_values(ascending=False)
-    .round(1)
+    ticker_vol[tradable].groupby(groups).mean().dropna()
+    .sort_values(ascending=False).round(1)
 )
-group_vol.rename("annualized volatility %").to_csv("data/group_volatility.csv")
-
-row_h, left, right, top = 34, 170, 70, 44
-width = 720
-height = top + row_h * len(group_vol) + 12
-scale = (width - left - right) / group_vol.max()
-svg = [
-    f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
-    f'style="width:100%;max-width:{width}px;font-family:inherit" role="img" '
-    f'aria-label="Average annualized volatility by group, last 20 trading days">',
-    f'<text x="0" y="18" font-size="15" font-weight="600" fill="#0b0b0b">'
-    f'Volatility by group</text>',
-    f'<text x="0" y="36" font-size="12" fill="#52514e">'
-    f'Average annualized volatility of daily returns, last 20 trading days (%)</text>',
-]
-for i, (name, value) in enumerate(group_vol.items()):
-    y = top + i * row_h + 6
-    bar = max(value * scale, 2)
-    svg.append(
-        f'<text x="{left - 10}" y="{y + 15}" font-size="13" text-anchor="end" '
-        f'fill="#0b0b0b">{name}</text>'
-    )
-    svg.append(
-        f'<rect x="{left}" y="{y}" width="{bar:.1f}" height="20" rx="4" fill="#2a78d6">'
-        f'<title>{name}: {value:.1f}%</title></rect>'
-    )
-    svg.append(
-        f'<text x="{left + bar + 8:.1f}" y="{y + 15}" font-size="13" '
-        f'fill="#0b0b0b">{value:.1f}%</text>'
-    )
-svg.append("</svg>")
-
-Path("data/_group_volatility.md").write_text(
-    "```{=html}\n" + "\n".join(svg) + "\n```\n"
+bar_chart(
+    group_vol,
+    "Volatility by group",
+    "Average annualized volatility of daily returns, last 20 trading days (%)",
+    "data/_group_volatility.md",
 )
+
+pd.DataFrame({
+    "5d return %": group_ret,
+    "annualized volatility %": group_vol,
+}).to_csv("data/group_summary.csv")

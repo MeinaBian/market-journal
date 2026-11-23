@@ -22,4 +22,28 @@ Predictions are published before their outcomes are known, and entries are
 not edited afterwards except to add the score.
 :::
 
+::: {.callout-note title="The watchlist" icon=false}
+The journal tracks 46 instruments, grouped by what each is sensitive to, so
+that every kind of macro event has a clear test case. Daily moves and trend
+measures for all of them are on the [Dashboard](dashboard.qmd).
+
+| Group | Instruments |
+|---|---|
+| Macro series | 10-year Treasury yield, VIX, dollar index, crude oil, gold, copper |
+| Benchmarks | SPY, QQQ, IWM |
+| Bonds and credit | TLT, TIP, LQD, HYG |
+| Rate-sensitive | JPM, BAC, KRE, XLU, DHI, O |
+| Long-duration growth | MSFT, AAPL, AMZN, GOOGL, META, TSLA |
+| Semiconductors | NVDA, AMD, AVGO, TSM, SMH |
+| Commodity-linked | XOM, CVX, FCX, GLD, SLV |
+| Cyclical | CAT, UNP, HD, DAL |
+| Defensive | PG, KO, JNJ, WMT |
+| International | EEM, FXI, EWJ |
+
+**How to use the Dashboard.** Start with the macro series to see what rates,
+volatility, the dollar, and commodities did. Then compare the groups: which
+ones moved with the benchmark and which diverged. A divergence is usually
+where the day's entry begins.
+:::
+
 ## Entries

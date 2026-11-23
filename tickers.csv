@@ -3,11 +3,45 @@ ticker,group
 ^VIX,macro
 DX-Y.NYB,macro
 CL=F,macro
+GC=F,macro
+HG=F,macro
 SPY,benchmark
+QQQ,benchmark
+IWM,benchmark
+TLT,bonds and credit
+TIP,bonds and credit
+LQD,bonds and credit
+HYG,bonds and credit
 JPM,rate-sensitive
+BAC,rate-sensitive
+KRE,rate-sensitive
 XLU,rate-sensitive
 DHI,rate-sensitive
-NVDA,long-duration growth
+O,rate-sensitive
 MSFT,long-duration growth
+AAPL,long-duration growth
+AMZN,long-duration growth
+GOOGL,long-duration growth
+META,long-duration growth
+TSLA,long-duration growth
+NVDA,semiconductors
+AMD,semiconductors
+AVGO,semiconductors
+TSM,semiconductors
+SMH,semiconductors
 XOM,commodity
+CVX,commodity
+FCX,commodity
+GLD,commodity
+SLV,commodity
+CAT,cyclical
+UNP,cyclical
+HD,cyclical
+DAL,cyclical
 PG,defensive
+KO,defensive
+JNJ,defensive
+WMT,defensive
+EEM,international
+FXI,international
+EWJ,international

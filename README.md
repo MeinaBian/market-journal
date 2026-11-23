@@ -197,10 +197,21 @@ sensibly, and mistakes were diagnosed correctly.
 
 ## 9. Universe
 
-Tickers are chosen for what they are sensitive to, so each macro shock has a
-clean test case: rate-sensitive names, long-duration growth, commodity-linked,
-defensives, a market benchmark, and macro series. The watchlist is being built
-out to about 30 names; the current list is in `tickers.csv`.
+The watchlist holds 46 instruments, chosen for what they are sensitive to, so
+that each macro shock has a clean test case. The full list is in `tickers.csv`.
+
+| Group | Count | What it tests |
+|---|---|---|
+| Macro series | 6 | 10-year yield, volatility index, dollar index, crude oil, gold, copper |
+| Benchmarks | 3 | Large caps, growth-heavy large caps, small caps |
+| Bonds and credit | 4 | Duration, inflation protection, investment-grade and high-yield credit |
+| Rate-sensitive | 6 | Banks, regional banks, utilities, homebuilders, real estate |
+| Long-duration growth | 6 | Large technology and consumer platforms |
+| Semiconductors | 5 | The AI hardware cycle and export-policy exposure |
+| Commodity-linked | 5 | Energy, copper, gold, silver |
+| Cyclical | 4 | Industrials, transport, housing-related retail, airlines |
+| Defensive | 4 | Staples and healthcare |
+| International | 3 | Emerging markets, China, Japan |
 
 ## 10. Data and methodology
 

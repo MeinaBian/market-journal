@@ -2,7 +2,7 @@ project:
   type: website
 website:
   title: "Market Journal"
-  description: "A daily research journal by Meina (Blaire) Bian"
+  description: "A daily research journal by Blaire (Meina) Bian"
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +16,7 @@ website:
         href: https://github.com/MeinaBian/market-journal
         aria-label: GitHub
   page-footer:
-    left: "© 2026 Meina (Blaire) Bian. All rights reserved."
+    left: "© 2026 Blaire (Meina) Bian. All rights reserved."
     right: "Personal research journal. Not investment advice."
 format:
   html:

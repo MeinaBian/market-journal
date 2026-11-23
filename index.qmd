@@ -1,6 +1,6 @@
 ---
 title: "Market Journal"
-subtitle: "by Blaire, B."
+subtitle: "by Meina (Blaire) Bian"
 listing:
   contents: entries
   sort: "date desc"

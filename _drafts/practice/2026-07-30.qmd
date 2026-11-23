@@ -1,0 +1,40 @@
+---
+title: "Practice: Microsoft up, Meta down"
+date: 2026-07-30
+categories: [practice, earnings, cash-flows]
+---
+::: {.callout-note title="Practice entry, written in hindsight" icon=false}
+This entry was written in November 2026, after the outcome was known, to
+practise the journal's method on a past market day. The prediction shows what
+the mechanism would have implied that evening. It is not part of the scored
+record.
+:::
+
+## Observation
+<!-- REWRITE: why is it informative that two similar companies moved in opposite directions? -->
+
+- MSFT +15.51%, its best day since 2008. META -7.95% on the same day.
+- AMD +13.0%, SMH +6.9%, QQQ +3.30%.
+- Healthcare -2.4% and defensives -1.6%. The 10-year yield rose slightly to 4.66%.
+
+## Mechanism
+<!-- REWRITE: what exactly did Microsoft show that Meta did not? -->
+
+- Channel: cash flows.
+- Microsoft beat expectations on cloud growth and did not raise its spending plans.
+- Meta missed on earnings and raised its spending forecast, and its free cash flow fell sharply.
+- The market rewarded AI spending that was already producing revenue.
+- Yields did not fall, so this rally came from earnings, not from lower rates.
+
+## Prediction
+<!-- REWRITE: the two stocks ended close together. Was 60% too confident? -->
+
+- 60% probability that MSFT outperforms META over the next five trading days (to August 6).
+- Reasoning: after a large earnings surprise, prices often keep drifting in the same direction as analysts revise estimates.
+- Wrong if META returns more than MSFT over that window.
+
+## Scoring
+
+- **Right, narrowly.** MSFT +10.8%, META +9.4%.
+- The link held, but Meta rebounded almost as much once the whole market rallied.
+- Lesson: a relative call (A beats B) removed the market direction from the bet, which is why it survived a strong week for everything.

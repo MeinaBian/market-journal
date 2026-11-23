@@ -13,7 +13,9 @@ Each entry takes one market move and works through it in four steps:
 4. **Scoring:** whether the call was right, and which link in the reasoning held or broke.
 
 Every entry is committed to version control, so each prediction carries a
-timestamp that precedes its outcome.
+timestamp that precedes its outcome. Entries dated before November 20, 2026 are
+retrospective exercises, labelled as written in hindsight and excluded from
+the scored record.
 
 ## Why
 

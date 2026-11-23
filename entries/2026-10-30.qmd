@@ -1,0 +1,39 @@
+---
+title: "Intel and the AI-spending selloff: why it continued"
+date: 2026-10-30
+categories: [retrospective, earnings, semis]
+---
+::: {.callout-note title="Retrospective entry, written in hindsight" icon=false}
+Written in November 2026, after the outcome was known, to practise the
+journal's method on a past market day. The prediction is the one the
+mechanism would have implied that evening. This entry is excluded from the
+scored record, which begins with the entry of November 20, 2026.
+:::
+
+## Observation
+<!-- REWRITE: what does it tell you that NVDA fell less than half as much as AMD? -->
+
+- QQQ -3.47%, SPY -1.77%.
+- AMD -10.88%, SMH -6.98%, NVDA -4.22%. Intel fell 28.6% on its results.
+- Defensives +1.3%, TLT +0.43%. GLD -3.47%.
+
+## Mechanism
+<!-- REWRITE: why did this selloff continue when the July 29 one reversed? -->
+
+- Channel: cash flows.
+- Intel and Amazon results raised doubt that AI spending would earn an adequate return.
+- The doubt applied to the whole hardware chain, so semiconductors fell together.
+- Money moved into defensives and bonds: a rotation out of one theme, not a rush for cash.
+
+## Prediction
+<!-- REWRITE: what kind of news would have been needed to stop the selling? -->
+
+- 60% probability that SMH underperforms SPY over the next five trading days (to November 6).
+- Reasoning: a doubt about cash flows lasts until new information answers it, and none was scheduled.
+- Wrong if SMH returns more than SPY over that window.
+
+## Scoring
+
+- **Right.** SMH -11.2%, SPY -2.7%.
+- The link held: no new information arrived to settle the doubt, and the election added a second worry.
+- Lesson: ask what would end the selloff. If nothing on the calendar can answer the question, expect it to continue.

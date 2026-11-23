@@ -1,0 +1,43 @@
+---
+title: "Practice: oil shock on a Fed day"
+date: 2026-07-29
+categories: [practice, oil, rates, geopolitics]
+---
+::: {.callout-note title="Practice entry, written in hindsight" icon=false}
+This entry was written in November 2026, after the outcome was known, to
+practise the journal's method on a past market day. The prediction shows what
+the mechanism would have implied that evening. It is not part of the scored
+record.
+:::
+
+## Observation
+<!-- REWRITE: what is unusual about stocks and bonds falling on the same day? -->
+
+- SPY -1.54%, QQQ -2.04%, NVDA -3.55%.
+- Oil +6.6% to $84.46 after an Iranian missile attack on US forces. XOM +2.4%.
+- Bonds fell too: TLT -1.65%. VIX +13.5% to 20.7.
+- Worst groups: space -6.4%, semiconductors -4.2%, cyclicals -3.2%.
+
+## Mechanism
+<!-- REWRITE: walk the chain from "oil up" to "tech stocks down" without looking. -->
+
+- Channel: the risk-free rate.
+- Higher oil raises expected inflation.
+- Higher expected inflation raises the chance of Fed rate increases, so yields rise and bond prices fall.
+- A higher discount rate hurts long-duration stocks the most.
+- Cyclicals were hit separately through higher fuel and input costs.
+
+## Prediction
+<!-- REWRITE: how would you tell a lasting oil shock from a one-day scare? -->
+
+- 55% probability that SPY closes lower on August 5 (five trading days) than $727.65.
+- Reasoning: an oil shock that lifts yields keeps pressure on stocks until oil comes back down.
+- Wrong if SPY closes above $727.65 on August 5.
+
+## Scoring
+<!-- REWRITE: which link broke, and was the mechanism wrong or just overtaken by other news? -->
+
+- **Wrong.** SPY rose 5.5% over the five days.
+- The broken link: oil did not stay high. It fell 10.9% over the same five days as tensions cooled.
+- A second force arrived that I had not weighed: Microsoft reported that evening and rose 15.5% the next day.
+- Lesson: the mechanism was sound, but it depended on oil staying up. State the condition in the prediction, and check the earnings calendar before predicting an index.

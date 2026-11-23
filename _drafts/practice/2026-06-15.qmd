@@ -1,0 +1,40 @@
+---
+title: "Practice: SpaceX day two"
+date: 2026-06-15
+categories: [practice, flows, space]
+---
+::: {.callout-note title="Practice entry, written in hindsight" icon=false}
+This entry was written in November 2026, after the outcome was known, to
+practise the journal's method on a past market day. The prediction shows what
+the mechanism would have implied that evening. It is not part of the scored
+record.
+:::
+
+## Observation
+<!-- REWRITE: which three numbers tell the story? Why did oil and XOM fall on a day stocks rose? -->
+
+- SPCX +19.6% to $192.50 on its second day, about 43% above the $135 offer price.
+- QQQ +3.14%, SPY +1.76%. Space peers rose with it: RKLB +6.7%.
+- Oil -4.9% and XOM -4.1% on a reported US-Iran deal.
+
+## Mechanism
+<!-- REWRITE: explain "flows" to a friend. Who was forced to buy, and why does a small float matter? -->
+
+- Channel: flows.
+- Only about 5% of the company was sold, so few shares were available to trade.
+- Index funds were due to buy when the stock joined the indexes later in June.
+- Demand was large and supply small, so the price rose with no news about profits.
+
+## Prediction
+<!-- REWRITE: what would YOU have predicted that evening, and at what probability? -->
+
+- 55% probability that SPCX closes higher on June 23 (five trading days) than $192.50.
+- Reasoning: the index funds had not bought yet, so more forced buying was still ahead.
+- Wrong if SPCX closes at or below $192.50 on June 23.
+
+## Scoring
+<!-- REWRITE: which link in the chain broke? What would you check next time? -->
+
+- **Wrong.** SPCX fell 18.9% over the five days; QQQ fell 4.0%.
+- The broken link: I assumed the index buying was still to come. Traders who expected it had already bought in advance, so it was in the price.
+- Lesson: when a forced buyer is publicly known, ask who has already bought ahead of them.

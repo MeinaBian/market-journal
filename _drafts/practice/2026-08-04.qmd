@@ -1,0 +1,38 @@
+---
+title: "Practice: SpaceX runs up before earnings"
+date: 2026-08-04
+categories: [practice, earnings, space, oil]
+---
+::: {.callout-note title="Practice entry, written in hindsight" icon=false}
+This entry was written in November 2026, after the outcome was known, to
+practise the journal's method on a past market day. The prediction shows what
+the mechanism would have implied that evening. It is not part of the scored
+record.
+:::
+
+## Observation
+<!-- REWRITE: compare this day with July 29. What is the same chain running in reverse? -->
+
+- SPY +1.80% to a record, QQQ +3.40%.
+- Oil -5.7% to $75.77 on hopes of a deal to reopen the Strait of Hormuz. TLT +0.77%.
+- SPCX +9.43% to $125.33 before its first earnings report, due after the close.
+
+## Mechanism
+<!-- REWRITE: why does a rally BEFORE earnings make a good report less rewarding? -->
+
+- Market: the risk-free rate channel. Lower oil, lower inflation pressure, lower yields, so stocks and bonds rose together.
+- SpaceX: positioning. Buyers bid the stock up 9% before knowing the numbers.
+- That raised the bar: the report now had to beat the higher expectation built into the price.
+
+## Prediction
+<!-- REWRITE: what did the Meta result on July 30 already teach about spending surprises? -->
+
+- 55% probability that SPCX closes lower on August 5 than $125.33.
+- Reasoning: a large run-up into an event leaves little room for a good result, and capital spending had just punished Meta.
+- Wrong if SPCX closes above $125.33 on August 5.
+
+## Scoring
+
+- **Right.** SPCX fell 13.6% the next day: revenue beat expectations but capital spending rose sharply.
+- Over five trading days, though, SPCX was up 6.4%.
+- Lesson: the horizon is part of the prediction. The same view was right at one day and wrong at five.

@@ -150,6 +150,11 @@ Central bank analysis here follows the reaction function, not the headline:
 Every entry is committed to version control, so each prediction carries a
 timestamp that precedes its outcome.
 
+The scored record begins with the entry of November 20, 2026. Entries dated
+earlier are retrospective: written in November 2026 to practise the method on
+the largest market days since June, labelled as written in hindsight, and
+excluded from scoring.
+
 ## 7. Quantitative layer
 
 | Component | Method | Status |

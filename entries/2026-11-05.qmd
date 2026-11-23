@@ -1,0 +1,39 @@
+---
+title: "The post-election AI selloff: pricing a risk, not a law"
+date: 2026-11-05
+categories: [retrospective, policy, volatility]
+---
+::: {.callout-note title="Retrospective entry, written in hindsight" icon=false}
+Written in November 2026, after the outcome was known, to practise the
+journal's method on a past market day. The prediction is the one the
+mechanism would have implied that evening. This entry is excluded from the
+scored record, which begins with the entry of November 20, 2026.
+:::
+
+## Observation
+<!-- REWRITE: yields fell and tech still collapsed. What does that rule out? -->
+
+- SPY -4.41%, QQQ -6.49%: the worst day since April 2025.
+- NVDA -9.26%, AMD -17.26%, SMH -11.2%. VIX +69.7% to 28.2.
+- Safe assets rose: TLT +0.21%, GLD +0.81%. The 10-year yield fell to 4.84%.
+
+## Mechanism
+<!-- REWRITE: explain the difference between pricing a risk and pricing a law. -->
+
+- Channel: cash flows and the risk premium.
+- A Democratic sweep in the midterms raised fear of new rules on data-center building.
+- Slower building would mean less revenue for chipmakers, so they were repriced.
+- Yields fell, so the discount rate was not the cause.
+
+## Prediction
+<!-- REWRITE: this was close to a coin flip. What evidence would have justified more than 55%? -->
+
+- 55% probability that QQQ closes higher on November 12 (five trading days) than $647.05.
+- Reasoning: a policy scare is usually priced at its worst case on day one, before anyone knows what will actually pass.
+- Wrong if QQQ closes at or below $647.05 on November 12.
+
+## Scoring
+
+- **Right.** QQQ +6.4%, SPY +3.3%.
+- The link held: brokerages argued that extreme regulation was unlikely and buyers returned.
+- Lesson: a probability near 50% was honest here. The outcome was good, but the evidence that evening was thin.

@@ -2,56 +2,56 @@ Data through 2026-11-23
 
 |          | group                |    last |   1d % |   5d % |   vs 20d avg % |   vs 50d avg % |   vs 200d avg % | trend   |
 |:---------|:---------------------|--------:|-------:|-------:|---------------:|---------------:|----------------:|:--------|
-| ^VIX     | macro                |   27.36 | -23.77 |  19.42 |          23.54 |          46.78 |           46.13 | Mixed   |
-| CL=F     | macro                |   80.98 |  -3.57 |  -5.53 |         -10.55 |         -13.61 |           -8.37 | Mixed   |
-| UNH      | healthcare           |  333.50 |  -1.87 | -19.06 |         -14.63 |         -13.98 |           -8.92 | Mixed   |
-| XOM      | commodity            |  157.93 |  -1.29 |  -5.36 |          -6.62 |          -6.14 |            1.92 | Mixed   |
-| KO       | defensive            |   95.77 |  -1.26 |  -3.73 |          -0.24 |           4.17 |           14.93 | Up      |
-| CVX      | commodity            |  206.70 |  -0.80 |  -4.02 |          -4.38 |          -3.25 |            6.84 | Mixed   |
-| TIP      | bonds and credit     |  105.58 |  -0.15 |   0.97 |          -0.05 |           0.43 |           -1.03 | Mixed   |
-| JNJ      | healthcare           |  270.34 |  -0.05 |  -4.32 |          -1.77 |           1.06 |            8.30 | Up      |
-| TLT      | bonds and credit     |   81.53 |   0.09 |   2.70 |           0.75 |           2.19 |           -1.31 | Mixed   |
+| ^VIX     | macro                |   27.21 | -24.19 |  18.77 |          22.90 |          46.00 |           45.33 | Mixed   |
+| CL=F     | macro                |   81.20 |  -3.31 |  -5.27 |         -10.32 |         -13.38 |           -8.13 | Mixed   |
+| UNH      | healthcare           |  334.83 |  -1.48 | -18.73 |         -14.31 |         -13.64 |           -8.56 | Mixed   |
+| XOM      | commodity            |  158.21 |  -1.11 |  -5.19 |          -6.46 |          -5.97 |            2.10 | Mixed   |
+| KO       | defensive            |   96.01 |  -1.01 |  -3.49 |          -0.00 |           4.43 |           15.22 | Up      |
+| CVX      | commodity            |  207.06 |  -0.63 |  -3.85 |          -4.22 |          -3.08 |            7.03 | Mixed   |
+| TIP      | bonds and credit     |  105.58 |  -0.15 |   0.97 |          -0.06 |           0.42 |           -1.04 | Mixed   |
+| TLT      | bonds and credit     |   81.51 |   0.08 |   2.69 |           0.74 |           2.17 |           -1.32 | Mixed   |
 | LQD      | bonds and credit     |  103.83 |   0.14 |   1.01 |           0.13 |           0.73 |           -1.32 | Mixed   |
-| O        | rate-sensitive       |   58.12 |   0.16 |  -0.73 |          -0.19 |           3.04 |           -3.42 | Mixed   |
-| DHI      | rate-sensitive       |  145.79 |   0.24 |   0.72 |          -1.19 |           2.68 |           -0.33 | Mixed   |
-| PG       | defensive            |  169.84 |   0.28 |  -1.84 |           2.02 |           8.34 |           14.35 | Up      |
-| HYG      | bonds and credit     |   76.64 |   0.41 |  -0.11 |          -0.46 |          -0.41 |           -1.07 | Down    |
-| WMT      | defensive            |  128.61 |   0.52 |   0.16 |           2.28 |           9.89 |            8.37 | Mixed   |
-| UNP      | cyclical             |  289.14 |   0.64 |  -4.80 |          -3.39 |           0.30 |            5.52 | Up      |
-| DX-Y.NYB | macro                |  104.47 |   0.64 |   0.89 |           1.73 |           2.44 |            4.43 | Up      |
-| ^TNX     | macro                |    4.95 |   0.69 |  -3.42 |          -0.78 |          -2.57 |            7.37 | Mixed   |
-| LLY      | healthcare           | 1359.69 |   0.93 |  -5.03 |          -1.96 |           7.06 |           21.77 | Up      |
-| XLV      | healthcare           |  178.90 |   0.94 |  -4.78 |          -2.94 |           1.26 |           11.72 | Up      |
-| XLU      | rate-sensitive       |   43.17 |   1.12 |  -2.15 |          -0.55 |           2.92 |           -1.68 | Mixed   |
-| FXI      | international        |   31.61 |   1.23 |  -5.12 |          -4.89 |          -5.88 |           -9.84 | Down    |
-| KRE      | rate-sensitive       |   69.35 |   1.50 |  -3.94 |          -3.69 |          -2.61 |           -1.82 | Mixed   |
-| AVGO     | semiconductors       |  309.23 |   1.58 |  -7.25 |          -6.69 |          -9.57 |          -15.70 | Down    |
-| AAPL     | long-duration growth |  348.67 |   1.79 |  -1.16 |           0.32 |           1.98 |           15.02 | Up      |
-| HD       | cyclical             |  345.59 |   1.93 |  -0.55 |           1.40 |           9.48 |            5.22 | Mixed   |
-| JPM      | rate-sensitive       |  318.12 |   2.44 |  -5.94 |          -5.26 |          -5.38 |           -1.48 | Mixed   |
-| MSFT     | long-duration growth |  496.83 |   2.54 |  -3.90 |          -4.51 |          -4.22 |           12.30 | Mixed   |
-| BAC      | rate-sensitive       |   48.25 |   2.57 |  -3.65 |          -3.35 |          -8.04 |          -11.21 | Down    |
-| HG=F     | macro                |    5.63 |   2.81 |  -6.11 |          -8.84 |         -12.20 |           -9.51 | Mixed   |
-| IWM      | benchmark            |  264.93 |   3.24 |  -2.93 |          -3.88 |          -4.63 |           -4.94 | Down    |
-| GLD      | commodity            |  334.37 |   3.56 |  -5.26 |          -6.80 |         -10.53 |          -17.49 | Down    |
-| GC=F     | macro                | 3652.60 |   3.90 |  -5.20 |          -6.89 |         -10.84 |          -17.70 | Down    |
-| EWJ      | international        |   87.14 |   4.45 |  -3.01 |          -3.99 |          -7.70 |           -5.18 | Mixed   |
-| AMZN     | long-duration growth |  257.89 |   4.49 |   0.05 |           0.01 |           1.09 |            5.09 | Up      |
-| SPY      | benchmark            |  722.17 |   4.69 |  -2.40 |          -3.15 |          -4.89 |           -1.14 | Mixed   |
-| DAL      | cyclical             |   84.14 |   5.16 |  -2.84 |          -1.20 |           2.15 |            8.24 | Up      |
-| SLV      | commodity            |   39.08 |   5.69 |  -7.82 |         -12.53 |         -22.86 |          -35.86 | Down    |
-| META     | long-duration growth |  594.50 |   6.00 |  -5.09 |          -3.61 |         -11.95 |           -5.27 | Mixed   |
-| SPCX     | space                |  135.90 |   6.35 |  -1.06 |          -1.97 |          -7.84 |          nan    | n/a     |
-| GOOGL    | long-duration growth |  283.54 |   6.88 |  -0.07 |          -1.48 |         -11.67 |          -15.74 | Down    |
-| QQQ      | benchmark            |  650.81 |   6.96 |  -1.65 |          -3.65 |          -8.30 |           -4.61 | Mixed   |
-| CAT      | cyclical             |  547.89 |   7.33 |  -3.96 |          -8.10 |         -22.66 |          -31.53 | Down    |
-| EEM      | international        |   57.97 |   7.66 |  -1.57 |          -3.42 |          -8.82 |           -9.10 | Down    |
-| AMD      | semiconductors       |  458.77 |   8.10 |  -9.02 |          -9.24 |         -16.95 |            6.43 | Mixed   |
-| FCX      | commodity            |   50.05 |   8.83 |  -9.31 |         -14.97 |         -23.97 |          -22.60 | Mixed   |
-| RKLB     | space                |   49.99 |  10.06 | -12.86 |         -10.24 |         -18.17 |          -35.58 | Down    |
-| LUNR     | space                |    9.77 |  11.35 | -16.70 |         -10.41 |         -21.02 |          -48.79 | Down    |
-| ASTS     | space                |   25.93 |  11.43 |  -9.27 |         -22.67 |         -42.91 |          -63.61 | Down    |
-| TSLA     | long-duration growth |  388.17 |  12.24 |   2.22 |           0.92 |           3.18 |            1.73 | Mixed   |
-| SMH      | semiconductors       |  459.61 |  14.89 |  -0.50 |          -6.28 |         -15.80 |          -12.53 | Mixed   |
-| TSM      | semiconductors       |  368.65 |  15.67 |  -1.28 |          -5.23 |         -12.46 |           -8.38 | Mixed   |
-| NVDA     | semiconductors       |  164.59 |  31.11 |   5.41 |          -7.99 |         -20.13 |          -18.92 | Mixed   |
+| JNJ      | healthcare           |  271.04 |   0.21 |  -4.07 |          -1.53 |           1.31 |            8.58 | Up      |
+| HYG      | bonds and credit     |   76.61 |   0.37 |  -0.15 |          -0.50 |          -0.45 |           -1.11 | Down    |
+| O        | rate-sensitive       |   58.26 |   0.40 |  -0.49 |           0.05 |           3.30 |           -3.18 | Mixed   |
+| ^TNX     | macro                |    4.94 |   0.53 |  -3.57 |          -0.93 |          -2.73 |            7.19 | Mixed   |
+| DHI      | rate-sensitive       |  146.22 |   0.54 |   1.02 |          -0.91 |           2.98 |           -0.04 | Mixed   |
+| PG       | defensive            |  170.43 |   0.63 |  -1.49 |           2.36 |           8.71 |           14.75 | Up      |
+| DX-Y.NYB | macro                |  104.51 |   0.67 |   0.93 |           1.77 |           2.47 |            4.46 | Up      |
+| UNP      | cyclical             |  289.27 |   0.69 |  -4.76 |          -3.35 |           0.34 |            5.56 | Up      |
+| WMT      | defensive            |  129.18 |   0.97 |   0.60 |           2.71 |          10.37 |            8.85 | Mixed   |
+| LLY      | healthcare           | 1364.34 |   1.28 |  -4.70 |          -1.64 |           7.42 |           22.19 | Up      |
+| XLV      | healthcare           |  179.51 |   1.28 |  -4.45 |          -2.63 |           1.60 |           12.10 | Up      |
+| XLU      | rate-sensitive       |   43.25 |   1.32 |  -1.96 |          -0.37 |           3.12 |           -1.49 | Mixed   |
+| FXI      | international        |   31.67 |   1.41 |  -4.95 |          -4.73 |          -5.72 |           -9.69 | Down    |
+| KRE      | rate-sensitive       |   69.50 |   1.73 |  -3.73 |          -3.49 |          -2.39 |           -1.61 | Mixed   |
+| HD       | cyclical             |  346.14 |   2.10 |  -0.39 |           1.56 |           9.66 |            5.39 | Mixed   |
+| AAPL     | long-duration growth |  349.93 |   2.15 |  -0.81 |           0.67 |           2.34 |           15.43 | Up      |
+| AVGO     | semiconductors       |  311.44 |   2.31 |  -6.59 |          -6.05 |          -8.93 |          -15.10 | Down    |
+| JPM      | rate-sensitive       |  319.00 |   2.73 |  -5.68 |          -5.01 |          -5.12 |           -1.20 | Mixed   |
+| MSFT     | long-duration growth |  498.36 |   2.86 |  -3.60 |          -4.23 |          -3.93 |           12.64 | Mixed   |
+| BAC      | rate-sensitive       |   48.46 |   3.02 |  -3.23 |          -2.95 |          -7.65 |          -10.82 | Down    |
+| HG=F     | macro                |    5.64 |   3.07 |  -5.88 |          -8.63 |         -11.99 |           -9.28 | Mixed   |
+| IWM      | benchmark            |  265.48 |   3.46 |  -2.73 |          -3.69 |          -4.44 |           -4.74 | Down    |
+| GLD      | commodity            |  334.77 |   3.69 |  -5.15 |          -6.69 |         -10.43 |          -17.39 | Down    |
+| GC=F     | macro                | 3656.50 |   4.01 |  -5.10 |          -6.79 |         -10.75 |          -17.61 | Down    |
+| EWJ      | international        |   87.24 |   4.57 |  -2.90 |          -3.89 |          -7.60 |           -5.08 | Mixed   |
+| SPY      | benchmark            |  724.24 |   4.99 |  -2.12 |          -2.88 |          -4.62 |           -0.85 | Mixed   |
+| AMZN     | long-duration growth |  259.59 |   5.17 |   0.71 |           0.64 |           1.74 |            5.78 | Up      |
+| DAL      | cyclical             |   84.21 |   5.26 |  -2.75 |          -1.12 |           2.24 |            8.34 | Up      |
+| SLV      | commodity            |   39.10 |   5.75 |  -7.77 |         -12.48 |         -22.82 |          -35.83 | Down    |
+| SPCX     | space                |  136.23 |   6.60 |  -0.82 |          -1.74 |          -7.62 |          nan    | n/a     |
+| META     | long-duration growth |  599.03 |   6.81 |  -4.37 |          -2.91 |         -11.29 |           -4.55 | Mixed   |
+| QQQ      | benchmark            |  652.46 |   7.23 |  -1.40 |          -3.42 |          -8.07 |           -4.37 | Mixed   |
+| CAT      | cyclical             |  547.84 |   7.32 |  -3.97 |          -8.11 |         -22.67 |          -31.54 | Down    |
+| GOOGL    | long-duration growth |  284.79 |   7.35 |   0.38 |          -1.06 |         -11.28 |          -15.37 | Down    |
+| AMD      | semiconductors       |  457.38 |   7.77 |  -9.30 |          -9.50 |         -17.20 |            6.11 | Mixed   |
+| EEM      | international        |   58.03 |   7.77 |  -1.47 |          -3.32 |          -8.73 |           -9.00 | Down    |
+| FCX      | commodity            |   50.20 |   9.15 |  -9.04 |         -14.74 |         -23.75 |          -22.37 | Mixed   |
+| RKLB     | space                |   49.90 |   9.87 | -13.01 |         -10.39 |         -18.31 |          -35.69 | Down    |
+| ASTS     | space                |   25.80 |  10.87 |  -9.73 |         -23.04 |         -43.19 |          -63.79 | Down    |
+| LUNR     | space                |    9.81 |  11.74 | -16.41 |         -10.12 |         -20.75 |          -48.61 | Down    |
+| TSLA     | long-duration growth |  388.02 |  12.20 |   2.18 |           0.88 |           3.14 |            1.70 | Mixed   |
+| SMH      | semiconductors       |  459.89 |  14.96 |  -0.44 |          -6.22 |         -15.75 |          -12.48 | Mixed   |
+| TSM      | semiconductors       |  367.27 |  15.24 |  -1.65 |          -5.57 |         -12.79 |           -8.72 | Mixed   |
+| NVDA     | semiconductors       |  165.43 |  31.79 |   5.95 |          -7.54 |         -19.73 |          -18.50 | Mixed   |

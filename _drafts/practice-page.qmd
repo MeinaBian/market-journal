@@ -1,0 +1,23 @@
+---
+title: "Practice entries"
+subtitle: "The journal's method applied to past market days"
+listing:
+  contents: practice
+  sort: "date desc"
+  type: table
+  fields: [date, title, categories]
+---
+These entries apply the journal's four steps to the days covered in the
+[case studies](case-studies.qmd): observation, mechanism, prediction, and
+scoring.
+
+::: {.callout-note title="Read this first" icon=false}
+Every entry on this page was written in hindsight, after the outcome was
+known. Each prediction is the one the mechanism would have implied on the
+evening of that day, and the scoring shows whether it held and which link
+broke. Because the outcomes were known, the results here are not a track
+record and are excluded from the scored record. Forward-looking predictions,
+published before their outcomes, are in the [Journal](index.qmd).
+:::
+
+## Entries

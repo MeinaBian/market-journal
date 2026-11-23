@@ -1,0 +1,38 @@
+---
+title: "The rebound Nvidia missed"
+date: 2026-11-09
+categories: [retrospective, company-event, semis]
+---
+::: {.callout-note title="Retrospective entry, written in hindsight" icon=false}
+Written in November 2026, after the outcome was known, to practise the
+journal's method on a past market day. The prediction is the one the
+mechanism would have implied that evening. This entry is excluded from the
+scored record, which begins with the entry of November 20, 2026.
+:::
+
+## Observation
+<!-- REWRITE: why is one stock falling on a strong day more informative than on a weak day? -->
+
+- SPY +2.37%, QQQ +3.54%, AMD +13.26%.
+- NVDA -4.27% to $178.67, the one large chip stock that fell.
+- Oil -4.4%, VIX -22.3% to 19.9.
+
+## Mechanism
+<!-- REWRITE: what is a "governance discount"? Why does it grow over several days? -->
+
+- Market: lower oil eased inflation worry, and buyers returned after the previous week.
+- Nvidia: company-specific risk premium. The company said it was examining claims of a foreign intelligence effort tied to its chief executive.
+- Investors demanded more return to hold that one stock, so it fell while its peers rose.
+
+## Prediction
+<!-- REWRITE: what further disclosures were possible, and how likely was each? -->
+
+- 60% probability that NVDA underperforms SMH over the next five trading days (to November 16).
+- Reasoning: governance problems are rarely settled in one announcement, so more bad news was more likely than a quick all-clear.
+- Wrong if NVDA returns more than SMH over that window.
+
+## Scoring
+
+- **Right.** NVDA -12.6%, SMH -5.2%. The chief executive resigned on November 12.
+- The link held: the story developed over several disclosures.
+- Lesson: when a leader diverges from its sector on company news, treat the first move as the start of the repricing, not the end.

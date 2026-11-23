@@ -9,3 +9,17 @@ listing:
 ---
 A daily, timestamped record of market moves, the mechanism behind each, and
 predictions that are scored after the fact.
+
+::: {.callout-note title="How this journal is written" icon=false}
+Every entry takes one market move and follows the same four steps.
+
+1. **Observation.** What happened, in numbers only: the move, the benchmark's move, and anything unusual such as volume.
+2. **Mechanism.** Why it happened. I name the channel first (cash flows, the risk-free rate, the risk premium, or flows), then write the causal chain one link at a time, and test it against the data.
+3. **Prediction.** What I expect next: one testable statement with a deadline, a probability, and the result that would prove it wrong.
+4. **Scoring.** Completed when the deadline arrives: whether the call was right, and which link in the reasoning held or broke.
+
+Predictions are published before their outcomes are known, and entries are
+not edited afterwards except to add the score.
+:::
+
+## Entries

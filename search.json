@@ -196,6 +196,41 @@
     "text": "Entries"
   },
   {
+    "objectID": "entries/2026-06-15.html",
+    "href": "entries/2026-06-15.html",
+    "title": "SpaceX day two: a float squeeze, and a forecast that failed",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-06-15.html#observation",
+    "href": "entries/2026-06-15.html#observation",
+    "title": "SpaceX day two: a float squeeze, and a forecast that failed",
+    "section": "Observation",
+    "text": "Observation\n\n\nSPCX +19.6% to $192.50 on its second day, about 43% above the $135 offer price.\nQQQ +3.14%, SPY +1.76%. Space peers rose with it: RKLB +6.7%.\nOil -4.9% and XOM -4.1% on a reported US-Iran deal."
+  },
+  {
+    "objectID": "entries/2026-06-15.html#mechanism",
+    "href": "entries/2026-06-15.html#mechanism",
+    "title": "SpaceX day two: a float squeeze, and a forecast that failed",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nChannel: flows.\nOnly about 5% of the company was sold, so few shares were available to trade.\nIndex funds were due to buy when the stock joined the indexes later in June.\nDemand was large and supply small, so the price rose with no news about profits."
+  },
+  {
+    "objectID": "entries/2026-06-15.html#prediction",
+    "href": "entries/2026-06-15.html#prediction",
+    "title": "SpaceX day two: a float squeeze, and a forecast that failed",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n55% probability that SPCX closes higher on June 23 (five trading days) than $192.50.\nReasoning: the index funds had not bought yet, so more forced buying was still ahead.\nWrong if SPCX closes at or below $192.50 on June 23."
+  },
+  {
+    "objectID": "entries/2026-06-15.html#scoring",
+    "href": "entries/2026-06-15.html#scoring",
+    "title": "SpaceX day two: a float squeeze, and a forecast that failed",
+    "section": "Scoring",
+    "text": "Scoring\n\n\nWrong. SPCX fell 18.9% over the five days; QQQ fell 4.0%.\nThe broken link: I assumed the index buying was still to come. Traders who expected it had already bought in advance, so it was in the price.\nLesson: when a forced buyer is publicly known, ask who has already bought ahead of them."
+  },
+  {
     "objectID": "entries/2026-11-20.html",
     "href": "entries/2026-11-20.html",
     "title": "Gold falls 9% in a week while yields decline: flows, not rates",
@@ -231,25 +266,235 @@
     "text": "Scoring\n\nTo be scored after the close on Nov 30."
   },
   {
+    "objectID": "entries/2026-07-30.html",
+    "href": "entries/2026-07-30.html",
+    "title": "Microsoft up 15%, Meta down 8%: a bet on post-earnings drift",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-07-30.html#observation",
+    "href": "entries/2026-07-30.html#observation",
+    "title": "Microsoft up 15%, Meta down 8%: a bet on post-earnings drift",
+    "section": "Observation",
+    "text": "Observation\n\n\nMSFT +15.51%, its best day since 2008. META -7.95% on the same day.\nAMD +13.0%, SMH +6.9%, QQQ +3.30%.\nHealthcare -2.4% and defensives -1.6%. The 10-year yield rose slightly to 4.66%."
+  },
+  {
+    "objectID": "entries/2026-07-30.html#mechanism",
+    "href": "entries/2026-07-30.html#mechanism",
+    "title": "Microsoft up 15%, Meta down 8%: a bet on post-earnings drift",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nChannel: cash flows.\nMicrosoft beat expectations on cloud growth and did not raise its spending plans.\nMeta missed on earnings and raised its spending forecast, and its free cash flow fell sharply.\nThe market rewarded AI spending that was already producing revenue.\nYields did not fall, so this rally came from earnings, not from lower rates."
+  },
+  {
+    "objectID": "entries/2026-07-30.html#prediction",
+    "href": "entries/2026-07-30.html#prediction",
+    "title": "Microsoft up 15%, Meta down 8%: a bet on post-earnings drift",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n60% probability that MSFT outperforms META over the next five trading days (to August 6).\nReasoning: after a large earnings surprise, prices often keep drifting in the same direction as analysts revise estimates.\nWrong if META returns more than MSFT over that window."
+  },
+  {
+    "objectID": "entries/2026-07-30.html#scoring",
+    "href": "entries/2026-07-30.html#scoring",
+    "title": "Microsoft up 15%, Meta down 8%: a bet on post-earnings drift",
+    "section": "Scoring",
+    "text": "Scoring\n\nRight, narrowly. MSFT +10.8%, META +9.4%.\nThe link held, but Meta rebounded almost as much once the whole market rallied.\nLesson: a relative call (A beats B) removed the market direction from the bet, which is why it survived a strong week for everything."
+  },
+  {
+    "objectID": "entries/2026-07-29.html",
+    "href": "entries/2026-07-29.html",
+    "title": "An oil shock on a Fed day: a sound mechanism, a wrong call",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-07-29.html#observation",
+    "href": "entries/2026-07-29.html#observation",
+    "title": "An oil shock on a Fed day: a sound mechanism, a wrong call",
+    "section": "Observation",
+    "text": "Observation\n\n\nSPY -1.54%, QQQ -2.04%, NVDA -3.55%.\nOil +6.6% to $84.46 after an Iranian missile attack on US forces. XOM +2.4%.\nBonds fell too: TLT -1.65%. VIX +13.5% to 20.7.\nWorst groups: space -6.4%, semiconductors -4.2%, cyclicals -3.2%."
+  },
+  {
+    "objectID": "entries/2026-07-29.html#mechanism",
+    "href": "entries/2026-07-29.html#mechanism",
+    "title": "An oil shock on a Fed day: a sound mechanism, a wrong call",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nChannel: the risk-free rate.\nHigher oil raises expected inflation.\nHigher expected inflation raises the chance of Fed rate increases, so yields rise and bond prices fall.\nA higher discount rate hurts long-duration stocks the most.\nCyclicals were hit separately through higher fuel and input costs."
+  },
+  {
+    "objectID": "entries/2026-07-29.html#prediction",
+    "href": "entries/2026-07-29.html#prediction",
+    "title": "An oil shock on a Fed day: a sound mechanism, a wrong call",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n55% probability that SPY closes lower on August 5 (five trading days) than $727.65.\nReasoning: an oil shock that lifts yields keeps pressure on stocks until oil comes back down.\nWrong if SPY closes above $727.65 on August 5."
+  },
+  {
+    "objectID": "entries/2026-07-29.html#scoring",
+    "href": "entries/2026-07-29.html#scoring",
+    "title": "An oil shock on a Fed day: a sound mechanism, a wrong call",
+    "section": "Scoring",
+    "text": "Scoring\n\n\nWrong. SPY rose 5.5% over the five days.\nThe broken link: oil did not stay high. It fell 10.9% over the same five days as tensions cooled.\nA second force arrived that I had not weighed: Microsoft reported that evening and rose 15.5% the next day.\nLesson: the mechanism was sound, but it depended on oil staying up. State the condition in the prediction, and check the earnings calendar before predicting an index."
+  },
+  {
+    "objectID": "entries/2026-11-05.html",
+    "href": "entries/2026-11-05.html",
+    "title": "The post-election AI selloff: pricing a risk, not a law",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-11-05.html#observation",
+    "href": "entries/2026-11-05.html#observation",
+    "title": "The post-election AI selloff: pricing a risk, not a law",
+    "section": "Observation",
+    "text": "Observation\n\n\nSPY -4.41%, QQQ -6.49%: the worst day since April 2025.\nNVDA -9.26%, AMD -17.26%, SMH -11.2%. VIX +69.7% to 28.2.\nSafe assets rose: TLT +0.21%, GLD +0.81%. The 10-year yield fell to 4.84%."
+  },
+  {
+    "objectID": "entries/2026-11-05.html#mechanism",
+    "href": "entries/2026-11-05.html#mechanism",
+    "title": "The post-election AI selloff: pricing a risk, not a law",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nChannel: cash flows and the risk premium.\nA Democratic sweep in the midterms raised fear of new rules on data-center building.\nSlower building would mean less revenue for chipmakers, so they were repriced.\nYields fell, so the discount rate was not the cause."
+  },
+  {
+    "objectID": "entries/2026-11-05.html#prediction",
+    "href": "entries/2026-11-05.html#prediction",
+    "title": "The post-election AI selloff: pricing a risk, not a law",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n55% probability that QQQ closes higher on November 12 (five trading days) than $647.05.\nReasoning: a policy scare is usually priced at its worst case on day one, before anyone knows what will actually pass.\nWrong if QQQ closes at or below $647.05 on November 12."
+  },
+  {
+    "objectID": "entries/2026-11-05.html#scoring",
+    "href": "entries/2026-11-05.html#scoring",
+    "title": "The post-election AI selloff: pricing a risk, not a law",
+    "section": "Scoring",
+    "text": "Scoring\n\nRight. QQQ +6.4%, SPY +3.3%.\nThe link held: brokerages argued that extreme regulation was unlikely and buyers returned.\nLesson: a probability near 50% was honest here. The outcome was good, but the evidence that evening was thin."
+  },
+  {
+    "objectID": "entries/2026-10-30.html",
+    "href": "entries/2026-10-30.html",
+    "title": "Intel and the AI-spending selloff: why it continued",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-10-30.html#observation",
+    "href": "entries/2026-10-30.html#observation",
+    "title": "Intel and the AI-spending selloff: why it continued",
+    "section": "Observation",
+    "text": "Observation\n\n\nQQQ -3.47%, SPY -1.77%.\nAMD -10.88%, SMH -6.98%, NVDA -4.22%. Intel fell 28.6% on its results.\nDefensives +1.3%, TLT +0.43%. GLD -3.47%."
+  },
+  {
+    "objectID": "entries/2026-10-30.html#mechanism",
+    "href": "entries/2026-10-30.html#mechanism",
+    "title": "Intel and the AI-spending selloff: why it continued",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nChannel: cash flows.\nIntel and Amazon results raised doubt that AI spending would earn an adequate return.\nThe doubt applied to the whole hardware chain, so semiconductors fell together.\nMoney moved into defensives and bonds: a rotation out of one theme, not a rush for cash."
+  },
+  {
+    "objectID": "entries/2026-10-30.html#prediction",
+    "href": "entries/2026-10-30.html#prediction",
+    "title": "Intel and the AI-spending selloff: why it continued",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n60% probability that SMH underperforms SPY over the next five trading days (to November 6).\nReasoning: a doubt about cash flows lasts until new information answers it, and none was scheduled.\nWrong if SMH returns more than SPY over that window."
+  },
+  {
+    "objectID": "entries/2026-10-30.html#scoring",
+    "href": "entries/2026-10-30.html#scoring",
+    "title": "Intel and the AI-spending selloff: why it continued",
+    "section": "Scoring",
+    "text": "Scoring\n\nRight. SMH -11.2%, SPY -2.7%.\nThe link held: no new information arrived to settle the doubt, and the election added a second worry.\nLesson: ask what would end the selloff. If nothing on the calendar can answer the question, expect it to continue."
+  },
+  {
+    "objectID": "entries/2026-11-09.html",
+    "href": "entries/2026-11-09.html",
+    "title": "The rebound Nvidia missed",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-11-09.html#observation",
+    "href": "entries/2026-11-09.html#observation",
+    "title": "The rebound Nvidia missed",
+    "section": "Observation",
+    "text": "Observation\n\n\nSPY +2.37%, QQQ +3.54%, AMD +13.26%.\nNVDA -4.27% to $178.67, the one large chip stock that fell.\nOil -4.4%, VIX -22.3% to 19.9."
+  },
+  {
+    "objectID": "entries/2026-11-09.html#mechanism",
+    "href": "entries/2026-11-09.html#mechanism",
+    "title": "The rebound Nvidia missed",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nMarket: lower oil eased inflation worry, and buyers returned after the previous week.\nNvidia: company-specific risk premium. The company said it was examining claims of a foreign intelligence effort tied to its chief executive.\nInvestors demanded more return to hold that one stock, so it fell while its peers rose."
+  },
+  {
+    "objectID": "entries/2026-11-09.html#prediction",
+    "href": "entries/2026-11-09.html#prediction",
+    "title": "The rebound Nvidia missed",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n60% probability that NVDA underperforms SMH over the next five trading days (to November 16).\nReasoning: governance problems are rarely settled in one announcement, so more bad news was more likely than a quick all-clear.\nWrong if NVDA returns more than SMH over that window."
+  },
+  {
+    "objectID": "entries/2026-11-09.html#scoring",
+    "href": "entries/2026-11-09.html#scoring",
+    "title": "The rebound Nvidia missed",
+    "section": "Scoring",
+    "text": "Scoring\n\nRight. NVDA -12.6%, SMH -5.2%. The chief executive resigned on November 12.\nThe link held: the story developed over several disclosures.\nLesson: when a leader diverges from its sector on company news, treat the first move as the start of the repricing, not the end."
+  },
+  {
+    "objectID": "entries/2026-08-04.html",
+    "href": "entries/2026-08-04.html",
+    "title": "SpaceX runs up into its first earnings report",
+    "section": "",
+    "text": "NoteRetrospective entry, written in hindsight\n\n\n\nWritten in November 2026, after the outcome was known, to practise the journal’s method on a past market day. The prediction is the one the mechanism would have implied that evening. This entry is excluded from the scored record, which begins with the entry of November 20, 2026."
+  },
+  {
+    "objectID": "entries/2026-08-04.html#observation",
+    "href": "entries/2026-08-04.html#observation",
+    "title": "SpaceX runs up into its first earnings report",
+    "section": "Observation",
+    "text": "Observation\n\n\nSPY +1.80% to a record, QQQ +3.40%.\nOil -5.7% to $75.77 on hopes of a deal to reopen the Strait of Hormuz. TLT +0.77%.\nSPCX +9.43% to $125.33 before its first earnings report, due after the close."
+  },
+  {
+    "objectID": "entries/2026-08-04.html#mechanism",
+    "href": "entries/2026-08-04.html#mechanism",
+    "title": "SpaceX runs up into its first earnings report",
+    "section": "Mechanism",
+    "text": "Mechanism\n\n\nMarket: the risk-free rate channel. Lower oil, lower inflation pressure, lower yields, so stocks and bonds rose together.\nSpaceX: positioning. Buyers bid the stock up 9% before knowing the numbers.\nThat raised the bar: the report now had to beat the higher expectation built into the price."
+  },
+  {
+    "objectID": "entries/2026-08-04.html#prediction",
+    "href": "entries/2026-08-04.html#prediction",
+    "title": "SpaceX runs up into its first earnings report",
+    "section": "Prediction",
+    "text": "Prediction\n\n\n55% probability that SPCX closes lower on August 5 than $125.33.\nReasoning: a large run-up into an event leaves little room for a good result, and capital spending had just punished Meta.\nWrong if SPCX closes above $125.33 on August 5."
+  },
+  {
+    "objectID": "entries/2026-08-04.html#scoring",
+    "href": "entries/2026-08-04.html#scoring",
+    "title": "SpaceX runs up into its first earnings report",
+    "section": "Scoring",
+    "text": "Scoring\n\nRight. SPCX fell 13.6% the next day: revenue beat expectations but capital spending rose sharply.\nOver five trading days, though, SPCX was up 6.4%.\nLesson: the horizon is part of the prediction. The same view was right at one day and wrong at five."
+  },
+  {
     "objectID": "dashboard.html",
     "href": "dashboard.html",
     "title": "Dashboard",
     "section": "",
-    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -1.3%\n-1.3%\ndefensive\ndefensive: -1.8%\n-1.8%\nbenchmark\nbenchmark: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.5%\n-2.5%\nrate-sensitive\nrate-sensitive: -2.6%\n-2.6%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.2%\n-3.2%\ncommodity\ncommodity: -6.4%\n-6.4%\nhealthcare\nhealthcare: -8.3%\n-8.3%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.2%\n118.2%\nsemiconductors\nsemiconductors: 107.7%\n107.7%\nlong-duration growth\nlong-duration growth: 49.5%\n49.5%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.2%\n43.2%\nbenchmark\nbenchmark: 36.9%\n36.9%\ninternational\ninternational: 35.6%\n35.6%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.7%\n26.7%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
+    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -0.9%\n-0.9%\ndefensive\ndefensive: -1.5%\n-1.5%\nbenchmark\nbenchmark: -2.1%\n-2.1%\nrate-sensitive\nrate-sensitive: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.4%\n-2.4%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.1%\n-3.1%\ncommodity\ncommodity: -6.2%\n-6.2%\nhealthcare\nhealthcare: -8.0%\n-8.0%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.1%\n118.1%\nsemiconductors\nsemiconductors: 107.9%\n107.9%\nlong-duration growth\nlong-duration growth: 50.1%\n50.1%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.3%\n43.3%\nbenchmark\nbenchmark: 37.4%\n37.4%\ninternational\ninternational: 35.8%\n35.8%\nhealthcare\nhealthcare: 33.5%\n33.5%\nrate-sensitive\nrate-sensitive: 26.9%\n26.9%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.6%\n6.6%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
   },
   {
     "objectID": "dashboard.html#groups-at-a-glance",
     "href": "dashboard.html#groups-at-a-glance",
     "title": "Dashboard",
     "section": "",
-    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -1.3%\n-1.3%\ndefensive\ndefensive: -1.8%\n-1.8%\nbenchmark\nbenchmark: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.5%\n-2.5%\nrate-sensitive\nrate-sensitive: -2.6%\n-2.6%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.2%\n-3.2%\ncommodity\ncommodity: -6.4%\n-6.4%\nhealthcare\nhealthcare: -8.3%\n-8.3%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.2%\n118.2%\nsemiconductors\nsemiconductors: 107.7%\n107.7%\nlong-duration growth\nlong-duration growth: 49.5%\n49.5%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.2%\n43.2%\nbenchmark\nbenchmark: 36.9%\n36.9%\ninternational\ninternational: 35.6%\n35.6%\nhealthcare\nhealthcare: 33.4%\n33.4%\nrate-sensitive\nrate-sensitive: 26.7%\n26.7%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.7%\n6.7%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
+    "text": "Five-day return by group\nAverage close-to-close return of the tickers in each group (%)\nbonds and credit\nbonds and credit: +1.1%\n+1.1%\nlong-duration growth\nlong-duration growth: -0.9%\n-0.9%\ndefensive\ndefensive: -1.5%\n-1.5%\nbenchmark\nbenchmark: -2.1%\n-2.1%\nrate-sensitive\nrate-sensitive: -2.3%\n-2.3%\nsemiconductors\nsemiconductors: -2.4%\n-2.4%\ncyclical\ncyclical: -3.0%\n-3.0%\ninternational\ninternational: -3.1%\n-3.1%\ncommodity\ncommodity: -6.2%\n-6.2%\nhealthcare\nhealthcare: -8.0%\n-8.0%\nspace\nspace: -10.0%\n-10.0%\n\n\n\nVolatility by group\nAverage annualized volatility of daily returns, last 20 trading days (%)\nspace\nspace: 118.1%\n118.1%\nsemiconductors\nsemiconductors: 107.9%\n107.9%\nlong-duration growth\nlong-duration growth: 50.1%\n50.1%\ncyclical\ncyclical: 46.1%\n46.1%\ncommodity\ncommodity: 43.3%\n43.3%\nbenchmark\nbenchmark: 37.4%\n37.4%\ninternational\ninternational: 35.8%\n35.8%\nhealthcare\nhealthcare: 33.5%\n33.5%\nrate-sensitive\nrate-sensitive: 26.9%\n26.9%\ndefensive\ndefensive: 20.5%\n20.5%\nbonds and credit\nbonds and credit: 6.6%\n6.6%\n\n\nHow to read the charts\n\nFive-day return is the average close-to-close return of the tickers in each group. Blue bars are gains and orange bars are losses.\nVolatility is the average annualized volatility of the tickers in each group, measured from daily returns over the last 20 trading days.\nRead them together: a group with a large loss and high volatility is under stress; a small move with low volatility is calm.\nMacro series are left out because a yield or an index level is not comparable with a tradable price."
   },
   {
     "objectID": "dashboard.html#all-instruments",
     "href": "dashboard.html#all-instruments",
     "title": "Dashboard",
     "section": "All instruments",
-    "text": "All instruments\nData through 2026-11-23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngroup\nlast\n1d %\n5d %\nvs 20d avg %\nvs 50d avg %\nvs 200d avg %\ntrend\n\n\n\n\n^VIX\nmacro\n27.36\n-23.77\n19.42\n23.54\n46.78\n46.13\nMixed\n\n\nCL=F\nmacro\n80.98\n-3.57\n-5.53\n-10.55\n-13.61\n-8.37\nMixed\n\n\nUNH\nhealthcare\n333.50\n-1.87\n-19.06\n-14.63\n-13.98\n-8.92\nMixed\n\n\nXOM\ncommodity\n157.93\n-1.29\n-5.36\n-6.62\n-6.14\n1.92\nMixed\n\n\nKO\ndefensive\n95.77\n-1.26\n-3.73\n-0.24\n4.17\n14.93\nUp\n\n\nCVX\ncommodity\n206.70\n-0.80\n-4.02\n-4.38\n-3.25\n6.84\nMixed\n\n\nTIP\nbonds and credit\n105.58\n-0.15\n0.97\n-0.05\n0.43\n-1.03\nMixed\n\n\nJNJ\nhealthcare\n270.34\n-0.05\n-4.32\n-1.77\n1.06\n8.30\nUp\n\n\nTLT\nbonds and credit\n81.53\n0.09\n2.70\n0.75\n2.19\n-1.31\nMixed\n\n\nLQD\nbonds and credit\n103.83\n0.14\n1.01\n0.13\n0.73\n-1.32\nMixed\n\n\nO\nrate-sensitive\n58.12\n0.16\n-0.73\n-0.19\n3.04\n-3.42\nMixed\n\n\nDHI\nrate-sensitive\n145.79\n0.24\n0.72\n-1.19\n2.68\n-0.33\nMixed\n\n\nPG\ndefensive\n169.84\n0.28\n-1.84\n2.02\n8.34\n14.35\nUp\n\n\nHYG\nbonds and credit\n76.64\n0.41\n-0.11\n-0.46\n-0.41\n-1.07\nDown\n\n\nWMT\ndefensive\n128.61\n0.52\n0.16\n2.28\n9.89\n8.37\nMixed\n\n\nUNP\ncyclical\n289.14\n0.64\n-4.80\n-3.39\n0.30\n5.52\nUp\n\n\nDX-Y.NYB\nmacro\n104.47\n0.64\n0.89\n1.73\n2.44\n4.43\nUp\n\n\n^TNX\nmacro\n4.95\n0.69\n-3.42\n-0.78\n-2.57\n7.37\nMixed\n\n\nLLY\nhealthcare\n1359.69\n0.93\n-5.03\n-1.96\n7.06\n21.77\nUp\n\n\nXLV\nhealthcare\n178.90\n0.94\n-4.78\n-2.94\n1.26\n11.72\nUp\n\n\nXLU\nrate-sensitive\n43.17\n1.12\n-2.15\n-0.55\n2.92\n-1.68\nMixed\n\n\nFXI\ninternational\n31.61\n1.23\n-5.12\n-4.89\n-5.88\n-9.84\nDown\n\n\nKRE\nrate-sensitive\n69.35\n1.50\n-3.94\n-3.69\n-2.61\n-1.82\nMixed\n\n\nAVGO\nsemiconductors\n309.23\n1.58\n-7.25\n-6.69\n-9.57\n-15.70\nDown\n\n\nAAPL\nlong-duration growth\n348.67\n1.79\n-1.16\n0.32\n1.98\n15.02\nUp\n\n\nHD\ncyclical\n345.59\n1.93\n-0.55\n1.40\n9.48\n5.22\nMixed\n\n\nJPM\nrate-sensitive\n318.12\n2.44\n-5.94\n-5.26\n-5.38\n-1.48\nMixed\n\n\nMSFT\nlong-duration growth\n496.83\n2.54\n-3.90\n-4.51\n-4.22\n12.30\nMixed\n\n\nBAC\nrate-sensitive\n48.25\n2.57\n-3.65\n-3.35\n-8.04\n-11.21\nDown\n\n\nHG=F\nmacro\n5.63\n2.81\n-6.11\n-8.84\n-12.20\n-9.51\nMixed\n\n\nIWM\nbenchmark\n264.93\n3.24\n-2.93\n-3.88\n-4.63\n-4.94\nDown\n\n\nGLD\ncommodity\n334.37\n3.56\n-5.26\n-6.80\n-10.53\n-17.49\nDown\n\n\nGC=F\nmacro\n3652.60\n3.90\n-5.20\n-6.89\n-10.84\n-17.70\nDown\n\n\nEWJ\ninternational\n87.14\n4.45\n-3.01\n-3.99\n-7.70\n-5.18\nMixed\n\n\nAMZN\nlong-duration growth\n257.89\n4.49\n0.05\n0.01\n1.09\n5.09\nUp\n\n\nSPY\nbenchmark\n722.17\n4.69\n-2.40\n-3.15\n-4.89\n-1.14\nMixed\n\n\nDAL\ncyclical\n84.14\n5.16\n-2.84\n-1.20\n2.15\n8.24\nUp\n\n\nSLV\ncommodity\n39.08\n5.69\n-7.82\n-12.53\n-22.86\n-35.86\nDown\n\n\nMETA\nlong-duration growth\n594.50\n6.00\n-5.09\n-3.61\n-11.95\n-5.27\nMixed\n\n\nSPCX\nspace\n135.90\n6.35\n-1.06\n-1.97\n-7.84\nnan\nn/a\n\n\nGOOGL\nlong-duration growth\n283.54\n6.88\n-0.07\n-1.48\n-11.67\n-15.74\nDown\n\n\nQQQ\nbenchmark\n650.81\n6.96\n-1.65\n-3.65\n-8.30\n-4.61\nMixed\n\n\nCAT\ncyclical\n547.89\n7.33\n-3.96\n-8.10\n-22.66\n-31.53\nDown\n\n\nEEM\ninternational\n57.97\n7.66\n-1.57\n-3.42\n-8.82\n-9.10\nDown\n\n\nAMD\nsemiconductors\n458.77\n8.10\n-9.02\n-9.24\n-16.95\n6.43\nMixed\n\n\nFCX\ncommodity\n50.05\n8.83\n-9.31\n-14.97\n-23.97\n-22.60\nMixed\n\n\nRKLB\nspace\n49.99\n10.06\n-12.86\n-10.24\n-18.17\n-35.58\nDown\n\n\nLUNR\nspace\n9.77\n11.35\n-16.70\n-10.41\n-21.02\n-48.79\nDown\n\n\nASTS\nspace\n25.93\n11.43\n-9.27\n-22.67\n-42.91\n-63.61\nDown\n\n\nTSLA\nlong-duration growth\n388.17\n12.24\n2.22\n0.92\n3.18\n1.73\nMixed\n\n\nSMH\nsemiconductors\n459.61\n14.89\n-0.50\n-6.28\n-15.80\n-12.53\nMixed\n\n\nTSM\nsemiconductors\n368.65\n15.67\n-1.28\n-5.23\n-12.46\n-8.38\nMixed\n\n\nNVDA\nsemiconductors\n164.59\n31.11\n5.41\n-7.99\n-20.13\n-18.92\nMixed"
+    "text": "All instruments\nData through 2026-11-23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngroup\nlast\n1d %\n5d %\nvs 20d avg %\nvs 50d avg %\nvs 200d avg %\ntrend\n\n\n\n\n^VIX\nmacro\n27.21\n-24.19\n18.77\n22.90\n46.00\n45.33\nMixed\n\n\nCL=F\nmacro\n81.20\n-3.31\n-5.27\n-10.32\n-13.38\n-8.13\nMixed\n\n\nUNH\nhealthcare\n334.83\n-1.48\n-18.73\n-14.31\n-13.64\n-8.56\nMixed\n\n\nXOM\ncommodity\n158.21\n-1.11\n-5.19\n-6.46\n-5.97\n2.10\nMixed\n\n\nKO\ndefensive\n96.01\n-1.01\n-3.49\n-0.00\n4.43\n15.22\nUp\n\n\nCVX\ncommodity\n207.06\n-0.63\n-3.85\n-4.22\n-3.08\n7.03\nMixed\n\n\nTIP\nbonds and credit\n105.58\n-0.15\n0.97\n-0.06\n0.42\n-1.04\nMixed\n\n\nTLT\nbonds and credit\n81.51\n0.08\n2.69\n0.74\n2.17\n-1.32\nMixed\n\n\nLQD\nbonds and credit\n103.83\n0.14\n1.01\n0.13\n0.73\n-1.32\nMixed\n\n\nJNJ\nhealthcare\n271.04\n0.21\n-4.07\n-1.53\n1.31\n8.58\nUp\n\n\nHYG\nbonds and credit\n76.61\n0.37\n-0.15\n-0.50\n-0.45\n-1.11\nDown\n\n\nO\nrate-sensitive\n58.26\n0.40\n-0.49\n0.05\n3.30\n-3.18\nMixed\n\n\n^TNX\nmacro\n4.94\n0.53\n-3.57\n-0.93\n-2.73\n7.19\nMixed\n\n\nDHI\nrate-sensitive\n146.22\n0.54\n1.02\n-0.91\n2.98\n-0.04\nMixed\n\n\nPG\ndefensive\n170.43\n0.63\n-1.49\n2.36\n8.71\n14.75\nUp\n\n\nDX-Y.NYB\nmacro\n104.51\n0.67\n0.93\n1.77\n2.47\n4.46\nUp\n\n\nUNP\ncyclical\n289.27\n0.69\n-4.76\n-3.35\n0.34\n5.56\nUp\n\n\nWMT\ndefensive\n129.18\n0.97\n0.60\n2.71\n10.37\n8.85\nMixed\n\n\nLLY\nhealthcare\n1364.34\n1.28\n-4.70\n-1.64\n7.42\n22.19\nUp\n\n\nXLV\nhealthcare\n179.51\n1.28\n-4.45\n-2.63\n1.60\n12.10\nUp\n\n\nXLU\nrate-sensitive\n43.25\n1.32\n-1.96\n-0.37\n3.12\n-1.49\nMixed\n\n\nFXI\ninternational\n31.67\n1.41\n-4.95\n-4.73\n-5.72\n-9.69\nDown\n\n\nKRE\nrate-sensitive\n69.50\n1.73\n-3.73\n-3.49\n-2.39\n-1.61\nMixed\n\n\nHD\ncyclical\n346.14\n2.10\n-0.39\n1.56\n9.66\n5.39\nMixed\n\n\nAAPL\nlong-duration growth\n349.93\n2.15\n-0.81\n0.67\n2.34\n15.43\nUp\n\n\nAVGO\nsemiconductors\n311.44\n2.31\n-6.59\n-6.05\n-8.93\n-15.10\nDown\n\n\nJPM\nrate-sensitive\n319.00\n2.73\n-5.68\n-5.01\n-5.12\n-1.20\nMixed\n\n\nMSFT\nlong-duration growth\n498.36\n2.86\n-3.60\n-4.23\n-3.93\n12.64\nMixed\n\n\nBAC\nrate-sensitive\n48.46\n3.02\n-3.23\n-2.95\n-7.65\n-10.82\nDown\n\n\nHG=F\nmacro\n5.64\n3.07\n-5.88\n-8.63\n-11.99\n-9.28\nMixed\n\n\nIWM\nbenchmark\n265.48\n3.46\n-2.73\n-3.69\n-4.44\n-4.74\nDown\n\n\nGLD\ncommodity\n334.77\n3.69\n-5.15\n-6.69\n-10.43\n-17.39\nDown\n\n\nGC=F\nmacro\n3656.50\n4.01\n-5.10\n-6.79\n-10.75\n-17.61\nDown\n\n\nEWJ\ninternational\n87.24\n4.57\n-2.90\n-3.89\n-7.60\n-5.08\nMixed\n\n\nSPY\nbenchmark\n724.24\n4.99\n-2.12\n-2.88\n-4.62\n-0.85\nMixed\n\n\nAMZN\nlong-duration growth\n259.59\n5.17\n0.71\n0.64\n1.74\n5.78\nUp\n\n\nDAL\ncyclical\n84.21\n5.26\n-2.75\n-1.12\n2.24\n8.34\nUp\n\n\nSLV\ncommodity\n39.10\n5.75\n-7.77\n-12.48\n-22.82\n-35.83\nDown\n\n\nSPCX\nspace\n136.23\n6.60\n-0.82\n-1.74\n-7.62\nnan\nn/a\n\n\nMETA\nlong-duration growth\n599.03\n6.81\n-4.37\n-2.91\n-11.29\n-4.55\nMixed\n\n\nQQQ\nbenchmark\n652.46\n7.23\n-1.40\n-3.42\n-8.07\n-4.37\nMixed\n\n\nCAT\ncyclical\n547.84\n7.32\n-3.97\n-8.11\n-22.67\n-31.54\nDown\n\n\nGOOGL\nlong-duration growth\n284.79\n7.35\n0.38\n-1.06\n-11.28\n-15.37\nDown\n\n\nAMD\nsemiconductors\n457.38\n7.77\n-9.30\n-9.50\n-17.20\n6.11\nMixed\n\n\nEEM\ninternational\n58.03\n7.77\n-1.47\n-3.32\n-8.73\n-9.00\nDown\n\n\nFCX\ncommodity\n50.20\n9.15\n-9.04\n-14.74\n-23.75\n-22.37\nMixed\n\n\nRKLB\nspace\n49.90\n9.87\n-13.01\n-10.39\n-18.31\n-35.69\nDown\n\n\nASTS\nspace\n25.80\n10.87\n-9.73\n-23.04\n-43.19\n-63.79\nDown\n\n\nLUNR\nspace\n9.81\n11.74\n-16.41\n-10.12\n-20.75\n-48.61\nDown\n\n\nTSLA\nlong-duration growth\n388.02\n12.20\n2.18\n0.88\n3.14\n1.70\nMixed\n\n\nSMH\nsemiconductors\n459.89\n14.96\n-0.44\n-6.22\n-15.75\n-12.48\nMixed\n\n\nTSM\nsemiconductors\n367.27\n15.24\n-1.65\n-5.57\n-12.79\n-8.72\nMixed\n\n\nNVDA\nsemiconductors\n165.43\n31.79\n5.95\n-7.54\n-19.73\n-18.50\nMixed"
   },
   {
     "objectID": "dashboard.html#reading-the-table",
@@ -445,7 +690,7 @@
     "href": "about.html#what-it-is",
     "title": "About",
     "section": "What it is",
-    "text": "What it is\nEach entry takes one market move and works through it in four steps:\n\nObservation: what moved, by how much, relative to the benchmark.\nMechanism: which channel drove it (cash flows, the risk-free rate, the risk premium, or flows) and the causal chain behind it.\nPrediction: a testable call with a deadline and a probability.\nScoring: whether the call was right, and which link in the reasoning held or broke.\n\nEvery entry is committed to version control, so each prediction carries a timestamp that precedes its outcome."
+    "text": "What it is\nEach entry takes one market move and works through it in four steps:\n\nObservation: what moved, by how much, relative to the benchmark.\nMechanism: which channel drove it (cash flows, the risk-free rate, the risk premium, or flows) and the causal chain behind it.\nPrediction: a testable call with a deadline and a probability.\nScoring: whether the call was right, and which link in the reasoning held or broke.\n\nEvery entry is committed to version control, so each prediction carries a timestamp that precedes its outcome. Entries dated before November 20, 2026 are retrospective exercises, labelled as written in hindsight and excluded from the scored record."
   },
   {
     "objectID": "about.html#why",

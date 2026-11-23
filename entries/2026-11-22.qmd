@@ -1,0 +1,51 @@
+---
+title: "Gold falls 9% in a week while yields decline: flows, not rates"
+date: 2026-11-22
+categories: [gold, rates, flows]
+---
+## Observation
+<!-- WHAT happened. Numbers only, no opinions.
+     The move, the benchmark's move, anything unusual such as volume. -->
+
+- GLD closed at $322.87 on Nov 20, down from $369.36 on Nov 10 (-12.6%) and from $355.45 on Nov 13 (-9.2% on the week).
+- Spot gold ended the week near $3,535 an ounce, its lowest close in over a year.
+- Friday Nov 20 was the worst day: GLD -3.67% on about 23.6 million shares, roughly double its 10-day average.
+- Over the same week the 10-year Treasury yield fell from about 5.15% to 4.92%, and the 10-year real yield was nearly flat (2.91% to 2.88%).
+- Equities: the S&P 500 fell seven sessions in a row and the VIX closed near 36.
+- Silver fell more than 13% on the week.
+
+## Mechanism
+<!-- WHY it happened. Name the channel first:
+     cash flows / risk-free rate / risk premium / flows.
+     Then write the causal chain, one link per line. -->
+
+**My first explanation: the risk-free rate channel.**
+
+- Gold pays no interest.
+- When real yields are high, holding gold means giving up more income.
+- Investors shift from gold to bonds, and gold falls.
+
+**Test against the data:** yields fell last week, so this channel predicts gold flat or higher. Gold fell 9%. The rate story explains the decline since January, but not this week.
+
+**Revised explanation: the flows channel.**
+
+- Equities fell sharply and volatility spiked.
+- Leveraged investors faced margin calls and needed cash.
+- They sold liquid assets, including gold, regardless of its fundamentals.
+- Evidence: double the normal volume, gold's worst day matching the equity market's worst day, and silver falling harder than gold.
+
+## Prediction
+<!-- WHAT I expect next. One testable statement,
+     a deadline, and a probability. Say what would prove it wrong. -->
+
+- DRAFT, replace with my own number before publishing: 55% probability that GLD closes above $322.87 on Nov 30 (five trading days).
+- Reasoning: forced selling ends when the selling pressure in equities eases, even if yields do not move.
+- Wrong if GLD closes at or below $322.87 on Nov 30.
+- What I will watch: if the VIX falls and gold still declines, the flows explanation is wrong and rates or the dollar matter more than I think.
+- Disclosure: I hold a small position in GLD.
+
+## Scoring
+<!-- Leave blank today. When the deadline arrives:
+     right or wrong, and which link in the chain broke. -->
+
+To be scored after the close on Nov 30.

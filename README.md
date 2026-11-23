@@ -154,7 +154,7 @@ timestamp that precedes its outcome.
 
 | Component | Method | Status |
 |---|---|---|
-| Daily monitor | 1-day and 5-day moves and distance from 20-, 50- and 200-day moving averages across the watchlist | Live |
+| Daily monitor | 1-day and 5-day moves, distance from 20-, 50- and 200-day moving averages, and 20-day volatility by group | Live |
 | Factor sensitivities | Rolling regressions of each ticker on changes in yields, the dollar, oil, credit spreads, and volatility | Planned |
 | Event studies | Abnormal returns against a market model around dated events | Planned |
 | Forecast scoring | Hit rate, Brier score, and calibration curve | Planned |
@@ -197,7 +197,7 @@ sensibly, and mistakes were diagnosed correctly.
 
 ## 9. Universe
 
-The watchlist holds 46 instruments, chosen for what they are sensitive to, so
+The watchlist holds 49 instruments, chosen for what they are sensitive to, so
 that each macro shock has a clean test case. The full list is in `tickers.csv`.
 
 | Group | Count | What it tests |
@@ -210,7 +210,8 @@ that each macro shock has a clean test case. The full list is in `tickers.csv`.
 | Semiconductors | 5 | The AI hardware cycle and export-policy exposure |
 | Commodity-linked | 5 | Energy, copper, gold, silver |
 | Cyclical | 4 | Industrials, transport, housing-related retail, airlines |
-| Defensive | 4 | Staples and healthcare |
+| Defensive | 3 | Consumer staples |
+| Healthcare | 4 | Defensive demand with drug-pricing and policy exposure |
 | International | 3 | Emerging markets, China, Japan |
 
 ## 10. Data and methodology

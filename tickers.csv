@@ -40,8 +40,11 @@ HD,cyclical
 DAL,cyclical
 PG,defensive
 KO,defensive
-JNJ,defensive
 WMT,defensive
+XLV,healthcare
+JNJ,healthcare
+LLY,healthcare
+UNH,healthcare
 EEM,international
 FXI,international
 EWJ,international

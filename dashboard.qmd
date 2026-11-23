@@ -3,10 +3,20 @@ title: "Dashboard"
 ---
 {{< include data/_latest.md >}}
 
-**How to read the table**
+## Volatility by group
+
+{{< include data/_group_volatility.md >}}
+
+Each bar is the average annualized volatility of the tickers in that group,
+measured from daily returns over the last 20 trading days. Macro series are
+left out because a yield or an index level is not comparable with a tradable
+price. Hover over a bar for its value.
+
+## Reading the table
 
 - **1d %** and **5d %** are close-to-close returns over one and five trading days.
 - **vs 20d / 50d / 200d avg %** show how far the latest close sits above (positive) or below (negative) its 20-, 50- and 200-day moving average: the short-, medium- and long-term trend.
+- **trend** is a rule-based label: **Up** when the close is above the 50-day average and the 50-day is above the 200-day; **Down** when both are reversed; **Mixed** otherwise. It describes the current trend. It is not a forecast and not a recommendation to buy or sell.
 - Prices are daily closes from Yahoo Finance, adjusted for splits and dividends.
 
 ## Symbol guide
@@ -48,6 +58,7 @@ slightly on a roll date.
 | LQD, HYG | Investment-grade and high-yield corporate bonds |
 | KRE | US regional banks |
 | XLU | US utilities |
+| XLV | US healthcare companies |
 | SMH | Semiconductor companies |
 | GLD, SLV | Physical gold and silver |
 | EEM, FXI, EWJ | Emerging markets, large Chinese companies, and Japan |

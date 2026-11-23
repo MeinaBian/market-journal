@@ -23,7 +23,7 @@ not edited afterwards except to add the score.
 :::
 
 ::: {.callout-note title="The watchlist" icon=false}
-The journal tracks 49 instruments, grouped by what each is sensitive to, so
+The journal tracks 53 instruments, grouped by what each is sensitive to, so
 that every kind of macro event has a clear test case. Daily moves and trend
 measures for all of them are on the [Dashboard](dashboard.qmd).
 
@@ -39,6 +39,7 @@ measures for all of them are on the [Dashboard](dashboard.qmd).
 | Cyclical | CAT, UNP, HD, DAL |
 | Defensive | PG, KO, WMT |
 | Healthcare | XLV, JNJ, LLY, UNH |
+| Space | SPCX, RKLB, ASTS, LUNR |
 | International | EEM, FXI, EWJ |
 
 **How to use the Dashboard.** Start with the macro series to see what rates,

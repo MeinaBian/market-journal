@@ -8,6 +8,12 @@ tickers = pd.read_csv("tickers.csv")
 px = yf.download(tickers["ticker"].tolist(), period="1y", auto_adjust=True)["Close"]
 # keep only days when most tickers traded (drops weekend futures-only rows)
 px = px.dropna(thresh=len(px.columns) // 2).ffill()
+
+# Optional "since" date in tickers.csv: ignore prices before a listing date,
+# for example when a ticker symbol was previously used by another security.
+if "since" in tickers.columns:
+    for ticker, since in tickers.dropna(subset=["since"])[["ticker", "since"]].values:
+        px.loc[px.index < pd.Timestamp(since), ticker] = float("nan")
 px.to_csv("data/prices.csv")
 
 last = px.iloc[-1]

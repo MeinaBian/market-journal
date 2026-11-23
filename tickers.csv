@@ -1,4 +1,4 @@
-ticker,group
+ticker,group,since
 ^TNX,macro
 ^VIX,macro
 DX-Y.NYB,macro
@@ -45,6 +45,10 @@ XLV,healthcare
 JNJ,healthcare
 LLY,healthcare
 UNH,healthcare
+SPCX,space,2026-06-12
+RKLB,space
+ASTS,space
+LUNR,space
 EEM,international
 FXI,international
 EWJ,international

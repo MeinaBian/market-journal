@@ -197,7 +197,7 @@ sensibly, and mistakes were diagnosed correctly.
 
 ## 9. Universe
 
-The watchlist holds 49 instruments, chosen for what they are sensitive to, so
+The watchlist holds 53 instruments, chosen for what they are sensitive to, so
 that each macro shock has a clean test case. The full list is in `tickers.csv`.
 
 | Group | Count | What it tests |
@@ -212,6 +212,7 @@ that each macro shock has a clean test case. The full list is in `tickers.csv`.
 | Cyclical | 4 | Industrials, transport, housing-related retail, airlines |
 | Defensive | 3 | Consumer staples |
 | Healthcare | 4 | Defensive demand with drug-pricing and policy exposure |
+| Space | 4 | Launch, satellite, and lunar companies: long-duration growth with government-contract exposure |
 | International | 3 | Emerging markets, China, Japan |
 
 ## 10. Data and methodology

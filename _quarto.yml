@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Journal
+      - href: case-studies.qmd
+        text: Case studies
       - href: dashboard.qmd
         text: Dashboard
       - href: about.qmd

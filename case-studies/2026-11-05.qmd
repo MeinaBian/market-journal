@@ -1,0 +1,42 @@
+---
+title: "The worst day since April 2025: a policy shock to the AI build-out"
+date: 2026-11-05
+categories: [retrospective, policy, semis, volatility]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- SPY fell 4.41%, QQQ 6.49% and IWM 4.59%.
+- NVDA fell 9.26%, AMD 17.26% and SMH 11.2%. The space group averaged -12.4%.
+- The VIX rose 69.7% to 28.2.
+- Safe assets behaved normally: TLT +0.21%, GLD +0.81%, and the 10-year yield fell to 4.84%.
+
+## Mechanism
+
+**Channel: cash flows and the risk premium, amplified by flows.**
+
+- The midterm elections produced a sweep for the Democrats.
+- Investors feared new regulation of data-center development, which would slow the AI build-out.
+- A slower build-out means lower expected revenue for chipmakers and their suppliers, so those stocks were repriced.
+- A volatility jump of that size typically forces strategies that target a fixed level of risk to cut positions, which would have added to the selling. I have not verified positioning data for this day.
+
+Yields fell on the day and growth stocks still collapsed. That rules out the discount rate as the cause: this was about expected cash flows and uncertainty.
+
+## What happened next
+
+Over the following five trading days SPY recovered 3.3% and QQQ 6.4%, after several brokerages argued that extreme regulation was unlikely. NVDA fell a further 8.5% for reasons specific to the company.
+
+## Lesson
+
+The market priced a risk, not a law. Policy shocks tend to be priced at their worst case on the first day and revised as the realistic range becomes clearer. It is also worth comparing gold here with November 20: on this day gold rose, a normal flight to safety; two weeks later it fell with stocks, which pointed to forced selling.
+
+## Sources
+
+- [Cboe, "Market Swims in a Sea of Red"](https://www.cboe.com/insights/posts/market-swims-in-a-sea-of-red)
+- [investingLive, "Nasdaq 100 suffers worst day since 2020"](https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/)
+- [Reuters via New Straits Times, on the cause and the rebound](https://www.nst.com.my/amp/business/corporate/2026/11/1574335/wall-street-jumps-oil-slide-cools-inflation-worries-nvidia)

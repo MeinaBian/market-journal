@@ -1,0 +1,22 @@
+---
+title: "Case studies"
+subtitle: "Retrospective analysis of the largest market days since June 2026"
+listing:
+  contents: case-studies
+  sort: "date desc"
+  type: table
+  fields: [date, title, categories]
+---
+These studies look back at the largest up and down days since the SpaceX
+listing on June 12, 2026. Each one applies the journal's method to a day whose
+outcome is already known: what moved, which channel drove it, what happened
+over the following five trading days, and what the episode teaches.
+
+::: {.callout-note title="How these differ from journal entries" icon=false}
+Journal entries are written before the outcome is known and carry a scored
+prediction. Case studies are written afterwards, so they contain no
+prediction and are kept out of the scored record. Their purpose is to build
+a library of mechanisms to draw on when writing live entries.
+:::
+
+## Studies

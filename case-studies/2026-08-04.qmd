@@ -1,0 +1,45 @@
+---
+title: "Record highs as oil falls; SpaceX runs up into its first earnings report"
+date: 2026-08-04
+categories: [retrospective, oil, earnings, space]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- SPY rose 1.80% to a record close and QQQ rose 3.40%.
+- Crude oil fell 5.7% to $75.77. TLT gained 0.77% and the 10-year yield ended at 4.63%.
+- SPCX rose 9.43% to $125.33 ahead of its first report as a public company, still below its $135 offer price.
+- Space (+8.1%), semiconductors (+4.9%) and cyclicals (+2.8%) led. Healthcare was the only negative group.
+
+## Mechanism
+
+**Channel: the risk-free rate, plus cash flows from earnings.**
+
+This was the mirror image of July 29.
+
+- Hopes for a deal to reopen the Strait of Hormuz pushed oil lower.
+- Lower oil eased inflation pressure, so bond yields fell.
+- A lower discount rate lifted long-duration equities, and stocks and bonds rose together.
+- Strong results and guidance from industrial and software companies added a cash-flow reason to buy.
+
+**SpaceX: positioning ahead of an event.** The stock rose 9% before the numbers were known, which raised the bar the report had to clear.
+
+## What happened next
+
+SpaceX reported revenue above expectations after the close, but capital spending rose sharply and the stock fell 13.6% the next day. SPY was flat over the following five trading days.
+
+## Lesson
+
+A run-up into an event is a bet on the outcome, and it leaves less room for a good result to be rewarded. The reaction also repeated the July 30 pattern: revenue alone was not enough when spending surprised on the high side.
+
+## Sources
+
+- [Briefing.com, "Tech rally drives fresh record highs"](https://briefing.com/stock-market-update/archive/2026/8/4/tech-rally-drives-fresh-record-highs)
+- [Alliance News, "Shares rise, oil falls on Hormuz deal hopes"](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/new-york-market-close-shares-rise-oil-falls-hormuz-deal-hopes)
+- [Trading Economics, "US Stocks Hit Record Highs as Strong Earnings Fuel Rally"](https://tradingeconomics.com/united-states/stock-market/news/572681)
+- [The Korea Herald, market report for August 5, 2026](https://mbiz.heraldcorp.com/article/10832315)

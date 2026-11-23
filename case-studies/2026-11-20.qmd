@@ -1,0 +1,42 @@
+---
+title: "Nvidia falls 14% on an accounting probe, and gold falls with it"
+date: 2026-11-20
+categories: [retrospective, company-event, risk-premium, flows]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- NVDA fell 14.01% to $125.53. SMH fell 10.6%, QQQ 5.67% and SPY 3.64%.
+- The VIX rose 26.2% to 35.9.
+- Bonds rallied: TLT +1.37%, and the 10-year yield fell to 4.91%.
+- Gold did not: GLD fell 3.67%. Defensives (+1.1%) and healthcare (+0.9%) rose.
+
+## Mechanism
+
+**Channel: the risk premium, amplified by flows.**
+
+- Reuters reported that the SEC was examining Nvidia's accounting.
+- An accounting question makes reported earnings less reliable, so investors demand a higher return to hold the stock.
+- The price fell without any change to revenue forecasts; the company had reported record results three days earlier.
+- Because Nvidia is one of the largest weights in the major indexes, its fall pulled the benchmarks down with it.
+- Gold falling on a day when bonds rose points to investors selling what they could to raise cash.
+
+The gold side of this day is analysed in the journal entry of the same date.
+
+## What happened next
+
+Too recent to assess. The outcome is being tracked in the live journal.
+
+## Lesson
+
+Good earnings do not protect a stock when the question is whether the earnings can be trusted. Also, a safe asset does not always behave like one: in a forced selloff, the most liquid holdings are sold first, whatever their fundamentals.
+
+## Sources
+
+- [The Motley Fool, on the Reuters report and the one-day loss](https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/)
+- [Decrypt, "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting"](https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting)

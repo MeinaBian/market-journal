@@ -1,0 +1,45 @@
+---
+title: "Microsoft +15.5%, Meta -8%: the market prices the return on AI spending"
+date: 2026-07-30
+categories: [retrospective, earnings, cash-flows, semis]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- MSFT rose 15.51%, its largest one-day gain since 2008. META fell 7.95% on the same day.
+- AMD gained 13.0% and SMH 6.9%. SPY rose 1.68% and QQQ 3.30%.
+- Healthcare (-2.4%) and defensives (-1.6%) fell. The VIX dropped 17.3% to 17.1.
+- The 10-year yield ended at 4.66%, slightly higher on the day.
+
+## Mechanism
+
+**Channel: cash flows.**
+
+Two companies in the same industry reported on the same evening and moved in opposite directions.
+
+- Microsoft showed cloud growth above expectations and did not raise its capital spending plans.
+- Meta missed on earnings, raised its spending forecast and reported a sharp fall in free cash flow.
+- The market rewarded evidence that AI spending was turning into revenue, and penalized spending without it.
+- Semiconductors rallied because Microsoft's result supported continued demand for AI hardware.
+- Defensives were sold to fund the move back into growth.
+
+Yields did not fall, so this was not a discount-rate rally. It was driven by earnings.
+
+## What happened next
+
+Over the following five trading days MSFT rose a further 10.8%, META recovered 9.4% and SPY rose 3.6%.
+
+## Lesson
+
+Markets price the surprise relative to expectations, not the level. When a theme is under doubt, the dispersion between companies inside it carries more information than the average. The question the market asked of AI spending that day was specific: where is the revenue?
+
+## Sources
+
+- [Xinhua via The Star, "U.S. stocks advance as tech shares rebound"](https://www.thestar.com.my/news/world/2026/07/31/us-stocks-advance-as-tech-shares-rebound)
+- [Trading Economics, "US Stocks Rebound as Chipmakers Rally"](https://tradingeconomics.com/united-states/stock-market/news/571337)
+- [ShareCast via Hargreaves Lansdown, US close for July 30, 2026](https://www.hl.co.uk/shares/stock-market-news/market-reports/us-close-stocks-higher-as-big-tech-earnings-take-centre-stage)

@@ -1,0 +1,44 @@
+---
+title: "Intel's worst day since 1974 turns AI-spending doubts into a sector selloff"
+date: 2026-10-30
+categories: [retrospective, earnings, semis, cash-flows]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- QQQ fell 3.47% and SPY 1.77%.
+- AMD fell 10.88%, SMH 6.98% and NVDA 4.22%. The space group averaged -6.8%.
+- Defensives (+1.3%) and healthcare (+0.5%) rose. TLT gained 0.43% and the 10-year yield ended at 4.93%.
+- GLD fell 3.47%. The VIX rose 12.9% to 19.4.
+
+## Mechanism
+
+**Channel: cash flows.**
+
+- Intel fell 28.6% after its results, and Amazon's report added to concern about the cost of AI infrastructure.
+- Investors questioned whether the industry's capital spending would earn an adequate return.
+- That doubt was applied to the whole hardware supply chain, so semiconductors were repriced together.
+- Money rotated into defensives and bonds, which is an orderly move away from one theme, not a rush for cash.
+
+The dispersion inside the sector is informative: NVDA fell less than half as much as AMD, so investors were still ranking companies and not selling the group indiscriminately.
+
+**Open question.** Gold fell 3.5% on a day when bonds rose. A safe asset falling alongside equities can indicate selling to cover losses elsewhere. I would need positioning data to confirm it.
+
+## What happened next
+
+Over the following five trading days QQQ fell a further 5.0%, NVDA 8.8% and AMD 11.0%. The selling continued.
+
+## Lesson
+
+Compare this with July 29. A geopolitical shock reversed within days because the feared event did not happen. A repricing based on doubts about cash flows persisted, because nothing arrived to answer the doubt. The cause of a selloff says a lot about how long it lasts.
+
+## Sources
+
+- [Reuters via Virginia Business, "Wall Street closes sharply lower as AI cash burn fears spark tech selloff"](https://virginiabusiness.com/wall-street-lower-ai-cash-burn-tech-selloff/)
+- [Reuters via Honolulu Star-Advertiser, market report for October 30, 2026](https://www.staradvertiser.com/2026/10/30/breaking-news/tech-stocks-tumble-as-amazon-intel-fuel-ai-spending-fears/)
+- [Alliance News, "Nasdaq slides 2.9% as tech earnings disappoint"](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/nasdaq-slides-29-tech-earnings-disappoint)

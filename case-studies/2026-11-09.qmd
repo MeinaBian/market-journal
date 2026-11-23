@@ -1,0 +1,44 @@
+---
+title: "A rebound without its leader: the market gains 2.4% while Nvidia falls 4.3%"
+date: 2026-11-09
+categories: [retrospective, company-event, semis, oil]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- SPY rose 2.37%, QQQ 3.54% and IWM 3.23%.
+- AMD gained 13.26% and the space group averaged +11.5%.
+- NVDA fell 4.27% to $178.67, the only large semiconductor name to decline.
+- Crude oil fell 4.4% to $86.85 and the VIX dropped 22.3% to 19.9.
+
+## Mechanism
+
+**The market: the risk-free rate and a falling risk premium.**
+
+- Oil fell, which eased inflation concern.
+- Analysts argued the previous week's selloff had overstated the regulatory risk.
+- Buyers returned to the names that had fallen most.
+
+**Nvidia: company-specific risk premium.**
+
+- The company said it was examining claims of a foreign intelligence effort connected to its chief executive.
+- That raised governance and key-person risk for one company only.
+- Investors demanded a higher return to hold it, so it fell while its peers rallied.
+
+## What happened next
+
+Over the following five trading days NVDA fell a further 12.6% as the chief executive resigned, while SPY lost 1.7%.
+
+## Lesson
+
+When the leading stock of a sector diverges from the sector on company news, the divergence is the information. Governance events are rarely resolved in one disclosure, so the first day's move is usually not the full repricing.
+
+## Sources
+
+- [Reuters via New Straits Times, "Wall Street jumps as oil slide cools inflation worries; Nvidia slumps"](https://www.nst.com.my/amp/business/corporate/2026/11/1574335/wall-street-jumps-oil-slide-cools-inflation-worries-nvidia)
+- [Associated Press via WDBO, market report for November 9, 2026](https://www.wdbo.com/news/business/asian-markets-bounce/6VLPQPLJR47XHNETGRO33ZIGMY/)

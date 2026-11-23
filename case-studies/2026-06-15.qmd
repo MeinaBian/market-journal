@@ -1,0 +1,48 @@
+---
+title: "SpaceX adds 20% on its second day as an Iran deal lifts risk assets"
+date: 2026-06-15
+categories: [retrospective, flows, space, geopolitics]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- SPCX rose 19.6% to $192.50, about 43% above its $135 offer price, on its second day of trading.
+- SPY gained 1.76% and QQQ 3.14%. The space group averaged +7.3% (RKLB +6.7%) and semiconductors +4.4%.
+- Crude oil fell 4.9% to $80.75 and XOM lost 4.1%. The VIX fell 8.4% to 16.2.
+- Defensive and healthcare groups were slightly negative.
+
+## Mechanism
+
+Two separate things happened on the same day.
+
+**SpaceX: the flows channel.**
+
+- Only about 5% of the company was sold in the offering, so the tradable supply was small.
+- Index providers had announced fast inclusion, so funds that track those indexes were expected to become forced buyers.
+- Heavy retail demand met that small supply, and the price rose without any new information about cash flows.
+
+**The broad market: the risk premium channel.**
+
+- A reported US-Iran deal lowered the odds of an oil supply disruption.
+- Oil fell, which eased inflation pressure and lowered the premium investors demanded for risk.
+- Energy producers fell with oil while growth and semiconductor names led.
+
+## What happened next
+
+Over the following five trading days SPCX fell 18.9%, QQQ fell 4.0% and SPY fell 2.6%. SpaceX gave back more than the whole second-day gain within a week.
+
+## Lesson
+
+A price set by scarce supply and forced buyers is not a statement about value. When a move has no cash-flow news behind it, the question to ask is who had to buy and whether they are finished. Peers moved in sympathy on the way up and offered no protection on the way down.
+
+## Sources
+
+- [Bloomberg, "SpaceX Surges for 2nd Day to Add $412 Billion in Value"](https://news.bloomberglaw.com/capital-markets/spacex-shares-rise-set-to-extend-gains-after-record-ipo)
+- [Axios Markets, June 15, 2026](https://www.axios.com/newsletters/axios-markets-b1d5dfd1-1fac-4aec-ba3c-7ec9e89c2768)
+- [Reuters via BNN Bloomberg, index inclusion dates](https://www.bnnbloomberg.ca/investing/2026/06/15/spacex-set-to-extend-rally-after-record-wall-street-debut/)
+- [Stocktwits, market wrap for June 15, 2026](https://stocktwits.com/news-articles/markets/equity/dow-hits-record-high-nasdaq-and-s-and-p-500-jump-on-us-iran-deal-and-space-x-optimism-spcx-nvda-roku-crm-amzn-in-focus/cZKfwt9R73v)

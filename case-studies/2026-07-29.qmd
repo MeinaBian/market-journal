@@ -1,0 +1,43 @@
+---
+title: "An oil shock on a Fed day: stocks and bonds fall together"
+date: 2026-07-29
+categories: [retrospective, oil, rates, geopolitics]
+---
+::: {.callout-note title="Retrospective case study" icon=false}
+Written in November 2026, after the event, as a training exercise. It contains
+no prediction and is not part of the scored record. Price figures come from
+the project data file; news facts are sourced at the end.
+:::
+
+## Observation
+
+- SPY fell 1.54% and QQQ 2.04%. NVDA fell 3.55%.
+- Crude oil rose 6.6% to $84.46. XOM gained 2.4% and the commodity group was the only one clearly positive.
+- Long Treasuries fell too: TLT lost 1.65%. The VIX rose 13.5% to 20.7.
+- The weakest groups were space (-6.4%), semiconductors (-4.2%) and cyclicals (-3.2%, with CAT -6.9%).
+
+## Mechanism
+
+**Channel: the risk-free rate, with a cash-flow effect on cyclicals.**
+
+- An Iranian missile attack on US forces raised the risk of lost oil supply.
+- Oil jumped, which raised expected inflation on the day of a Federal Reserve decision.
+- Higher expected inflation raised the odds of rate increases, so bond prices fell and yields rose.
+- A higher discount rate hit the longest-duration equities hardest: space and semiconductors.
+- Higher fuel and input costs hit cyclicals through their margins.
+
+The signature of an inflation shock is that stocks and bonds fall on the same day. In a growth scare, bonds would have rallied.
+
+## What happened next
+
+Over the following five trading days SPY rose 5.5%, NVDA 15.4% and MSFT 24.8%. Oil eased, and Microsoft's results after that day's close changed the subject.
+
+## Lesson
+
+An oil supply shock can be identified from three things moving together: energy up, bonds down, cyclicals down. It can also fade within days if no supply is actually lost. Before extrapolating a geopolitical move, check whether barrels have been removed from the market or only the fear of it.
+
+## Sources
+
+- [Associated Press via Fortune, market report for July 29, 2026](https://fortune.com/2026/07/29/dow-drops-over-1100-points-as-sinking-tech-stocks-combine-with-jumping-oil-prices-to-drag-markets-down)
+- [Quartz, "The Dow fell 400 points as oil spikes ahead of today's Fed decision"](https://qz.com/dow-drops-oil-spikes-iran-attack-fed-decision-072926)
+- [Briefing.com, stock market update for July 29, 2026](https://briefing.com/stock-market-update/archive/2026/7/29/stocks-move-lower-ahead-of-fomc-decision)

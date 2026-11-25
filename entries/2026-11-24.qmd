@@ -3,10 +3,6 @@ title: "The relief rally fades: a rotation out of AI as the Dow passes 50,000"
 date: 2026-11-24
 categories: [retrospective, rotation, semis, memory, gold]
 ---
-::: {.callout-note title="Written the next day" icon=false}
-This entry was written on November 25, after the following session was known. It analyses Tuesday, November 24 in hindsight, carries no scored prediction, and is excluded from the scored record.
-:::
-
 ## Observation
 <!-- WHAT happened. Numbers only, no opinions. -->
 

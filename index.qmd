@@ -18,12 +18,11 @@ Every entry takes one market move and follows the same four steps.
 3. **Prediction.** What I expect next: one testable statement with a deadline, a probability, and the result that would prove it wrong.
 4. **Scoring.** Completed when the deadline arrives: whether the call was right, and which link in the reasoning held or broke.
 
-**Live and retrospective entries.** Entries dated November 20, 2026 or later
-are live: each prediction is published before its outcome is known, and the
-entry is not edited afterwards except to add the score. Entries dated earlier
-are retrospective: they were written in November 2026 to practise the method
-on the largest market days since June, are labelled as written in hindsight,
-and are excluded from the scored record.
+**Live and retrospective entries.** A live entry carries a prediction that is
+published before its outcome is known, and it is not edited afterwards except
+to add the score. Entries tagged `retrospective` analyse a day after the fact
+to practise the method. They are excluded from the scored record, which begins
+with the entry of November 20, 2026.
 :::
 
 ::: {.callout-note title="The watchlist" icon=false}

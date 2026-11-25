@@ -3,10 +3,6 @@ title: "The day Huang returned: a 31% rebound in Nvidia and what it did to every
 date: 2026-11-23
 categories: [retrospective, company-event, risk-premium, semis, gold, dollar]
 ---
-::: {.callout-note title="Written two sessions later" icon=false}
-This entry was written on November 25, after the next two sessions were known. It analyses Monday, November 23 in hindsight, carries no scored prediction, and is excluded from the scored record.
-:::
-
 ## Observation
 <!-- WHAT happened. Numbers only, no opinions. -->
 

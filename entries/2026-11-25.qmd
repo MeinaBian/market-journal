@@ -1,0 +1,262 @@
+---
+title: "Hot inflation, new tariffs, and an AI selloff: the three days before Thanksgiving"
+date: 2026-11-25
+categories: [inflation, rates, tariffs, semis, gold, dollar, oil]
+---
+Written on the afternoon of Wednesday, November 25, before the close and before the Thanksgiving holiday. It covers Monday to Wednesday. The analysis and the prediction were written before Wednesday's close; the figures in the table were updated to closing prices afterwards.
+
+## Observation
+<!-- WHAT happened. Numbers only, no opinions. -->
+
+### The three sessions
+
+| | Monday, Nov 23 | Tuesday, Nov 24 | Wednesday, Nov 25 |
+|---|---|---|---|
+| **News** | Nvidia reinstated Jensen Huang as chief executive | Memory downgrade (Micron); rate-increase worries return | Hot PCE, GDP revised up, new tariff proposals |
+| **Nvidia** | +31.5% to $165.05 | -5.9% to $155.38 | -3.9% to $149.30 |
+| **Benchmarks** | SPY +4.7%, QQQ +7.0% | SPY -0.5%, QQQ -2.0%; Dow above 50,000 for the first time | SPY -0.3%, QQQ -0.7%, after the Nasdaq fell more than 4% near the open |
+| **Semiconductors** | group +14.1% | group -6.0%; SMH -7.3% | group -1.8%; SMH -1.0% |
+| **Memory** | Micron about +19% | Micron -11% | Micron about -9.5% near $570 (my app showed a low near $548); SKHY near $105, close to its 52-week low of $102.45 |
+| **Space** | group +8.8% | group -7.4% | group +4.0%, led by ASTS +10% |
+| **Defensive / healthcare** | +0.1% / +0.3% | +1.9% / +2.7% | +0.1% / -0.3% |
+| **10-year yield** | 4.92% | 4.90% | 4.85% |
+| **TLT (long Treasury fund)** | +0.3% | -0.2% | +0.9% |
+| **Dollar index** | +0.5% to 104.32 | -0.5% to 103.81 | -0.1% to 103.69 |
+| **Gold (GLD)** | +3.1% | -2.3% | new 52-week low for gold in the morning, then +0.6% to $327.51 |
+| **Oil (WTI)** | -4.5% to $80.17 | +2.4% to $82.05 | +2.5% to $84.06 |
+| **VIX** | -25.8% to 26.6 | 26.4 | +6.0% to 27.9 |
+
+Monday is analysed in the [entry of November 23](2026-11-23.qmd) and Tuesday in the [entry of November 24](2026-11-24.qmd).
+
+Also on Wednesday: CoreWeave and Nebius each fell by double digits. Outside AI the market rose: small caps (IWM) +0.6%, cyclicals +0.9%, rate-sensitive shares +0.8%, and Treasury bond funds gained.
+
+Over the three sessions, from the November 20 close: Nvidia +18.9%, SMH +5.6%, SPY +3.9%, GLD +1.4%, TLT +1.0%.
+
+### The PCE report in detail
+
+- **What it is.** The personal consumption expenditures price index, published by the Bureau of Economic Analysis. The Federal Reserve's 2% inflation goal is defined on this measure.
+- **Headline:** 3.8% over the year in October, up from 3.6% in September.
+- **Core** (excluding food and energy): 3.3% over the year, above the 3.2% forecast and the highest in three years. Core rose 0.3% over the month.
+- **Released with it:** third-quarter GDP revised up to 4.3%.
+- **Why it matters.** Inflation is almost twice the target and rising, and growth is strong. It was the last major inflation release before the Fed decides on December 9, and markets priced a rate increase at above 90%.
+
+### The tariff proposal
+
+- **What was announced.** Proposed tariffs of about 20% on China, the European Union, and 12 other trading partners, following an eight-month investigation into excess manufacturing capacity.
+- **Status.** Proposed, not imposed. There is a public comment period, and January is the earliest start.
+- **Does Congress have to approve?** No. The trade law being used lets the executive branch impose tariffs after an investigation. The risks to the plan are court challenges and legislation from Congress, which would need enough votes to survive a veto.
+- **Background.** The Supreme Court struck down the earlier, broader tariffs in February 2026. Tariffs on China under this older law survived court challenges in the past.
+
+### What I confirmed, and what I refined
+
+**Confirmed by the data**
+
+- Nvidia came back on Monday and has faded since, while keeping most of the gain.
+- Memory stocks are falling hard, and SKHY is near its low.
+- A rate increase is expected.
+- When people rush into Treasuries, the yield goes down.
+- Gold has come back a little: GLD is 1.4% above its November 20 close.
+
+**Refined after checking the numbers**
+
+- Inflation: 2% is the Fed's target. The current reading is 3.8%, which is why a rate increase is expected.
+- TLT: it is a fund holding long Treasuries, so its number is a price. TLT rising means long-term yields falling. The 10-year and the longer maturities moved the same way this week.
+- "Interest rates": there are two. The expected policy rate went up. Market yields on longer bonds went down.
+- Gold's path: it was not a straight recovery. It rose Monday, fell Tuesday, and made a new 52-week low on Wednesday morning before recovering.
+- The dollar: it is at a high level, but it did not rise further after Monday.
+- Tariffs: they were proposed, and are not yet in force.
+
+## Mechanism
+<!-- WHY it happened. Name the channel, then the causal chain. -->
+
+```{=html}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" style="width:100%;max-width:760px;font-family:inherit" role="img" aria-label="How three shocks on November 25 moved rates, equities, Treasuries, the dollar, gold and oil">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5d5c57"/></marker></defs>
+<rect x="0" y="20" width="240" height="72" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1.4"/>
+<text x="10" y="39" font-size="12.5" font-weight="700" fill="#14213d">Inflation and growth data</text>
+<text x="10" y="56" font-size="11.5" fill="#14213d">PCE 3.8%, core 3.3% (3.2% expected)</text>
+<text x="10" y="71" font-size="11.5" fill="#14213d">Q3 GDP revised up to 4.3%</text>
+<rect x="260" y="20" width="240" height="72" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1.4"/>
+<text x="270" y="39" font-size="12.5" font-weight="700" fill="#14213d">Tariff proposals</text>
+<text x="270" y="56" font-size="11.5" fill="#14213d">About 20% on China, EU, 12 others</text>
+<text x="270" y="71" font-size="11.5" fill="#14213d">Proposed, not yet in force</text>
+<rect x="520" y="20" width="240" height="72" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1.4"/>
+<text x="530" y="39" font-size="12.5" font-weight="700" fill="#14213d">AI-specific doubts</text>
+<text x="530" y="56" font-size="11.5" fill="#14213d">Memory downgrades, oversupply fear</text>
+<text x="530" y="71" font-size="11.5" fill="#14213d">Will debt-funded spending pay off?</text>
+<rect x="0" y="142" width="240" height="58" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="10" y="161" font-size="12.5" font-weight="700" fill="#14213d">Expected policy rate</text>
+<rect x="209.6" y="148" width="22.4" height="18" rx="3" fill="#2a78d6"/>
+<text x="220.8" y="161" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">UP</text>
+<text x="10" y="178" font-size="11.5" fill="#14213d">Fed increase on Dec 9 nearly certain</text>
+<rect x="260" y="142" width="240" height="58" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="270" y="161" font-size="12.5" font-weight="700" fill="#14213d">Costs and retaliation risk</text>
+<rect x="469.6" y="148" width="22.4" height="18" rx="3" fill="#2a78d6"/>
+<text x="480.8" y="161" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">UP</text>
+<text x="270" y="178" font-size="11.5" fill="#14213d">Import costs; exporters exposed</text>
+<rect x="520" y="142" width="240" height="58" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="530" y="161" font-size="12.5" font-weight="700" fill="#14213d">Expected AI profits</text>
+<rect x="715.2" y="148" width="36.8" height="18" rx="3" fill="#eb6834"/>
+<text x="733.6" y="161" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">DOWN</text>
+<text x="530" y="178" font-size="11.5" fill="#14213d">Less certain, further away</text>
+<line x1="120.0" y1="92" x2="120.0" y2="140" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="380.0" y1="92" x2="380.0" y2="140" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="640.0" y1="92" x2="640.0" y2="140" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130" y="254" width="500" height="76" rx="5" fill="#f7f6f2" stroke="#14213d" stroke-width="1.4"/>
+<text x="140" y="273" font-size="12.5" font-weight="700" fill="#14213d">Stocks reprice</text>
+<rect x="585.2" y="260" width="36.8" height="18" rx="3" fill="#eb6834"/>
+<text x="603.6" y="273" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">DOWN</text>
+<text x="140" y="290" font-size="11.5" fill="#14213d">AI and semiconductors fall most (Nvidia -3.9%, semiconductor group -1.8%)</text>
+<text x="140" y="305" font-size="11.5" fill="#14213d">Defensive, cyclical and small-cap shares rise; space rebounds (+4.0%)</text>
+<line x1="120.0" y1="200" x2="250" y2="252" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="123.0" y="228.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">higher discount rate</text>
+<line x1="380.0" y1="200" x2="380" y2="252" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="424.0" y="228.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">lower margins</text>
+<line x1="640.0" y1="200" x2="510" y2="252" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="633.0" y="228.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">lower cash flows</text>
+<rect x="0" y="390" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="10" y="409" font-size="12.5" font-weight="700" fill="#14213d">Treasuries</text>
+<rect x="87.0" y="396" width="80.0" height="18" rx="3" fill="#eb6834"/>
+<text x="127.0" y="409" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">YIELD DOWN</text>
+<text x="10" y="426" font-size="11.5" fill="#14213d">Bought for safety:</text>
+<text x="10" y="441" font-size="11.5" fill="#14213d">prices up, TLT +0.9%,</text>
+<text x="10" y="456" font-size="11.5" fill="#14213d">10-year yield down to 4.85%</text>
+<rect x="195" y="390" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="205" y="409" font-size="12.5" font-weight="700" fill="#14213d">US dollar</text>
+<rect x="325.2" y="396" width="36.8" height="18" rx="3" fill="#8a8983"/>
+<text x="343.6" y="409" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">FLAT</text>
+<text x="205" y="426" font-size="11.5" fill="#14213d">High level, but flat (-0.1%):</text>
+<text x="205" y="441" font-size="11.5" fill="#14213d">short rates support it,</text>
+<text x="205" y="456" font-size="11.5" fill="#14213d">lower long yields hold it back</text>
+<rect x="390" y="390" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="400" y="409" font-size="12.5" font-weight="700" fill="#14213d">Gold</text>
+<rect x="462.6" y="396" width="94.4" height="18" rx="3" fill="#8a8983"/>
+<text x="509.79999999999995" y="409" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">LOW, THEN UP</text>
+<text x="400" y="426" font-size="11.5" fill="#14213d">New 52-week low in the</text>
+<text x="400" y="441" font-size="11.5" fill="#14213d">morning, then recovered</text>
+<text x="400" y="456" font-size="11.5" fill="#14213d">as the selling eased</text>
+<rect x="585" y="390" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="595" y="409" font-size="12.5" font-weight="700" fill="#14213d">Oil</text>
+<rect x="729.6" y="396" width="22.4" height="18" rx="3" fill="#2a78d6"/>
+<text x="740.8" y="409" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">UP</text>
+<text x="595" y="426" font-size="11.5" fill="#14213d">Up about 2% a day since</text>
+<text x="595" y="441" font-size="11.5" fill="#14213d">Monday. Higher oil adds</text>
+<text x="595" y="456" font-size="11.5" fill="#14213d">to inflation pressure</text>
+<line x1="250" y1="330" x2="87.5" y2="388" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="130.75" y="359.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">safety bid</text>
+<line x1="340" y1="330" x2="292.5" y2="388" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="430" y1="330" x2="467.5" y2="388" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="504.75" y="359.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">selling, then relief</text>
+<path d="M 175 436 L 195 436" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)" fill="none"/>
+<text x="0" y="550" font-size="11.2" fill="#14213d">Arrows show cause and effect on the day. A higher policy rate also weighs on gold directly and supports the dollar.</text>
+<text x="0" y="567" font-size="11.2" fill="#14213d">The puzzle: hot inflation usually lifts long-term yields. Today the safety bid from falling stocks was stronger, so yields fell.</text>
+<text x="0" y="584" font-size="11.2" fill="#14213d">Two rates moved in opposite directions: the expected policy rate went up, the 10-year market yield went down.</text>
+<text x="0" y="12" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">1. THE NEWS (NOVEMBER 25)</text>
+<text x="150" y="122" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">2. WHAT CHANGES</text>
+<text x="0" y="246" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">3. EQUITIES</text>
+<text x="585" y="378" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">4. WHERE THE MONEY GOES</text>
+<text x="0" y="530" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">HOW TO READ IT</text>
+</svg>
+```
+
+### Three shocks on one day
+
+1. **Inflation and growth data** (risk-free rate channel). Hot core PCE with strong GDP makes a December rate increase close to certain.
+2. **Tariff proposals** (cash flows, and inflation). My reasoning: tariffs raise the cost of imported parts and goods, so profit margins fall, and global companies are hit most. Two things to add: other countries can retaliate against US exporters, and higher import prices feed inflation, which keeps rates high. Semiconductors are exposed on both sides because their supply chains cross many borders.
+3. **AI-specific doubts** (cash flows). Analysts cut their outlook for memory prices and downgraded Micron, on top of the wider question of whether debt-funded AI spending will pay off. My own view is that AI keeps raising demand for memory. The market's worry is about supply and prices, not about demand.
+
+### How the six factors connect
+
+- **Policy rate, up.** Hot inflation raises the expected Fed rate.
+- **AI equities, down.** Their value rests on profits far in the future, so a higher discount rate hurts them most, and AI also had its own bad news. Semiconductors averaged -6.0% on Tuesday and -1.8% on Wednesday.
+- **Space, down then up.** The space group fell 7.4% on Tuesday with the other long-duration names, then rose 4.0% on Wednesday, led by ASTS. Space and AI are the two most volatile groups I track.
+- **Dividend, defensive and cyclical shares, up.** Their cash arrives sooner, so they are less sensitive to the discount rate, and money rotates into them when growth stocks are sold.
+- **Treasuries, bought; long yields, down.** The selloff sends money into bonds for safety. Prices rise, so the 10-year yield falls and TLT rises.
+- **Dollar, flat at a high level.** Higher short-term rates support it. Falling long-term yields hold it back, because foreign investors earn less on US bonds than they did the day before.
+- **Gold, a new low and then a recovery.** Lower yields with higher inflation should lift gold, and that logic is sound for long-term real yields. In the morning two stronger forces worked against it: a higher expected policy rate raises the cost of holding an asset that pays nothing, and investors with stock losses sold gold to raise cash. As stocks recovered, the selling eased and gold ended higher.
+- **Oil, down Monday, up since.** WTI fell 4.5% on Monday and has risen a little over 2% on each day since, to about $84. Rising oil adds to inflation pressure. Monday's fall was a supply story, not a result of the Nvidia news.
+
+### Points to study further
+
+- Hot inflation normally lifts long-term yields. On Wednesday they fell, because the safety bid was stronger. A rising policy rate with a falling long yield also says the market expects tighter policy to slow growth later.
+- Gold rose in the November 5 selloff, fell on November 20 and on Tuesday, and on Wednesday fell and then recovered within the day. Its behaviour seems to depend on whether investors are being forced to sell.
+- Space rose on Wednesday while AI fell. My rule that space follows AI on rate days did not hold, so company news inside the group needs checking.
+- A strong dollar is supposed to weigh on other markets. Korea fell more than 6% on Wednesday, but memory chips led that, not the currency.
+
+## Strategy notes
+<!-- Ideas I am studying for the simulated portfolio. Not recommendations. -->
+
+These are ways a view could be expressed, written down so I can test them on paper first. Each one states the view it depends on and what would make it fail.
+
+| If the view is | One way to express it | What makes it fail |
+|---|---|---|
+| The selling in semiconductors is overdone | A call option on SMH, which limits the loss to the premium | Options are expensive after swings this large; the bounce has to be big enough and soon enough to cover the premium |
+| A rebound is likely but timing is uncertain | A call spread, which costs less than a single call | The gain is capped; still loses if SMH does not rise |
+| Companies with stronger balance sheets will hold up better | A pair: long the stronger name, short the weaker one | On days like Wednesday the whole group moves as one |
+| The rate increase is already priced in | Watch the 2-year yield into December 9 before acting | A larger increase, or a signal of more to come |
+| I do not have a clear view | Smaller size, or no position | Missing a rebound |
+
+My current lean is toward the first row. I have not acted on it in the simulated portfolio.
+
+## Prediction
+<!-- One testable statement, a deadline, a probability, and what proves it wrong. -->
+
+- 55% probability that SMH outperforms SPY from the November 25 close to the December 3 close (five trading days).
+- Reasoning: a great deal of selling has already happened, and this month has twice produced sharp rebounds led by chips.
+- Against: the doubt about AI cash flows is not answered by anything on the calendar before December 9.
+- Wrong if SMH returns less than SPY over that window.
+- Disclosure: I hold positions in AI infrastructure stocks.
+
+## Scoring
+<!-- Leave blank today. Fill in when the deadline arrives. -->
+
+To be scored after the close on December 3.
+
+## Quant research and trading topics
+
+Each topic starts from something the market did that my framework did not fully expect. A research topic turns that surprise into a rule that can be tested on past data before any money is involved. The trading uses are conditional: they describe how the result would be used if the test supports it, and none is a recommendation.
+
+**1. Sensitivity to inflation surprises**
+
+- *Question:* How much does each group move for every tenth of a point by which core inflation beats or misses the forecast?
+- *Why it may matter:* Markets react to the surprise, not the level. Core PCE came in 0.1 above forecast and the Nasdaq opened down more than 4%. Knowing each group's usual reaction separates a normal move from an unusual one.
+- *How I can test it in this journal:* Build a table of PCE and CPI release dates with the forecast and the actual figure. Regress each group's return on that day against the surprise to get an inflation sensitivity for each group.
+- *Trading use, if it holds:* Position sizes and hedges going into a data release.
+
+**2. Overnight moves and intraday recovery**
+
+- *Question:* After a large fall at the open, how often does the market recover during the session?
+- *Why it may matter:* The Nasdaq was down more than 4% near the open and QQQ closed down 0.7%. If bad news is over-priced at the open, the rest of the day leans the other way.
+- *How I can test it in this journal:* Add opening prices to the data script, which the data source already provides. Split each day's return into overnight (previous close to open) and intraday (open to close), and study intraday returns after large overnight gaps.
+- *Trading use, if it holds:* Whether to act at the open or wait: one of the most studied patterns in equities.
+
+**3. When bonds protect a stock portfolio**
+
+- *Question:* In which conditions do Treasuries rise when stocks fall?
+- *Why it may matter:* On Wednesday TLT rose 0.9% as stocks fell, even with hot inflation. In earlier inflation scares, stocks and bonds fell together. The answer decides how much protection bonds give.
+- *How I can test it in this journal:* Compute a rolling 20-day correlation between SPY and TLT, and compare it across days driven by inflation news, growth fears, and company news, using the tags on my entries.
+- *Trading use, if it holds:* The mix of stocks and bonds in a portfolio, which is the first decision an asset allocator makes.
+
+**4. Option prices after a shock**
+
+- *Question:* After the VIX rises above 25, is the volatility that follows higher or lower than options had priced in?
+- *Why it may matter:* It decides whether buying options after a shock is good value. This bears directly on the first row of my strategy notes.
+- *How I can test it in this journal:* Compare the VIX on each such day with the volatility SPY actually realized over the following 21 trading days, using the price file.
+- *Trading use, if it holds:* Choosing between buying an option and holding the underlying fund.
+
+**5. Tariff announcements**
+
+- *Question:* Do stocks react more on the day a tariff is proposed or on the day it takes effect?
+- *Why it may matter:* The tariffs announced on Wednesday are proposals with a January start at the earliest. If most of the reaction comes at the proposal, the later date matters less.
+- *How I can test it in this journal:* List past tariff proposal and effective dates, and compare the returns of semiconductors and international funds on each kind of day.
+- *Trading use, if it holds:* Timing exposure to trade-sensitive groups around known policy dates.
+
+## Sources
+
+- PCE and GDP: Bureau of Economic Analysis release of November 25, 2026, as reported by [Brisk Markets](https://www.briskmarkets.com/blog/core-pce-inflation-hits-3-3-as-dollar-holds-firm/), [FinanceFeeds](https://financefeeds.com/nasdaq-falls-4-as-tariff-proposals-meet-hotter-core-pce/) and [Invezz](https://invezz.com/news/2026/11/25/gold-price-today-fresh-52-week-low-gdp-revised-4-3/).
+- Tariffs: [Yahoo Finance](https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html), [Al Jazeera](https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target), [MS NOW](https://www.ms.now/news/trump-proposes-new-tariffs-on-china-eu-other-u-s-trading-partners).
+- Market moves: [Reuters via Investing.com](https://ca.investing.com/news/economy-news/nasdaq-slides-4-as-ai-selloff-tariff-proposals-rattle-wall-st-4981250), [Stock Titan](https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026), [Trefis](https://www.trefis.com/stock/nvda/articles/629001/did-nvidia-stock-fall-on-its-own/2026-11-25).
+- Yields, dollar, gold: [FXStreet](https://www.fxstreet.com/news/gold-sinks-despite-falling-us-yields-as-core-pce-hits-33-202611251933), [IC Markets](https://www.ic.com/blog/general-market-analysis-25-november-2026-ic/), [Schwab](https://www.schwab.com/learn/story/stock-market-update-open).
+- Memory stocks: [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/11/63626746/micron-stock-falls-as-ubs-cuts-price-target-bnp-paribas-downgrade-weighs), [Invezz](https://invezz.com/news/2026/11/25/micron-sandisk-continue-their-bloodbath-how-long-will-the-pain-continue/), [24/7 Wall St.](https://247wallst.com/investing/2026/11/25/micron-falls-7-as-a-weaker-dram-outlook-and-new-tariffs-hit-memory-stocks-sandisk-drops-7-are-micron-and-memory-stocks-now-a-value-play/).
+- Index and market context: [CommBank / AP](https://www.commbank.com.au/articles/newsroom/2026/11/wall-street-slides-as-nvidia-and-ai-stocks-fall-back.html), [WDBO / ABC](https://www.wdbo.com/news/business/stocks-mixed-wall-street-erases-sharp-decline-nvidia-down-6/IMEQH4UJBMZATO5JOSPBMIMEAA/), [Reuters via MarketScreener](https://www.marketscreener.com/news/wall-street-soars-on-huang-s-return-to-nvidia-treasury-yields-rise-ce7851dadf8ff627).
+- Prices, group averages, yields, the dollar index and oil are from this project's data file.

@@ -1,0 +1,25 @@
+---
+title: "One-line headline: what moved and why"
+date: 2026-11-22
+categories: [gold, rates]
+---
+## Observation
+<!-- WHAT happened. Numbers only, no opinions.
+     The move, the benchmark's move, anything unusual such as volume. -->
+
+
+## Mechanism
+<!-- WHY it happened. Name the channel first:
+     cash flows / risk-free rate / risk premium / flows.
+     Then write the causal chain, one link per line. -->
+
+
+## Prediction
+<!-- WHAT I expect next. One testable statement,
+     a deadline, and a probability. Say what would prove it wrong. -->
+
+
+## Scoring
+<!-- Leave blank today. When the deadline arrives:
+     right or wrong, and which link in the chain broke. -->
+

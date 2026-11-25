@@ -1,25 +1,85 @@
 ---
-title: "One-line headline: what moved and why"
-date: 2026-11-22
-categories: [gold, rates]
+title: "Headline: what moved and why, in one line"
+date: 2026-12-01
+categories: [rates, semis, gold, dollar, oil]
 ---
-## Observation
-<!-- WHAT happened. Numbers only, no opinions.
-     The move, the benchmark's move, anything unusual such as volume. -->
+<!-- DAILY ENTRY TEMPLATE (the structure of the November 25, 2026 entry).
+     How to use: copy this file, name the copy with the date
+     (for example 2026-12-01.qmd), fill in each section, delete these comments.
+     Add "retrospective" to categories if the day is analysed after the fact.
+     House rules: closing prices only; state what was confirmed and what was
+     refined; no note about when the entry was written. -->
 
+## Observation
+<!-- One or two sentences: the session(s) covered and the main event. -->
+
+### The session
+<!-- Numbers only, no opinions. Take them from the Dashboard after running
+     scripts/update_data.py. -->
+
+| Factor | Instrument | Close | 1d % | Note |
+|---|---|---|---|---|
+| Equities | SPY | | | |
+| Equities, growth | QQQ | | | |
+| AI and semiconductors | SMH, NVDA | | | |
+| Space | SPCX, RKLB, ASTS | | | |
+| Rates | 10-year yield (^TNX), TLT | | | |
+| Dollar | DXY | | | |
+| Gold | GLD | | | |
+| Oil | WTI (CL=F) | | | |
+| Volatility | VIX | | | |
+
+### The event in detail
+<!-- The data release, policy news or company event behind the day:
+     actual number, expected number, previous number. -->
+
+### What I confirmed, and what I refined
+<!-- Confirmed: views that the closing prices supported.
+     Refined: points where the data added detail to my first reading. -->
 
 ## Mechanism
-<!-- WHY it happened. Name the channel first:
-     cash flows / risk-free rate / risk premium / flows.
-     Then write the causal chain, one link per line. -->
+<!-- Name the channel first: cash flows / risk-free rate / risk premium / flows. -->
 
+<!-- Cause-and-effect picture: paste the SVG diagram here inside
+     ```{=html} ... ``` -->
+
+### The shocks
+<!-- Each driver of the day, one short paragraph each. -->
+
+### How the six factors connect
+<!-- The causal chain, one link per line:
+     1. rates  2. dollar  3. gold  4. equities and AI  5. space  6. oil -->
+
+### Points to study further
+<!-- Open questions and links in the chain I want to understand better. -->
+
+## Strategy notes
+<!-- Conditional, not recommendations. -->
+
+| If I believe | Then the consistent position is | What would change my mind |
+|---|---|---|
+| | | |
+
+<!-- One line: my current lean, and whether I acted on it in the simulated portfolio. -->
 
 ## Prediction
-<!-- WHAT I expect next. One testable statement,
-     a deadline, and a probability. Say what would prove it wrong. -->
-
+<!-- One testable statement, a deadline and a probability.
+     Example: 55% probability that X closes above Y on DATE.
+     Say what would prove it wrong. Add a disclosure line if I hold a related position. -->
 
 ## Scoring
-<!-- Leave blank today. When the deadline arrives:
-     right or wrong, and which link in the chain broke. -->
+<!-- Leave blank today. Write "Due after the DATE close."
+     When the deadline arrives: right or wrong, and which link in the chain broke. -->
 
+## Quant research and trading topics
+<!-- Two to five topics. For each one: -->
+
+### 1. Topic title
+**What to research.**
+
+**Why.**
+
+**How to do it in this journal.**
+
+## Sources
+<!-- Links to the data releases and news used. Prices: this project's data file. -->

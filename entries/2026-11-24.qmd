@@ -1,0 +1,168 @@
+---
+title: "The relief rally fades: a rotation out of AI as the Dow passes 50,000"
+date: 2026-11-24
+categories: [retrospective, rotation, semis, memory, gold]
+---
+::: {.callout-note title="Written the next day" icon=false}
+This entry was written on November 25, after the following session was known. It analyses Tuesday, November 24 in hindsight, carries no scored prediction, and is excluded from the scored record.
+:::
+
+## Observation
+<!-- WHAT happened. Numbers only, no opinions. -->
+
+### The news
+
+- BNP Paribas cut Micron to neutral and lowered its price target, as forecasts for memory prices weakened.
+- Worries about a December rate increase returned, one day after Nvidia's 31.5% rebound.
+- It was the S&P 500's eighth decline in nine sessions.
+
+### The moves, factor by factor
+
+| Factor | Move on November 24 | Note |
+|---|---|---|
+| **Nvidia** | -5.9% to $155.38 | Gave back part of Monday's gain |
+| **Equity benchmarks** | SPY -0.5%, QQQ -2.0%, IWM +0.5% | The Dow rose 0.9% to its first close above 50,000 |
+| **Semiconductors** | group average -6.0%; SMH -7.3% | AMD -8.9%, AVGO -4.0%, TSM -4.0%; chip stocks fell a median 9% |
+| **Memory** | Micron -11% | The centre of the day's selling |
+| **Space** | group average -7.4% | LUNR -8.4%, ASTS -8.1%, RKLB -7.4%, SPCX -5.7% |
+| **Healthcare** | group average +2.7% | LLY +3.2%, XLV +3.0%, JNJ +2.9% |
+| **Defensive** | group average +1.9% | WMT +2.1%, KO +1.8%, PG +1.7% |
+| **Treasury yields** | 10-year 4.90%, almost unchanged; TLT -0.2% | No rush into bonds |
+| **Dollar index** | -0.5% to 103.81 | Gave back all of Monday's gain |
+| **Gold** | GLD -2.3% to $325.45; spot about $3,550 | Fell even though the dollar weakened |
+| **Oil** | WTI +2.4% to $82.05; Brent +2.4% to $88.78 | Recovered part of Monday's fall |
+| **Volatility (VIX)** | 26.4, little changed | No new fear, despite the losses in AI |
+| **International** | EEM -2.0%, EWJ -0.3%, FXI -0.6% | Chip-heavy markets fell most |
+
+## Mechanism
+<!-- WHY it happened. Name the channel, then the causal chain. -->
+
+```{=html}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 582" style="width:100%;max-width:760px;font-family:inherit" role="img" aria-label="How the fading of the relief rally on November 24 moved equities, yields, the dollar, gold and oil">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5d5c57"/></marker></defs>
+<rect x="0" y="20" width="360" height="60" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1.4"/>
+<text x="10" y="39" font-size="12.5" font-weight="700" fill="#14213d">Memory downgrade</text>
+<text x="10" y="56" font-size="11.5" fill="#14213d">Micron cut to neutral; weaker outlook for memory prices</text>
+<rect x="400" y="20" width="360" height="60" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1.4"/>
+<text x="410" y="39" font-size="12.5" font-weight="700" fill="#14213d">The relief rally fades</text>
+<text x="410" y="56" font-size="11.5" fill="#14213d">Rate-increase worries return; Monday's buyers take profits</text>
+<rect x="0" y="126" width="360" height="58" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="10" y="145" font-size="12.5" font-weight="700" fill="#14213d">Expected AI hardware profits</text>
+<rect x="315.2" y="132" width="36.8" height="18" rx="3" fill="#eb6834"/>
+<text x="333.6" y="145" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">DOWN</text>
+<text x="10" y="162" font-size="11.5" fill="#14213d">Oversupply fear spreads from memory to all chips</text>
+<rect x="400" y="126" width="360" height="58" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="410" y="145" font-size="12.5" font-weight="700" fill="#14213d">Positioning</text>
+<rect x="693.6" y="132" width="58.4" height="18" rx="3" fill="#eb6834"/>
+<text x="722.8" y="145" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">SELLING</text>
+<text x="410" y="162" font-size="11.5" fill="#14213d">Profit-taking after a 31% day</text>
+<line x1="180" y1="80" x2="180" y2="124" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="580" y1="80" x2="580" y2="124" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<rect x="130" y="238" width="500" height="76" rx="5" fill="#f7f6f2" stroke="#14213d" stroke-width="1.4"/>
+<text x="140" y="257" font-size="12.5" font-weight="700" fill="#14213d">Rotation, not a broad selloff</text>
+<rect x="556.4" y="244" width="65.6" height="18" rx="3" fill="#8a8983"/>
+<text x="589.2" y="257" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">ROTATION</text>
+<text x="140" y="274" font-size="11.5" fill="#14213d">Semiconductors -6.0%, space -7.4%, Nvidia -5.9%</text>
+<text x="140" y="289" font-size="11.5" fill="#14213d">Healthcare +2.7%, defensives +1.9%; Dow above 50,000 for the first time</text>
+<line x1="200" y1="184" x2="300" y2="236" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="190.0" y="212.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">lower cash flows</text>
+<line x1="560" y1="184" x2="460" y2="236" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="562.0" y="212.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">profit-taking</text>
+<rect x="0" y="374" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="10" y="393" font-size="12.5" font-weight="700" fill="#14213d">Yields</text>
+<rect x="130.2" y="380" width="36.8" height="18" rx="3" fill="#8a8983"/>
+<text x="148.6" y="393" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">FLAT</text>
+<text x="10" y="410" font-size="11.5" fill="#14213d">10-year 4.90%, almost</text>
+<text x="10" y="425" font-size="11.5" fill="#14213d">unchanged: no rush</text>
+<text x="10" y="440" font-size="11.5" fill="#14213d">for safety</text>
+<rect x="195" y="374" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="205" y="393" font-size="12.5" font-weight="700" fill="#14213d">US dollar</text>
+<rect x="325.2" y="380" width="36.8" height="18" rx="3" fill="#eb6834"/>
+<text x="343.6" y="393" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">DOWN</text>
+<text x="205" y="410" font-size="11.5" fill="#14213d">-0.5% to 103.81,</text>
+<text x="205" y="425" font-size="11.5" fill="#14213d">giving back all of</text>
+<text x="205" y="440" font-size="11.5" fill="#14213d">Monday's gain</text>
+<rect x="390" y="374" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="400" y="393" font-size="12.5" font-weight="700" fill="#14213d">Gold</text>
+<rect x="520.2" y="380" width="36.8" height="18" rx="3" fill="#eb6834"/>
+<text x="538.6" y="393" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">DOWN</text>
+<text x="400" y="410" font-size="11.5" fill="#14213d">GLD -2.3%, even with</text>
+<text x="400" y="425" font-size="11.5" fill="#14213d">a weaker dollar and</text>
+<text x="400" y="440" font-size="11.5" fill="#14213d">steady yields</text>
+<rect x="585" y="374" width="175" height="92" rx="5" fill="#ffffff" stroke="#14213d" stroke-width="1"/>
+<text x="595" y="393" font-size="12.5" font-weight="700" fill="#14213d">Oil</text>
+<rect x="729.6" y="380" width="22.4" height="18" rx="3" fill="#2a78d6"/>
+<text x="740.8" y="393" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">UP</text>
+<text x="595" y="410" font-size="11.5" fill="#14213d">WTI +2.4% to $82.05,</text>
+<text x="595" y="425" font-size="11.5" fill="#14213d">recovering part of</text>
+<text x="595" y="440" font-size="11.5" fill="#14213d">Monday's fall</text>
+<line x1="250" y1="314" x2="87.5" y2="372" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="102.75" y="343.0" font-size="10.5" fill="#5d5c57" text-anchor="middle" font-style="italic">money stays in stocks</text>
+<line x1="340" y1="314" x2="292.5" y2="372" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<line x1="430" y1="314" x2="467.5" y2="372" stroke="#5d5c57" stroke-width="1.3" marker-end="url(#ah)"/>
+<text x="0" y="526" font-size="11.2" fill="#14213d">The index barely moved (SPY -0.5%) while the groups inside it moved a lot in opposite directions.</text>
+<text x="0" y="543" font-size="11.2" fill="#14213d">Money rotated between stocks instead of leaving for bonds, which is why yields stayed flat.</text>
+<text x="0" y="560" font-size="11.2" fill="#14213d">Gold fell with no help from the dollar or yields: on this day it traded with the AI names, not as a safe asset.</text>
+<text x="0" y="12" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">1. THE NEWS (NOVEMBER 24)</text>
+<text x="300" y="118" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">2. WHAT CHANGES</text>
+<text x="0" y="230" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">3. EQUITIES</text>
+<text x="600" y="362" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">4. THE OTHER MARKETS</text>
+<text x="0" y="506" font-size="10.5" font-weight="700" fill="#5d5c57" letter-spacing="1.2">HOW TO READ IT</text>
+</svg>
+```
+
+### The chain
+
+- **Cash flows, down for AI hardware.** A weaker outlook for memory prices lowered expected profits for memory makers, and the worry spread to the rest of the chip group.
+- **Flows: profit-taking.** After a 31% day, buyers from Monday sold part of their gains.
+- **Rotation, not flight.** Money moved from AI and space into healthcare and defensive shares. The index barely moved and the VIX was flat, so this was a change of leadership inside the market, not a rush for the exit.
+- **Yields, unchanged.** Because money stayed in stocks, there was no surge of buying in Treasuries.
+- **Dollar, down.** It gave back Monday's gain as the 10-year yield eased slightly.
+- **Gold, down.** It fell 2.3% with a weaker dollar and steady yields, both of which normally help it. On this day gold traded with the AI names, not as a safe asset.
+- **Oil, up.** It recovered part of Monday's fall, for reasons of its own.
+
+### Points to study further
+
+- Space fell more than semiconductors, though the news was about memory chips. The two groups seem to share the same investors more than the same business.
+- Gold has now fallen on a day of forced selling (November 20) and on a day of rotation (November 24). The common factor may be selling by investors who hold both gold and AI stocks.
+
+## What happened next
+
+- **Wednesday, November 25:** hot inflation data and new tariff proposals sent the Nasdaq down more than 4% near the open, but most of the loss was recovered. Semiconductors ended down 1.8% and space rose 4.0%. See the [entry of November 25](2026-11-25.qmd).
+
+## Lesson
+
+A flat index can hide a large move. The information on this day was in the gap between groups, not in the benchmark. I should read the group table on the Dashboard before the headline number.
+
+## Quant research and trading topics
+
+Each topic starts from something the market did that my framework did not fully expect. A research topic turns that surprise into a rule that can be tested on past data before any money is involved. The trading uses are conditional: they describe how the result would be used if the test supports it, and none is a recommendation.
+
+**1. Rotation and dispersion**
+
+- *Question:* When the index is flat but the groups inside it move far apart, does the gap keep widening or close again?
+- *Why it may matter:* On this day SPY fell 0.5% while semiconductors fell 6.0% and healthcare rose 2.7%. A flat index can hide a large trade between groups.
+- *How I can test it in this journal:* From the Dashboard's 11 groups, compute each day's dispersion (the standard deviation of group returns) and a spread (defensive and healthcare minus semiconductors and space). Check whether today's spread predicts the spread over the next one and five days.
+- *Trading use, if it holds:* A long-short position between groups, which does not depend on the direction of the market.
+
+**2. Information crossing time zones**
+
+- *Question:* Does a large move in US memory stocks predict the move in Korean memory stocks at their next session?
+- *Why it may matter:* Micron fell 11% in New York on Tuesday, and SK hynix fell 11% in Seoul on Wednesday. News travels with the clock, and the second market may react too much or too little.
+- *How I can test it in this journal:* Add MU and a Korea fund (EWY) to the watchlist. Regress EWY's next-day return on Micron's return, and compare how much of the move was already priced during US hours.
+- *Trading use, if it holds:* A lead-lag signal between markets, sized by how reliably the second market follows the first.
+
+**3. Relative strength inside a falling group**
+
+- *Question:* Do stocks that fall less than their group on a bad day go on to outperform the group?
+- *Why it may matter:* Nvidia fell 5.9% while other chip stocks fell a median 9%. Holding up better under pressure may signal stronger demand for the stock.
+- *How I can test it in this journal:* Each day, rank the semiconductor tickers by their return minus the group average. Track the next five days' relative return of the top and bottom names.
+- *Trading use, if it holds:* A within-sector pair: the stronger name against the weaker one, which removes most sector risk.
+
+
+## Sources
+
+- Micron and memory: [Benzinga](https://www.benzinga.com/trading-ideas/movers/26/11/63626746/micron-stock-falls-as-ubs-cuts-price-target-bnp-paribas-downgrade-weighs), [Invezz](https://invezz.com/news/2026/11/25/micron-sandisk-continue-their-bloodbath-how-long-will-the-pain-continue/).
+- Market context: [CommBank / AP](https://www.commbank.com.au/articles/newsroom/2026/11/wall-street-slides-as-nvidia-and-ai-stocks-fall-back.html), [Trefis](https://www.trefis.com/stock/nvda/articles/629001/did-nvidia-stock-fall-on-its-own/2026-11-25).
+- Gold and the dollar: [IC Markets](https://www.ic.com/blog/general-market-analysis-25-november-2026-ic/).
+- Prices and group averages are closing figures from this project's data file.
